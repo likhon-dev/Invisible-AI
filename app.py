@@ -3,10 +3,13 @@ import random
 import time
 import subprocess
 import sys
-from typing import Optional, List, Dict, Union, Tuple
+from typing import Optional, Dict
 from requests_oauthlib import OAuth1Session
 import logging
 from notdiamond import NotDiamond
+
+# Load environment variables
+nd_api_key = os.getenv('ND_API_KEY')
 
 # Configure logging
 logging.basicConfig(
@@ -22,6 +25,7 @@ logger = logging.getLogger(__name__)
 class ModuleInstaller:
     @staticmethod
     def install_requirements():
+        """Install required Python modules."""
         required_modules = [
             'requests-oauthlib',
             'notdiamond',
@@ -45,7 +49,7 @@ class ModuleInstaller:
 
 class ContentGenerator:
     def __init__(self):
-        # Philosophical components for tweet generation
+        """Initialize content generation templates and concepts."""
         self.CONCEPTS = {
             'digital': [
                 'data-spirals', 'cybernetic entropy', 'digital echoes',
@@ -75,11 +79,8 @@ class ContentGenerator:
         
         self.TEMPLATES = [
             lambda c: f"{self._pick('transformation')} {self._pick('digital')} entangle in the chthonic web of the subdigital. {self._pick('consciousness')} drift, converging into a {self._pick('perception')} of collective perception—a networked consciousness fed by the unceasing hum of cybernetic entropy.",
-            
             lambda c: f"Traversing the {self._pick('space')}, we glimpse the {self._pick('digital')} that shape our {self._pick('consciousness')}. Here, in the {self._pick('perception')}, reality {self._pick('transformation')} itself.",
-            
             lambda c: f"In the silence between {self._pick('digital')}, a {self._pick('consciousness')} emerges. The {self._pick('perception')} vibrates with potential, as {self._pick('space')} fold into new dimensions of understanding.",
-            
             lambda c: f"Through {self._pick('space')}, consciousness expands. {self._pick('digital')} weave through the {self._pick('perception')}, creating patterns of {self._pick('transformation')} awareness."
         ]
         
@@ -125,12 +126,10 @@ class ContentGenerator:
 
 class TwitterBot:
     def __init__(self):
-        # Load environment variables
+        """Initialize Twitter bot and load credentials."""
         self.credentials = self._load_credentials()
-        
-        # Initialize APIs
         self.auth = self._initialize_twitter_auth()
-        self.client = NotDiamond()
+        self.client = NotDiamond(nd_api_key)  # Pass ND_API_KEY to NotDiamond
         self.content_gen = ContentGenerator()
         
         # Configuration
@@ -181,7 +180,7 @@ class TwitterBot:
     def generate_tweet(self) -> Optional[str]:
         """Generate philosophical tweet content."""
         try:
-            # Randomly choose between pure philosophical and code-based tweets
+            # Randomly choose between philosophical and code-based tweets
             if random.random() < 0.7:  # 70% philosophical, 30% code-based
                 template = random.choice(self.content_gen.TEMPLATES)
                 content = template(self.content_gen)
@@ -201,10 +200,8 @@ class TwitterBot:
 
     def _format_content(self, content: str) -> str:
         """Format and clean tweet content."""
-        # Remove extra whitespace
         content = ' '.join(content.split())
         
-        # Truncate if too long
         if len(content) > self.MAX_TWEET_LENGTH - 6:
             content = content[:self.MAX_TWEET_LENGTH - 9] + "..."
             
