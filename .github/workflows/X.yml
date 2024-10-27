@@ -30,7 +30,6 @@ jobs:
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
-          ND_API_KEY: ${{ secrets.ND_API_KEY }}  # Ensure this matches your secret
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # If needed
         run: |
           python app.py 
