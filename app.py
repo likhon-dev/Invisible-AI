@@ -28,7 +28,7 @@ auth = OAuth1Session(
 def generate_tweet(prompt="Generate a short, engaging tweet about AI advancements"):
     try:
         response = openai.Completion.create(
-            engine="text-davinci-003",  # You can use other models like 'gpt-4' if available
+            engine="text-davinci-edit-001",  # You can use other models like 'gpt-4' if available
             prompt=prompt,
             max_tokens=50,             # Adjust the length as needed
             temperature=0.7            # Controls creativity; higher values make responses more random
