@@ -8,6 +8,9 @@ from requests_oauthlib import OAuth1Session
 import logging
 from notdiamond import NotDiamond
 
+# Directly set the ND_API_KEY here
+nd_api_key = "sk-bc0236069724d32f4f06deb0cd8a217c52a9c7724b33195a"  # Hardcoded API Key
+
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
@@ -18,6 +21,31 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(__name__)
+
+class ModuleInstaller:
+    @staticmethod
+    def install_requirements():
+        """Install required Python modules."""
+        required_modules = [
+            'requests-oauthlib',
+            'notdiamond',
+            'requests'
+        ]
+        
+        for module in required_modules:
+            try:
+                subprocess.check_call([
+                    sys.executable, 
+                    '-m', 
+                    'pip', 
+                    'install', 
+                    '--upgrade',
+                    module
+                ])
+                logger.info(f"Successfully installed {module}")
+            except subprocess.CalledProcessError as e:
+                logger.error(f"Failed to install {module}: {str(e)}")
+                raise
 
 class ContentGenerator:
     def __init__(self):
@@ -57,9 +85,9 @@ class ContentGenerator:
         ]
         
         self.CODE_TEMPLATES = [
-            self._generate_bash_wisdom,
-            self._generate_python_wisdom,
-            self._generate_cryptic_function
+            lambda: self._generate_bash_wisdom(),
+            lambda: self._generate_python_wisdom(),
+            lambda: self._generate_cryptic_function()
         ]
 
     def _pick(self, category: str) -> str:
@@ -101,7 +129,7 @@ class TwitterBot:
         """Initialize Twitter bot and load credentials."""
         self.credentials = self._load_credentials()
         self.auth = self._initialize_twitter_auth()
-        self.client = NotDiamond(os.getenv('ND_API_KEY'))  # Pass ND_API_KEY to NotDiamond
+        self.client = NotDiamond(nd_api_key)  # Use the hardcoded ND_API_KEY
         self.content_gen = ContentGenerator()
         
         # Configuration
@@ -109,6 +137,13 @@ class TwitterBot:
         self.MAX_TWEET_LENGTH = 280
         self.RATE_LIMIT_DELAY = 60
         self.last_tweet_time = None
+        
+        self.MODELS = [
+            'openai/gpt-4o',
+            'openai/gpt-4o-mini',
+            'anthropic/claude-3-5-sonnet-20240620',
+            'perplexity/llama-3.1-sonar-large-128k-online'
+        ]
 
     def _load_credentials(self) -> Dict[str, str]:
         """Load and validate Twitter API credentials."""
@@ -145,9 +180,8 @@ class TwitterBot:
     def generate_tweet(self) -> Optional[str]:
         """Generate philosophical tweet content."""
         try:
-            tweet_type = random.choices(['philosophical', 'code'], weights=[0.7, 0.3], k=1)[0]
-            
-            if tweet_type == 'philosophical':
+            # Randomly choose between philosophical and code-based tweets
+            if random.random() < 0.7:  # 70% philosophical, 30% code-based
                 template = random.choice(self.content_gen.TEMPLATES)
                 content = template(self.content_gen)
             else:
@@ -193,35 +227,28 @@ class TwitterBot:
             logger.error(f"Error posting tweet: {str(e)}", exc_info=True)
             return False
 
-    def run(self) -> bool:
-        """Main execution flow."""
-        for attempt in range(3):
+    def run(self, retries: int = 3) -> bool:
+        """Main execution flow with retry logic."""
+        for attempt in range(retries):
             try:
-                logger.info(f"Tweet attempt {attempt + 1} of 3")
+                logger.info(f"Tweet attempt {attempt + 1}/{retries}")
+                content = self.generate_tweet()
                 
-                tweet_content = self.generate_tweet()
-                if not tweet_content:
-                    continue
-                    
-                if self.post_tweet(tweet_content):
-                    return True
-                    
+                if content:
+                    if self.post_tweet(content):
+                        return True
+                
+                time.sleep(2)  # Short wait before retrying
             except Exception as e:
-                logger.error(f"Error in run attempt {attempt + 1}: {str(e)}", exc_info=True)
-                
-            if attempt < 2:
-                time.sleep(30)
-                
+                logger.error(f"Unexpected error in run: {str(e)}", exc_info=True)
+                time.sleep(2)  # Short wait before retrying
+        
+        logger.error("Failed to post tweet after multiple attempts")
         return False
 
 if __name__ == "__main__":
-    try:
-        # Initialize and run bot
-        bot = TwitterBot()
-        success = bot.run()
-        exit_code = 0 if success else 1
-        sys.exit(exit_code)
-    except Exception as e:
-        logger.critical(f"Fatal error in main: {str(e)}", exc_info=True)
-        sys.exit(1)
+    # Check if required modules are installed
+    ModuleInstaller.install_requirements()
 
+    bot = TwitterBot()
+    bot.run()
