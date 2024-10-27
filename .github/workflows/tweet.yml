@@ -82,6 +82,7 @@ jobs:
         CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
         CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ND_API_KEY: ${{ secrets.ND_API_KEY }}  # Add ND_API_KEY here
         DEBUG_MODE: ${{ inputs.debug-mode }}
       run: |
         echo "::group::Starting Twitter Bot"
