@@ -1,6 +1,6 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-27 20:05:19 UTC
+**Last updated:** 2024-10-27 20:06:05 UTC
 
 ## Live Prices
 - **Bitcoin (BTC)**: $67766 USD
@@ -14,80 +14,80 @@
   - 24h Change: 0.2978723903582337%
 
 ## Trending Coins
-- **KLAUS (KLAUS)**
-  - Market Cap Rank: 988
-  - Price (BTC): 3.5038039457512303e-07
-  - [More Info](https://www.coingecko.com/en/coins/klaus)
-
 - **TARS AI (TAI)**
   - Market Cap Rank: 630
-  - Price (BTC): 1.8891465586199463e-06
+  - Price (BTC): 1.8901563524856853e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 130
-  - Price (BTC): 9.098779045759375e-06
+  - Price (BTC): 9.10688028531705e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 63
-  - Price (BTC): 2.2219310327372342e-05
+  - Market Cap Rank: 61
+  - Price (BTC): 2.248639139996925e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 302
-  - Price (BTC): 2.2480001386170093e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Raydium (RAY)**
+  - Market Cap Rank: 85
+  - Price (BTC): 5.187520366132253e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 161
-  - Price (BTC): 6.877483015481234e-06
+  - Price (BTC): 6.893513927311981e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 86
-  - Price (BTC): 5.130722741371001e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 674
-  - Price (BTC): 7.8610190486784e-11
+  - Market Cap Rank: 673
+  - Price (BTC): 7.872225725838106e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.5630109861919313e-05
+  - Price (BTC): 2.5628915561544e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **AI Companions (AIC)**
-  - Market Cap Rank: 483
-  - Price (BTC): 1.3916142314857327e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 302
+  - Price (BTC): 2.253750175649992e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 292
-  - Price (BTC): 2.834346996719591e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 101
-  - Price (BTC): 1.2251307118161106e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 307
-  - Price (BTC): 5.4976822238978974e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 276
-  - Price (BTC): 3.0667147254893197e-06
-  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+- **Nosana (NOS)**
+  - Market Cap Rank: 198
+  - Price (BTC): 6.040206899369589e-05
+  - [More Info](https://www.coingecko.com/en/coins/nosana)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.5085913860394509e-05
+  - Price (BTC): 1.5064273348181023e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Luna by Virtuals (LUNA)**
+  - Market Cap Rank: 283
+  - Price (BTC): 3.013006182180215e-06
+  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 292
+  - Price (BTC): 2.8377419312396456e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 307
+  - Price (BTC): 5.5015093193673496e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0026129782030497144
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.796826260843603e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
