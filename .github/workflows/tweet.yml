@@ -1,141 +1,36 @@
-name: Twitter Bot Scheduler
+name: Twitter Bot Workflow
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:  # Allows manual trigger
-    inputs:
-      debug-mode:
-        description: 'Run in debug mode'
-        required: false
-        default: false
-        type: boolean
-
-env:
-  PYTHON_VERSION: '3.9'
-  POETRY_VERSION: '1.7.1'
+  push:
+    branches:
+      - main  # Adjust this if your default branch is named differently
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  post-tweets:
+  run_twitter_bot:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      
-    strategy:
-      fail-fast: false  # Continue with other Python versions if one fails
-      matrix:
-        python-version: ['3.9']
-    
+
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 1
-        lfs: true  # Enable Git LFS if needed
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v5
-      with:
-        python-version: ${{ matrix.python-version }}
-        cache: 'pip'
-        cache-dependency-path: |
-          **/requirements.txt
-          **/requirements/*.txt
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'  # Adjust to your desired Python version
 
-    - name: Setup timezone
-      uses: zcong1993/setup-timezone@master
-      with:
-        timezone: UTC
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests-oauthlib notdiamond requests
 
-    # Cache pip dependencies
-    - name: Cache pip packages
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-
-    - name: Install system dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y git curl build-essential
-
-    - name: Install Python dependencies
-      run: |
-        python -m pip install --upgrade pip setuptools wheel
-        python -m pip install requests requests_oauthlib openai==0.28
-        python -m pip install notdiamond[create]
-      env:
-        PIP_NO_CACHE_DIR: false
-        PIP_DISABLE_PIP_VERSION_CHECK: 1
-
-    - name: Verify dependencies
-      run: |
-        python -c "import requests; import requests_oauthlib; import openai; import notdiamond" || exit 1
-        pip list
-
-    - name: Run Twitter Bot
-      env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
-        CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
-        CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ND_API_KEY: ${{ secrets.ND_API_KEY }}  # Add ND_API_KEY here
-        DEBUG_MODE: ${{ inputs.debug-mode }}
-      run: |
-        echo "::group::Starting Twitter Bot"
-        echo "Starting Twitter bot execution at $(date)"
-        
-        # Run with error handling
-        if python app.py; then
-          echo "Twitter bot executed successfully"
-          exit 0
-        else
-          ERROR_CODE=$?
-          echo "Twitter bot execution failed with error code: ${ERROR_CODE}"
-          
-          # Collect diagnostic information if in debug mode
-          if [[ "${{ inputs.debug-mode }}" == "true" ]]; then
-            echo "Debug information:"
-            python --version
-            pip list
-            df -h
-            free -h
-          fi
-          
-          exit ${ERROR_CODE}
-        fi
-      continue-on-error: false
-      
-    - name: Upload logs
-      if: always()  # Run even if previous steps failed
-      uses: actions/upload-artifact@v3
-      with:
-        name: bot-logs
-        path: |
-          *.log
-          !node_modules/**/*.log
-        retention-days: 7
-
-    - name: Error notification
-      if: failure()
-      run: |
-        echo "::error::Twitter Bot execution failed. Check the logs for details."
-
-    - name: Cleanup
-      if: always()
-      run: |
-        echo "Cleaning up temporary files..."
-        rm -rf /tmp/*
-        echo "Cleanup completed"
-
-    - name: Job Summary
-      if: always()
-      run: |
-        echo "## Twitter Bot Execution Summary" >> $GITHUB_STEP_SUMMARY
-        echo "* Run ID: ${{ github.run_id }}" >> $GITHUB_STEP_SUMMARY
-        echo "* Triggered by: ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
-        echo "* Execution time: $(date)" >> $GITHUB_STEP_SUMMARY
-        echo "* Status: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+      - name: Run Twitter Bot
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+          ND_API_KEY: ${{ secrets.ND_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # If needed
+        run: |
+          python your_script.py  # Replace with the name of your Python script
