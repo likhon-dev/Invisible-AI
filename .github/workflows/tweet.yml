@@ -30,12 +30,11 @@ jobs:
         pip install openai
     - name: Run Twitter Bot
       env:
-        CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
-        CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
-        ACCESS_TOKEN2: ${{ secrets.ACCESS_TOKEN2 }}
-        ACCESS_SECRET2: ${{ secrets.ACCESS_SECRET2 }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+          CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+          CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: |
         echo "Starting Twitter bot execution"
         python app.py || echo "Twitter bot execution failed"
