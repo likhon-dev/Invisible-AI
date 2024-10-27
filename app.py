@@ -8,8 +8,12 @@ from requests_oauthlib import OAuth1Session
 import logging
 from notdiamond import NotDiamond
 
-# Load ND_API_KEY from environment variable
+# Load environment variables from repository secrets
 nd_api_key = os.getenv("NOT_DIAMOND_API_KEY")
+access_token = os.getenv("ACCESS_TOKEN")
+access_token_secret = os.getenv("ACCESS_TOKEN_SECRET")
+consumer_key = os.getenv("CONSUMER_KEY")
+consumer_secret = os.getenv("CONSUMER_SECRET")
 
 # Configure logging
 logging.basicConfig(
