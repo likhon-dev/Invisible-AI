@@ -33,4 +33,4 @@ jobs:
           ND_API_KEY: ${{ secrets.ND_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}  # If needed
         run: |
-          python your_script.py  # Replace with the name of your Python script
+          python app.py  # Replace with the name of your Python script
