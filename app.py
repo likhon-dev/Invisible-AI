@@ -111,7 +111,6 @@ class ContentGenerator:
         return "{self._pick('transformation')} consciousness emerges"
     else:
         return "Realign with the {self._pick('digital')}"
-"""
 
     def _generate_cryptic_function(self) -> str:
         """Generate a cryptic mathematical function."""
