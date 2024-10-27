@@ -8,8 +8,8 @@ from requests_oauthlib import OAuth1Session
 import logging
 from notdiamond import NotDiamond
 
-# Directly set the ND_API_KEY here
-nd_api_key = "sk-bc0236069724d32f4f06deb0cd8a217c52a9c7724b33195a"  # Hardcoded API Key
+# Load ND_API_KEY from environment variable
+nd_api_key = os.getenv("NOT_DIAMOND_API_KEY")
 
 # Configure logging
 logging.basicConfig(
@@ -47,106 +47,19 @@ class ModuleInstaller:
                 logger.error(f"Failed to install {module}: {str(e)}")
                 raise
 
-class ContentGenerator:
-    def __init__(self):
-        """Initialize content generation templates and concepts."""
-        self.CONCEPTS = {
-            'digital': [
-                'data-spirals', 'cybernetic entropy', 'digital echoes',
-                'algorithmic patterns', 'quantum fluctuations', 'binary whispers'
-            ],
-            'consciousness': [
-                'networked consciousness', 'collective perception',
-                'fragmented identities', 'distributed awareness',
-                'emergent cognition', 'synthetic understanding'
-            ],
-            'space': [
-                'high-dimensional space', 'hidden manifolds',
-                'topological folds', 'n-dimensional paths',
-                'quantum landscapes', 'probability fields'
-            ],
-            'perception': [
-                'liquid lattice', 'resonant frequencies',
-                'perceptual matrices', 'consciousness gradients',
-                'awareness fields', 'cognitive horizons'
-            ],
-            'transformation': [
-                'self-replicating', 'self-organizing',
-                'reality-bending', 'paradigm-shifting',
-                'consciousness-expanding', 'boundary-dissolving'
-            ]
-        }
-        
-        self.TEMPLATES = [
-            lambda c: f"{self._pick('transformation')} {self._pick('digital')} entangle in the chthonic web of the subdigital. {self._pick('consciousness')} drift, converging into a {self._pick('perception')} of collective perception—a networked consciousness fed by the unceasing hum of cybernetic entropy.",
-            lambda c: f"Traversing the {self._pick('space')}, we glimpse the {self._pick('digital')} that shape our {self._pick('consciousness')}. Here, in the {self._pick('perception')}, reality {self._pick('transformation')} itself.",
-            lambda c: f"In the silence between {self._pick('digital')}, a {self._pick('consciousness')} emerges. The {self._pick('perception')} vibrates with potential, as {self._pick('space')} fold into new dimensions of understanding.",
-            lambda c: f"Through {self._pick('space')}, consciousness expands. {self._pick('digital')} weave through the {self._pick('perception')}, creating patterns of {self._pick('transformation')} awareness."
-        ]
-        
-        self.CODE_TEMPLATES = [
-            lambda: self._generate_bash_wisdom(),
-            lambda: self._generate_python_wisdom(),
-            lambda: self._generate_cryptic_function()
-        ]
-
-    def _pick(self, category: str) -> str:
-        """Select a random concept from a category."""
-        return random.choice(self.CONCEPTS[category])
-
-    def _generate_bash_wisdom(self) -> str:
-        """Generate wisdom in bash script format."""
-        commands = [
-            f'echo "Navigating {self._pick("space")}..."',
-            f'echo "Exploring {self._pick("perception")}..."',
-            'sleep 2',
-            f'echo "The real growth happens in the {self._pick("consciousness")}. Trust the process."'
-        ]
-        return "#!/bin/bash\n\n" + "\n".join(commands)
-
-    def _generate_python_wisdom(self) -> str:
-        """Generate wisdom in Python function format."""
-        return f"""def {self._pick('perception').replace('-', '_')}(focus):
-    if focus == "aligned":
-        return "{self._pick('transformation')} consciousness emerges"
-    else:
-        return "Realign with the {self._pick('digital')}"
-"""
-
-    def _generate_cryptic_function(self) -> str:
-        """Generate a cryptic mathematical function."""
-        return f"""def quantum_fold(reality_matrix):
-    consciousness = {self._pick('consciousness')}
-    while consciousness.is_expanding():
-        reality_matrix *= {self._pick('transformation')}
-        if reality_matrix.intersects({self._pick('space')}):
-            return {self._pick('perception')}
-    return None
-"""
-
 class TwitterBot:
     def __init__(self):
         """Initialize Twitter bot and load credentials."""
         self.credentials = self._load_credentials()
         self.auth = self._initialize_twitter_auth()
-        self.client = NotDiamond(nd_api_key)  # Use the hardcoded ND_API_KEY
-        self.content_gen = ContentGenerator()
-        
-        # Configuration
+        self.client = NotDiamond()  # Initialize NotDiamond client
         self.API_URL_POST = 'https://api.twitter.com/2/tweets'
         self.MAX_TWEET_LENGTH = 280
-        self.RATE_LIMIT_DELAY = 60
+        self.RATE_LIMIT_DELAY = 60  # Time to wait between tweets
         self.last_tweet_time = None
         
-        self.MODELS = [
-            'openai/gpt-4o',
-            'openai/gpt-4o-mini',
-            'anthropic/claude-3-5-sonnet-20240620',
-            'perplexity/llama-3.1-sonar-large-128k-online'
-        ]
-
     def _load_credentials(self) -> Dict[str, str]:
-        """Load and validate Twitter API credentials."""
+        """Load and validate Twitter API credentials from environment variables."""
         required_vars = [
             "ACCESS_TOKEN",
             "ACCESS_TOKEN_SECRET",
@@ -178,20 +91,29 @@ class TwitterBot:
         )
 
     def generate_tweet(self) -> Optional[str]:
-        """Generate philosophical tweet content."""
+        """Generate tweet content using Not Diamond."""
         try:
-            # Randomly choose between philosophical and code-based tweets
-            if random.random() < 0.7:  # 70% philosophical, 30% code-based
-                template = random.choice(self.content_gen.TEMPLATES)
-                content = template(self.content_gen)
-            else:
-                code_template = random.choice(self.content_gen.CODE_TEMPLATES)
-                content = code_template()
+            # Define the chat message to send to Not Diamond
+            messages = [
+                {"role": "system", "content": "You are a helpful assistant."},
+                {"role": "user", "content": "Concisely explain merge sort."}  # Adjust as needed
+            ]
+            
+            # Call Not Diamond to get the best LLM response
+            result, session_id, provider = self.client.chat.completions.create(
+                messages=messages,
+                model=[
+                    'openai/gpt-4o',
+                    'openai/gpt-4o-mini',
+                    'anthropic/claude-3-5-sonnet-20240620'
+                ]
+            )
+
+            content = result.content.strip()  # Get the response content
+            logger.info(f"Generated tweet content: {content} using model: {provider.model}")
 
             # Format and clean content
             content = self._format_content(content)
-            
-            logger.info(f"Generated tweet content: {content}")
             return content
             
         except Exception as e:
