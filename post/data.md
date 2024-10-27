@@ -1,17 +1,17 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-27 22:07:55 UTC
+**Last updated:** 2024-10-27 22:09:16 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68054 USD
-  - Market Cap: $1345733954226.78 USD
-  - 24h Volume: $14198152555.519829 USD
-  - 24h Change: 1.3661957345591245%
+- **Bitcoin (BTC)**: $67957 USD
+  - Market Cap: $1341060515722.5095 USD
+  - 24h Volume: $15329099610.043827 USD
+  - 24h Change: 1.212217021865499%
 
-- **Ethereum (ETH)**: $2517.12 USD
-  - Market Cap: $303146701745.944 USD
-  - 24h Volume: $7935584722.220167 USD
-  - 24h Change: 1.1915489361054499%
+- **Ethereum (ETH)**: $2511.58 USD
+  - Market Cap: $301674930790.45 USD
+  - 24h Volume: $8470234962.628196 USD
+  - 24h Change: 0.9575426123436516%
 
 ## Trending Coins
 - **Goatseus Maximus (GOAT)**
