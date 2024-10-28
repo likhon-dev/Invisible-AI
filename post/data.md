@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 22:09:09 UTC
+**Last updated:** 2024-10-28 23:09:09 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70031 USD
-  - Market Cap: $1382160844882.32 USD
-  - 24h Volume: $38382803763.65024 USD
-  - 24h Change: 2.9157930342978733%
+- **Bitcoin (BTC)**: $70032 USD
+  - Market Cap: $1383784246634.089 USD
+  - 24h Volume: $42128126090.58034 USD
+  - 24h Change: 2.687338336892689%
 
-- **Ethereum (ETH)**: $2562.15 USD
-  - Market Cap: $306976530645.2597 USD
-  - 24h Volume: $18358523030.10216 USD
-  - 24h Change: 1.8610799327199965%
+- **Ethereum (ETH)**: $2572.26 USD
+  - Market Cap: $309415461817.4689 USD
+  - 24h Volume: $19154545362.26702 USD
+  - 24h Change: 2.117980325754953%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 296
-  - Price (BTC): 1.0789509645601669e-05
+  - Market Cap Rank: 277
+  - Price (BTC): 1.2401387217176367e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 302
-  - Price (BTC): 2.1625275363959282e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **AI Companions (AIC)**
-  - Market Cap Rank: 455
-  - Price (BTC): 1.4662781520625455e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0025472078772706143
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **TARS AI (TAI)**
-  - Market Cap Rank: 608
-  - Price (BTC): 1.9593244909748936e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 130
-  - Price (BTC): 8.732161442033814e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Kin (KIN)**
-  - Market Cap Rank: 812
-  - Price (BTC): 1.8968693319317979e-10
-  - [More Info](https://www.coingecko.com/en/coins/kin)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.29946706313531e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Tezos (XTZ)**
+  - Market Cap Rank: 124
+  - Price (BTC): 9.285618093317158e-06
+  - [More Info](https://www.coingecko.com/en/coins/tezos)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.466563293883111e-05
+  - Market Cap Rank: 25
+  - Price (BTC): 2.53311386039239e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 182
-  - Price (BTC): 5.503345858209198e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **TARS AI (TAI)**
+  - Market Cap Rank: 616
+  - Price (BTC): 1.9489017837060006e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 281
-  - Price (BTC): 6.390151265854554e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 91
-  - Price (BTC): 4.677339923474867e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 98
-  - Price (BTC): 1.2661752060979245e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 303
+  - Price (BTC): 2.1752889980392042e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 130
+  - Price (BTC): 8.733527349165737e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.2685759640559747e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025569298529021555
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **AI Companions (AIC)**
+  - Market Cap Rank: 460
+  - Price (BTC): 1.4507895352221399e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 284
+  - Price (BTC): 6.403122666673367e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
 - **Scroll (SCR)**
-  - Market Cap Rank: 354
-  - Price (BTC): 1.0388594445833208e-05
+  - Market Cap Rank: 358
+  - Price (BTC): 1.0360289229543648e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3249010317514812e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.2890574005050131e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 361
+  - Price (BTC): 0.0001590515263166123
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 ## Posts
 - **Post ID: 1**
