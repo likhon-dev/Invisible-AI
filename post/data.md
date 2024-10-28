@@ -1,17 +1,17 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 00:05:48 UTC
+**Last updated:** 2024-10-28 00:07:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67931 USD
-  - Market Cap: $1343159899447.2808 USD
-  - 24h Volume: $14005481496.008818 USD
-  - 24h Change: 1.3662342598648365%
+- **Bitcoin (BTC)**: $67958 USD
+  - Market Cap: $1344019968736.2112 USD
+  - 24h Volume: $16296409942.927113 USD
+  - 24h Change: 1.4603432156208354%
 
-- **Ethereum (ETH)**: $2505.29 USD
-  - Market Cap: $301695922535.48914 USD
-  - 24h Volume: $8732625436.86982 USD
-  - 24h Change: 1.0382421867314073%
+- **Ethereum (ETH)**: $2504.86 USD
+  - Market Cap: $301722760459.6057 USD
+  - 24h Volume: $8904974729.05551 USD
+  - 24h Change: 1.0443614351415413%
 
 ## Trending Coins
 - **KLAUS (KLAUS)**
