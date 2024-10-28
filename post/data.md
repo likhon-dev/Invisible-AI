@@ -1,6 +1,6 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 00:07:03 UTC
+**Last updated:** 2024-10-28 00:11:15 UTC
 
 ## Live Prices
 - **Bitcoin (BTC)**: $67958 USD
@@ -15,79 +15,79 @@
 
 ## Trending Coins
 - **KLAUS (KLAUS)**
-  - Market Cap Rank: 957
-  - Price (BTC): 3.782852002440833e-07
+  - Market Cap Rank: 956
+  - Price (BTC): 3.812532425804873e-07
   - [More Info](https://www.coingecko.com/en/coins/klaus)
 
 - **TARS AI (TAI)**
   - Market Cap Rank: 633
-  - Price (BTC): 1.8878258711961835e-06
+  - Price (BTC): 1.886925656884576e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 136
-  - Price (BTC): 8.738528197033366e-06
+  - Price (BTC): 8.722526423049024e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 624
-  - Price (BTC): 9.06614625147404e-11
+  - Market Cap Rank: 623
+  - Price (BTC): 9.168120958405702e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 156
-  - Price (BTC): 7.417190279631763e-06
+  - Price (BTC): 7.405561345549244e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **AI Companions (AIC)**
+  - Market Cap Rank: 474
+  - Price (BTC): 1.419001641420777e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.1233394733626207e-06
+  - Price (BTC): 2.121726056666424e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **AI Companions (AIC)**
-  - Market Cap Rank: 476
-  - Price (BTC): 1.4234994579543387e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+- **Neiro on ETH (NEIRO)**
+  - Market Cap Rank: 421
+  - Price (BTC): 1.5604137436249514e-06
+  - [More Info](https://www.coingecko.com/en/coins/neiro-on-eth)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 60
-  - Price (BTC): 2.2997963530431037e-05
+  - Price (BTC): 2.2972476955706053e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 686
+  - Price (BTC): 6.887476361480649e-07
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025990824242987658
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.576389444844891e-05
+  - Price (BTC): 2.5786730534464922e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 684
-  - Price (BTC): 7.099372556553998e-07
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Luna by Virtuals (LUNA)**
   - Market Cap Rank: 266
-  - Price (BTC): 3.3920869914802694e-06
+  - Price (BTC): 3.310314478426181e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 307
-  - Price (BTC): 5.464005496298388e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.498979604619711e-05
+  - Price (BTC): 1.4979862097527338e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 88
-  - Price (BTC): 5.089949365836593e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 101
-  - Price (BTC): 1.2411056164321663e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 120
+  - Price (BTC): 2.3319775210139806e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
 
 ## Posts
 - **Post ID: 1**
