@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 10:11:12 UTC
+**Last updated:** 2024-10-28 11:08:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68575 USD
-  - Market Cap: $1355895390522.722 USD
-  - 24h Volume: $22843389820.544117 USD
-  - 24h Change: 2.180488308009258%
+- **Bitcoin (BTC)**: $68460 USD
+  - Market Cap: $1355093215487.433 USD
+  - 24h Volume: $24476054028.711895 USD
+  - 24h Change: 2.2327331293484427%
 
-- **Ethereum (ETH)**: $2535.92 USD
-  - Market Cap: $305445900031.50806 USD
-  - 24h Volume: $11100395465.804043 USD
-  - 24h Change: 2.6304462979439216%
+- **Ethereum (ETH)**: $2524.51 USD
+  - Market Cap: $304255284770.0014 USD
+  - 24h Volume: $12947184432.664396 USD
+  - 24h Change: 2.489394295312234%
 
 ## Trending Coins
-- **KOALA AI (KOKO)**
-  - Market Cap Rank: 654
-  - Price (BTC): 8.310994157114255e-11
-  - [More Info](https://www.coingecko.com/en/coins/koala-ai)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 262
+  - Price (BTC): 5.022988438635349e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.3431688236075615e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 277
+  - Price (BTC): 6.727679925744694e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 453
+  - Price (BTC): 5.39786843816479e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 117
+  - Price (BTC): 9.917182109754294e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **KOALA AI (KOKO)**
+  - Market Cap Rank: 649
+  - Price (BTC): 8.411549748300668e-11
+  - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Sui (SUI)**
   - Market Cap Rank: 25
-  - Price (BTC): 2.5229536523933e-05
+  - Price (BTC): 2.4995904981870404e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **DeepBook (DEEP)**
-  - Market Cap Rank: 461
-  - Price (BTC): 5.338761643851805e-07
-  - [More Info](https://www.coingecko.com/en/coins/deepbook)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 278
-  - Price (BTC): 6.630797814548772e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 192
-  - Price (BTC): 5.1819774439948835e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 122
-  - Price (BTC): 9.611105992327359e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 91
+  - Price (BTC): 1.3788649312730891e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002592838280357464
+  - Price (BTC): 0.002589556233665679
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.1068096594756423e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 267
-  - Price (BTC): 3.290858017852795e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 88
-  - Price (BTC): 5.0397348996263575e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 190
+  - Price (BTC): 5.34579850715665e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 64
-  - Price (BTC): 1.519554302109986e-05
+  - Price (BTC): 1.5122675859710757e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 340
-  - Price (BTC): 1.1244399857427886e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
 - **TARS AI (TAI)**
-  - Market Cap Rank: 630
-  - Price (BTC): 1.8833961523896632e-06
+  - Market Cap Rank: 631
+  - Price (BTC): 1.877235484756525e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.7929201066440723e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03689572370625831
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 88
+  - Price (BTC): 5.046891715398117e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 342
+  - Price (BTC): 1.1187023154681024e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 268
+  - Price (BTC): 3.3365262662902404e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 ## Posts
 - **Post ID: 1**
