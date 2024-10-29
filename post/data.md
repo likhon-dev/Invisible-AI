@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 06:14:14 UTC
+**Last updated:** 2024-10-29 07:10:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71130 USD
-  - Market Cap: $1403553796314.9727 USD
-  - 24h Volume: $51923731081.64734 USD
-  - 24h Change: 4.902332375045596%
+- **Bitcoin (BTC)**: $71097 USD
+  - Market Cap: $1406103742937.2627 USD
+  - 24h Volume: $51211140014.69246 USD
+  - 24h Change: 4.330115790868129%
 
-- **Ethereum (ETH)**: $2621.78 USD
-  - Market Cap: $315125409848.9441 USD
-  - 24h Volume: $22994476019.28733 USD
-  - 24h Change: 5.57620820672891%
+- **Ethereum (ETH)**: $2616.48 USD
+  - Market Cap: $315023516173.0578 USD
+  - 24h Volume: $23014493686.06515 USD
+  - 24h Change: 4.725488857333473%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 292
-  - Price (BTC): 1.1429879895264028e-05
+  - Market Cap Rank: 276
+  - Price (BTC): 1.2644678120905768e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 623
-  - Price (BTC): 1.9062321920633205e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 127
-  - Price (BTC): 9.303154444353386e-06
+  - Market Cap Rank: 124
+  - Price (BTC): 9.469298672591645e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0025459273116282184
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.322938318718991e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 25
-  - Price (BTC): 2.6036708110177874e-05
+  - Price (BTC): 2.5912786790799503e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **TARS AI (TAI)**
+  - Market Cap Rank: 623
+  - Price (BTC): 1.9062136337132632e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025309476507356697
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3121856266356286e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 347
+  - Price (BTC): 1.0969796546712466e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 289
+  - Price (BTC): 6.270155518647897e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03687382910180934
+  - Price (BTC): 0.03678609386705704
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 97
+  - Price (BTC): 4.542223381809096e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 94
+  - Price (BTC): 1.3065303148584683e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 60
+  - Price (BTC): 2.341408138292684e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.4907173126112496e-05
+  - Price (BTC): 1.4749840318258335e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 93
-  - Price (BTC): 1.3191554726911527e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 287
-  - Price (BTC): 6.291741308824796e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Toncoin (TON)**
-  - Market Cap Rank: 11
-  - Price (BTC): 7.082046600952402e-05
-  - [More Info](https://www.coingecko.com/en/coins/toncoin)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 149
-  - Price (BTC): 7.967029247962123e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3357352399747604e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.7939535332538805e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.66807863808399e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
