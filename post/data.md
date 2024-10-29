@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 10:10:29 UTC
+**Last updated:** 2024-10-29 11:08:23 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71194 USD
-  - Market Cap: $1408209353033.2766 USD
-  - 24h Volume: $53090704391.46247 USD
-  - 24h Change: 3.819679915632404%
+- **Bitcoin (BTC)**: $71144 USD
+  - Market Cap: $1406242231335.9963 USD
+  - 24h Volume: $49918742669.935684 USD
+  - 24h Change: 3.8361191485296673%
 
-- **Ethereum (ETH)**: $2620.47 USD
-  - Market Cap: $315542302677.6111 USD
-  - 24h Volume: $22317900002.66777 USD
-  - 24h Change: 3.334577898141413%
+- **Ethereum (ETH)**: $2630.82 USD
+  - Market Cap: $316750730470.2869 USD
+  - 24h Volume: $22192564094.078655 USD
+  - 24h Change: 4.1122317988563335%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 281
-  - Price (BTC): 1.225628787062535e-05
+  - Market Cap Rank: 278
+  - Price (BTC): 1.3387491634782346e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 25
-  - Price (BTC): 2.643728383464779e-05
+  - Price (BTC): 2.6880514602437506e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.3090569987958325e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 88
+  - Price (BTC): 1.3786572672490554e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 125
+  - Price (BTC): 9.425635922517146e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025409900317460085
+  - Price (BTC): 0.0025442916624211754
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.3449090985232904e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 292
-  - Price (BTC): 6.0943584826736635e-05
+  - Market Cap Rank: 294
+  - Price (BTC): 6.149443245892963e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 130
-  - Price (BTC): 8.92868589539023e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3251707241230157e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **CHEX Token (CHEX)**
+  - Market Cap Rank: 241
+  - Price (BTC): 3.786708848045524e-06
+  - [More Info](https://www.coingecko.com/en/coins/chex-token)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.440990182078571e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 340
+  - Price (BTC): 3.1372290419757726e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 59
-  - Price (BTC): 2.4379276274710325e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.007647461057933728
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.8061897435159025e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 175
+  - Price (BTC): 5.866439488636571e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03683005746253129
+  - Price (BTC): 0.036985588224775885
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 353
-  - Price (BTC): 2.9263227401180694e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
-
-- **Celestia (TIA)**
-  - Market Cap Rank: 75
-  - Price (BTC): 7.171491843846096e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 41
-  - Price (BTC): 3.7249087054618934e-05
+  - Price (BTC): 3.7244025015075004e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 30
+  - Price (BTC): 0.007618393623316255
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 ## Posts
 - **Post ID: 1**
