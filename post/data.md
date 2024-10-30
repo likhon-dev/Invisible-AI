@@ -1,83 +1,68 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 08:13:33 UTC
+**Last updated:** 2024-10-30 09:10:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72364 USD
-  - Market Cap: $1430025035348.9978 USD
-  - 24h Volume: $51638674746.880066 USD
-  - 24h Change: 1.9456325742363278%
+- **Bitcoin (BTC)**: $72276 USD
+  - Market Cap: $1428809012898.3557 USD
+  - 24h Volume: $53198387336.41674 USD
+  - 24h Change: 1.5900928022119742%
 
-- **Ethereum (ETH)**: $2674.64 USD
-  - Market Cap: $322067212833.5581 USD
-  - 24h Volume: $21463503870.801807 USD
-  - 24h Change: 2.2962836803619315%
+- **Ethereum (ETH)**: $2663.65 USD
+  - Market Cap: $320586090020.21484 USD
+  - 24h Volume: $21503502574.01619 USD
+  - 24h Change: 1.5803076923816355%
 
 ## Trending Coins
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 600
+  - Price (BTC): 7.044204519454038e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 286
-  - Price (BTC): 1.2052785818603789e-05
+  - Market Cap Rank: 290
+  - Price (BTC): 1.1647733525701072e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8443096980703682e-05
+  - Price (BTC): 2.820178993514395e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 797
-  - Price (BTC): 5.249170576517754e-07
+  - Market Cap Rank: 795
+  - Price (BTC): 5.256030303735491e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 137
+  - Price (BTC): 8.491196286342225e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 279
-  - Price (BTC): 3.1510200136373394e-06
+  - Market Cap Rank: 278
+  - Price (BTC): 3.124572275586474e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.5182304000422463e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002474671637996635
+  - Price (BTC): 0.002463072880661121
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 76
-  - Price (BTC): 6.971326088629617e-05
+  - Price (BTC): 6.960394150199516e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5338987970402102e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 639
-  - Price (BTC): 2.554811587464365e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.3957125319394193e-06
+  - Price (BTC): 2.372401249245386e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 135
-  - Price (BTC): 8.562114456055597e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 320
-  - Price (BTC): 5.1606822146415956e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 360
-  - Price (BTC): 1.0455510986726504e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.7640680510422224e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -86,8 +71,23 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03696948199864575
+  - Price (BTC): 0.036848509670740354
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.2100832438100406e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 338
+  - Price (BTC): 3.0633164544155155e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 314
+  - Price (BTC): 5.5166616882945726e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 ## Posts
 - **Post ID: 1**
