@@ -1,57 +1,52 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 23:09:30 UTC
+**Last updated:** 2024-10-30 00:45:48 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72551 USD
-  - Market Cap: $1436640183176.971 USD
-  - 24h Volume: $65607572143.95161 USD
-  - 24h Change: 3.527386183922685%
+- **Bitcoin (BTC)**: $72262 USD
+  - Market Cap: $1429262216089.0896 USD
+  - 24h Volume: $64421270648.73074 USD
+  - 24h Change: 3.6066202490749313%
 
-- **Ethereum (ETH)**: $2631.46 USD
-  - Market Cap: $316988848196.90594 USD
-  - 24h Volume: $23209979825.247288 USD
-  - 24h Change: 2.203879197908605%
+- **Ethereum (ETH)**: $2624.28 USD
+  - Market Cap: $316089197670.90625 USD
+  - 24h Volume: $22157791689.792576 USD
+  - 24h Change: 2.062987832551255%
 
 ## Trending Coins
+- **Phil (PHIL)**
+  - Market Cap Rank: 803
+  - Price (BTC): 5.17063263281628e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **AI Companions (AIC)**
-  - Market Cap Rank: 457
-  - Price (BTC): 1.5225648311466174e-06
+  - Market Cap Rank: 449
+  - Price (BTC): 1.571013114604896e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 719
-  - Price (BTC): 5.1246906361479855e-11
+  - Market Cap Rank: 716
+  - Price (BTC): 5.153525843289698e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 813
-  - Price (BTC): 5.111665450601305e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 265
-  - Price (BTC): 1.3605357246140008e-05
+  - Price (BTC): 1.3752481803237607e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 306
-  - Price (BTC): 2.180962347932099e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8350181379637964e-05
+  - Price (BTC): 2.9040050506393514e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 276
-  - Price (BTC): 4.689993373468055e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.4255489245841088e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 129
-  - Price (BTC): 8.994856314904836e-06
+  - Market Cap Rank: 127
+  - Price (BTC): 9.30973689921423e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
@@ -59,35 +54,40 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002470654753461975
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 322
+  - Price (BTC): 3.291666242384728e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 303
-  - Price (BTC): 5.6418259393836374e-05
+  - Market Cap Rank: 304
+  - Price (BTC): 5.694893253246913e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Turbo (TURBO)**
-  - Market Cap Rank: 133
-  - Price (BTC): 1.2813433896762263e-07
-  - [More Info](https://www.coingecko.com/en/coins/turbo)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.3623864118409413e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **CHEX Token (CHEX)**
   - Market Cap Rank: 219
-  - Price (BTC): 4.276076560194337e-06
+  - Price (BTC): 4.3037066778274575e-06
   - [More Info](https://www.coingecko.com/en/coins/chex-token)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.4051064850101544e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 37
-  - Price (BTC): 1.5428950811440732e-06
+  - Price (BTC): 1.5507406273173717e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 186
+  - Price (BTC): 5.447915753068509e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 358
+  - Price (BTC): 8.118424091497729e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
 
 ## Posts
 - **Post ID: 1**
