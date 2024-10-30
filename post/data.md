@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 10:11:14 UTC
+**Last updated:** 2024-10-30 11:08:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72472 USD
-  - Market Cap: $1433431971455.557 USD
-  - 24h Volume: $57862410031.119896 USD
-  - 24h Change: 1.7991163586622572%
+- **Bitcoin (BTC)**: $72254 USD
+  - Market Cap: $1430359063969.6577 USD
+  - 24h Volume: $50046470196.017586 USD
+  - 24h Change: 1.5499748147391903%
 
-- **Ethereum (ETH)**: $2684.24 USD
-  - Market Cap: $323793568754.4972 USD
-  - 24h Volume: $22346582339.832935 USD
-  - 24h Change: 2.4388681787041127%
+- **Ethereum (ETH)**: $2677.5 USD
+  - Market Cap: $322806030644.19653 USD
+  - 24h Volume: $22549922372.272793 USD
+  - 24h Change: 1.7713407904455218%
 
 ## Trending Coins
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 605
-  - Price (BTC): 6.878637843327385e-11
+  - Market Cap Rank: 616
+  - Price (BTC): 6.698423985095131e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 293
-  - Price (BTC): 1.1584732016327841e-05
+  - Price (BTC): 1.1574168900324261e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Luce (LUCE)**
+  - Market Cap Rank: 525
+  - Price (BTC): 1.0733808458792846e-06
+  - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.813832237470336e-05
+  - Price (BTC): 2.8346068281826522e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 791
-  - Price (BTC): 5.355454425706433e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 39
-  - Price (BTC): 1.4926757203879025e-06
+  - Price (BTC): 1.4907986119614194e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 787
+  - Price (BTC): 5.428822848030346e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002455228973524263
+  - Price (BTC): 0.0024505259620688723
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 76
-  - Price (BTC): 6.921217834717247e-05
+  - Price (BTC): 6.913258646324308e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Luce (LUCE)**
-  - Market Cap Rank: 515
-  - Price (BTC): 1.1534586332415522e-06
-  - [More Info](https://www.coingecko.com/en/coins/luce)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 99
-  - Price (BTC): 1.2413275273890589e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 140
-  - Price (BTC): 8.392638653453895e-06
+  - Price (BTC): 8.415637975850137e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.361346374966606e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 281
-  - Price (BTC): 3.117306271141375e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Sei (SEI)**
   - Market Cap Rank: 62
-  - Price (BTC): 5.6901675360283385e-06
+  - Price (BTC): 5.728666740745673e-06
   - [More Info](https://www.coingecko.com/en/coins/sei)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 98
+  - Price (BTC): 1.2460657339806811e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 203
+  - Price (BTC): 4.800130009293626e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 281
+  - Price (BTC): 3.086471650035842e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03706003801579648
+  - Price (BTC): 0.037080641271577994
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 346
-  - Price (BTC): 2.9906099771240466e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
 ## Posts
 - **Post ID: 1**
