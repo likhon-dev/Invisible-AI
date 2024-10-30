@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-30 05:10:32 UTC
+**Last updated:** 2024-10-30 06:39:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72346 USD
-  - Market Cap: $1430363240286.5657 USD
-  - 24h Volume: $58882744408.77652 USD
-  - 24h Change: 1.9532090802216573%
+- **Bitcoin (BTC)**: $72403 USD
+  - Market Cap: $1431578136488.9077 USD
+  - 24h Volume: $54910932444.10495 USD
+  - 24h Change: 1.7734990660842256%
 
-- **Ethereum (ETH)**: $2643.47 USD
-  - Market Cap: $318008718633.4316 USD
-  - 24h Volume: $20556325433.38275 USD
-  - 24h Change: 1.0226427552761894%
+- **Ethereum (ETH)**: $2668.98 USD
+  - Market Cap: $321322556504.7777 USD
+  - 24h Volume: $21159335165.83713 USD
+  - 24h Change: 1.9178194856685953%
 
 ## Trending Coins
-- **AI Companions (AIC)**
-  - Market Cap Rank: 451
-  - Price (BTC): 1.5661763514496542e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
-
 - **Grass (GRASS)**
   - Market Cap Rank: 281
-  - Price (BTC): 1.2796057099718212e-05
+  - Price (BTC): 1.2800257788305167e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 798
-  - Price (BTC): 5.239333607954485e-07
+  - Market Cap Rank: 799
+  - Price (BTC): 5.228971997871841e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 707
-  - Price (BTC): 5.241565716226309e-11
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.8596651436485096e-05
+  - Price (BTC): 2.8679003626674845e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.7513715427222327e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.2085875120010974e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
 - **Celestia (TIA)**
-  - Market Cap Rank: 74
-  - Price (BTC): 7.078628502954167e-05
+  - Market Cap Rank: 76
+  - Price (BTC): 7.022727281248983e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 132
+  - Price (BTC): 8.957547190799942e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024977212162232048
+  - Price (BTC): 0.002479363828045015
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 272
+  - Price (BTC): 3.2942314496869287e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.4180413803345447e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.4551853602564733e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 37
+  - Price (BTC): 1.5460473840438645e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **mETH Protocol (COOK)**
+  - Market Cap Rank: 1001
+  - Price (BTC): 3.703210823821215e-07
+  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.3246397038786598e-10
+  - Price (BTC): 1.3231452249941342e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03652824691139293
+  - Price (BTC): 0.036875934235652996
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.437560454451701e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 316
-  - Price (BTC): 5.167739454874948e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **CHEX Token (CHEX)**
-  - Market Cap Rank: 218
-  - Price (BTC): 4.31811809541854e-06
-  - [More Info](https://www.coingecko.com/en/coins/chex-token)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5629110954967408e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 363
+  - Price (BTC): 8.061208430642988e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
 
 ## Posts
 - **Post ID: 1**
