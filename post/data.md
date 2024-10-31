@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-31 12:17:51 UTC
+**Last updated:** 2024-10-31 13:18:19 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72245 USD
-  - Market Cap: $1427908487963.3645 USD
-  - 24h Volume: $40852345018.844604 USD
-  - 24h Change: 0.2327996908165587%
+- **Bitcoin (BTC)**: $72032 USD
+  - Market Cap: $1424360745043.407 USD
+  - 24h Volume: $39157000911.93785 USD
+  - 24h Change: 0.3042383855655316%
 
-- **Ethereum (ETH)**: $2638.37 USD
-  - Market Cap: $317433256504.20746 USD
-  - 24h Volume: $20056123816.70882 USD
-  - 24h Change: -0.971297580112239%
+- **Ethereum (ETH)**: $2633.91 USD
+  - Market Cap: $317201919124.12555 USD
+  - 24h Volume: $19320177027.202236 USD
+  - 24h Change: -1.9233125216333677%
 
 ## Trending Coins
+- **Phil (PHIL)**
+  - Market Cap Rank: 787
+  - Price (BTC): 5.277298778209995e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 625
-  - Price (BTC): 6.504763099985077e-11
+  - Market Cap Rank: 626
+  - Price (BTC): 6.451189819643159e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 667
-  - Price (BTC): 7.204897299723133e-07
+  - Market Cap Rank: 670
+  - Price (BTC): 7.209028282093056e-07
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 304
-  - Price (BTC): 2.1821173444880717e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 245
-  - Price (BTC): 1.4890366640274001e-05
+  - Market Cap Rank: 246
+  - Price (BTC): 1.4896240010400729e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 305
+  - Price (BTC): 2.168935067602026e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 56
-  - Price (BTC): 6.391435015028667e-05
+  - Price (BTC): 6.400180155940613e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.7907311650737622e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 117
+  - Price (BTC): 9.390907544140503e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 820
+  - Price (BTC): 0.0005194277311734043
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 153
+  - Price (BTC): 7.346652941125443e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002421840472804817
+  - Price (BTC): 0.002416529935385864
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 840
-  - Price (BTC): 0.0005141887655105911
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **TROY (TROY)**
-  - Market Cap Rank: 859
-  - Price (BTC): 4.656700385332937e-08
-  - [More Info](https://www.coingecko.com/en/coins/troy)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 379
-  - Price (BTC): 9.598144457135588e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 106
-  - Price (BTC): 1.179480401244502e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 203
-  - Price (BTC): 4.729506016114833e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 233
-  - Price (BTC): 7.218931986682814e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.818048912865342e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 35
-  - Price (BTC): 1.605323711452561e-06
+  - Price (BTC): 1.6039786615927873e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 146
-  - Price (BTC): 7.822606903344114e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.378717917432596e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 96
+  - Price (BTC): 4.449480980608063e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036562763640184334
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
