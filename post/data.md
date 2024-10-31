@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-31 09:10:24 UTC
+**Last updated:** 2024-10-31 10:10:39 UTC
 
 ## Live Prices
 - **Bitcoin (BTC)**: $72317 USD
-  - Market Cap: $1428970630569.6501 USD
-  - 24h Volume: $42045495584.3676 USD
-  - 24h Change: -0.010754296867149763%
+  - Market Cap: $1430653402427.5862 USD
+  - 24h Volume: $41467572715.702835 USD
+  - 24h Change: -0.23612172477587512%
 
-- **Ethereum (ETH)**: $2639.16 USD
-  - Market Cap: $317713761868.16016 USD
-  - 24h Volume: $21192487932.273067 USD
-  - 24h Change: -1.0113826715336651%
+- **Ethereum (ETH)**: $2637.37 USD
+  - Market Cap: $317711511623.3672 USD
+  - 24h Volume: $20628248144.574947 USD
+  - 24h Change: -1.786604675243913%
 
 ## Trending Coins
-- **Grass (GRASS)**
-  - Market Cap Rank: 255
-  - Price (BTC): 1.4240316544605483e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **RabBitcoin (RBTC)**
   - Market Cap Rank: 610
-  - Price (BTC): 6.644928035122975e-11
+  - Price (BTC): 6.639888358745957e-11
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 692
+  - Price (BTC): 6.785525649321226e-07
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 246
+  - Price (BTC): 1.4808427518898146e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Phil (PHIL)**
-  - Market Cap Rank: 785
-  - Price (BTC): 5.335654899287778e-07
+  - Market Cap Rank: 791
+  - Price (BTC): 5.230169265704115e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 56
-  - Price (BTC): 6.421660128903963e-05
+  - Price (BTC): 6.425448399079205e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 877
-  - Price (BTC): 0.00048340460641505125
+  - Market Cap Rank: 828
+  - Price (BTC): 0.0005081358782934728
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 724
-  - Price (BTC): 6.358684862699072e-07
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002407346170596766
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Kaia (KLAY)**
-  - Market Cap Rank: 104
-  - Price (BTC): 1.8244356716288641e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaia)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.8307384114075157e-05
+  - Market Cap Rank: 22
+  - Price (BTC): 2.8278227604984277e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 315
-  - Price (BTC): 5.297148430616128e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.5746325129437212e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.346210883837568e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3086114434147946e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 234
-  - Price (BTC): 7.193926317537888e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 146
-  - Price (BTC): 7.964045641275366e-06
+  - Price (BTC): 7.899046690799325e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024228501271489227
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 105
+  - Price (BTC): 1.147642858804113e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03646152352198777
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 234
+  - Price (BTC): 7.181171270888266e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.374236811494653e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Kaia (KLAY)**
+  - Market Cap Rank: 104
+  - Price (BTC): 1.8523544706783079e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaia)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 315
+  - Price (BTC): 5.335726126802415e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 ## Posts
 - **Post ID: 1**
