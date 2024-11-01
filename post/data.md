@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 08:12:52 UTC
+**Last updated:** 2024-11-01 09:10:22 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69213 USD
-  - Market Cap: $1367962079749.3267 USD
-  - 24h Volume: $43598793122.67166 USD
-  - 24h Change: -4.334050538018521%
+- **Bitcoin (BTC)**: $69382 USD
+  - Market Cap: $1372566415222.883 USD
+  - 24h Volume: $44296694425.3217 USD
+  - 24h Change: -4.064408187402657%
 
-- **Ethereum (ETH)**: $2500.57 USD
-  - Market Cap: $301080843048.9577 USD
-  - 24h Volume: $20417484772.934643 USD
-  - 24h Change: -5.357929902128198%
+- **Ethereum (ETH)**: $2501.63 USD
+  - Market Cap: $301345925638.3389 USD
+  - 24h Volume: $21925553195.189327 USD
+  - 24h Change: -5.230297702239952%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 659
-  - Price (BTC): 0.0007642891069094667
+  - Market Cap Rank: 717
+  - Price (BTC): 0.0006530540656530559
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 228
-  - Price (BTC): 1.648908650277241e-05
+  - Market Cap Rank: 231
+  - Price (BTC): 1.60737441244768e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 143
-  - Price (BTC): 7.810436489771771e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Phil (PHIL)**
+  - Market Cap Rank: 755
+  - Price (BTC): 5.821948167015073e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 52
+  - Price (BTC): 6.807937115029886e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7900533348959348e-05
+  - Price (BTC): 2.7721842581422732e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 142
+  - Price (BTC): 7.85708009339633e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023896622310928084
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Scroll (SCR)**
-  - Market Cap Rank: 378
-  - Price (BTC): 9.630968531844038e-06
+  - Market Cap Rank: 380
+  - Price (BTC): 9.493371619917682e-06
   - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 108
+  - Price (BTC): 1.1502992508818134e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.6533304973067476e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006647731444780344
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Celestia (TIA)**
-  - Market Cap Rank: 52
-  - Price (BTC): 6.77073796488338e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 120
-  - Price (BTC): 9.223809377545094e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Immutable (IMX)**
-  - Market Cap Rank: 51
-  - Price (BTC): 1.6638233434569345e-05
-  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.6668445475289772e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2929586687282355e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036129111358415955
+  - Price (BTC): 0.03605670455042427
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002395454600504616
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Immutable (IMX)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.6545379934305776e-05
+  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
 
-- **RETARDIO (RETARDIO)**
-  - Market Cap Rank: 321
-  - Price (BTC): 2.3388215266891883e-06
-  - [More Info](https://www.coingecko.com/en/coins/retardio)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 314
-  - Price (BTC): 5.3428949966953026e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 265
+  - Price (BTC): 3.250143536939835e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 ## Posts
 - **Post ID: 1**
