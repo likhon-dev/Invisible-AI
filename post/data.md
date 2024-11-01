@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 22:09:09 UTC
+**Last updated:** 2024-11-01 23:09:18 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69325 USD
-  - Market Cap: $1370654160414.1367 USD
-  - 24h Volume: $50763176151.29565 USD
-  - 24h Change: -1.3259159854476974%
+- **Bitcoin (BTC)**: $69487 USD
+  - Market Cap: $1371869535045.2517 USD
+  - 24h Volume: $55852739723.2323 USD
+  - 24h Change: -1.2017604987994612%
 
-- **Ethereum (ETH)**: $2507.77 USD
-  - Market Cap: $301713622782.62024 USD
-  - 24h Volume: $19466488020.63328 USD
-  - 24h Change: -0.3061024586841153%
+- **Ethereum (ETH)**: $2514.82 USD
+  - Market Cap: $302862992431.8405 USD
+  - 24h Volume: $20894863565.862865 USD
+  - 24h Change: 0.03505262936733152%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 789
-  - Price (BTC): 5.321026454035476e-07
+  - Market Cap Rank: 737
+  - Price (BTC): 6.206729609508099e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
-  - Market Cap Rank: 272
-  - Price (BTC): 1.3128392999103079e-06
+  - Market Cap Rank: 273
+  - Price (BTC): 1.315715379587274e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 190
-  - Price (BTC): 2.0931878356838455e-05
+  - Market Cap Rank: 198
+  - Price (BTC): 2.0085173628633557e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 288
-  - Price (BTC): 4.197955890857483e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 774
-  - Price (BTC): 5.541993820742891e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 546
-  - Price (BTC): 0.0010524030141857137
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 303
-  - Price (BTC): 2.1989572519703796e-11
+  - Market Cap Rank: 304
+  - Price (BTC): 2.1904822341077122e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.8738013264477375e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 572
+  - Price (BTC): 0.0009953554382367647
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 109
+  - Price (BTC): 1.1221620967412854e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023864331607225168
+  - Price (BTC): 0.0023873390976939116
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1282581994992663e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 166
+  - Price (BTC): 6.33422962812666e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.8482059902154437e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 143
+  - Price (BTC): 7.86456636453005e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 316
+  - Price (BTC): 5.2889861596767214e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.386226991145095e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Immutable (IMX)**
   - Market Cap Rank: 52
-  - Price (BTC): 1.606372292365022e-05
+  - Price (BTC): 1.5977003363580695e-05
   - [More Info](https://www.coingecko.com/en/coins/immutable-x)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.673263140165238e-06
+  - Price (BTC): 1.6888218327220776e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 168
-  - Price (BTC): 6.0891884037633195e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Alien Base (ALB)**
-  - Market Cap Rank: 805
-  - Price (BTC): 4.9370117860847995e-06
-  - [More Info](https://www.coingecko.com/en/coins/alienbase)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.134155886203043e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
