@@ -1,58 +1,63 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 14:09:16 UTC
+**Last updated:** 2024-11-01 15:10:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71356 USD
-  - Market Cap: $1408540938474.4517 USD
-  - 24h Volume: $54221345786.73238 USD
-  - 24h Change: 0.10289699139062218%
+- **Bitcoin (BTC)**: $71079 USD
+  - Market Cap: $1405800536913.3738 USD
+  - 24h Volume: $52758306659.47901 USD
+  - 24h Change: 0.036117407471647774%
 
-- **Ethereum (ETH)**: $2578.73 USD
-  - Market Cap: $308979795028.5489 USD
-  - 24h Volume: $21902974701.86822 USD
-  - 24h Change: -0.4644190487951611%
+- **Ethereum (ETH)**: $2554.79 USD
+  - Market Cap: $307583034819.23535 USD
+  - 24h Volume: $20076478995.910442 USD
+  - 24h Change: -0.5154146400824451%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 287
-  - Price (BTC): 4.313638118639949e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Phil (PHIL)**
-  - Market Cap Rank: 747
-  - Price (BTC): 5.832266520467748e-07
+  - Market Cap Rank: 739
+  - Price (BTC): 6.0108063832428e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 587
-  - Price (BTC): 0.0009316111901733637
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 311
-  - Price (BTC): 2.1234963683682974e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 291
+  - Price (BTC): 4.1858962075599315e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 232
-  - Price (BTC): 1.6531211469270814e-05
+  - Market Cap Rank: 231
+  - Price (BTC): 1.6266450623063478e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 619
+  - Price (BTC): 0.0008453282139756855
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.920389623811016e-05
+  - Price (BTC): 2.8923194822126612e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 140
-  - Price (BTC): 8.170595411679538e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 311
+  - Price (BTC): 2.142532562974904e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024280949568356415
+  - Price (BTC): 0.0024076573890911197
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 594
+  - Price (BTC): 2.796887425519584e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 142
+  - Price (BTC): 8.026219749446915e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -60,34 +65,29 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 53
-  - Price (BTC): 6.802385994065767e-05
+  - Market Cap Rank: 55
+  - Price (BTC): 6.677995402090304e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 262
-  - Price (BTC): 3.4131329307367334e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 0.0067302973275385316
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 181
-  - Price (BTC): 5.533194736945397e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 131
-  - Price (BTC): 9.091478315424352e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03613338958957539
+  - Price (BTC): 0.03598402816625016
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006648424234618496
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 260
+  - Price (BTC): 3.3866477200976123e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.2176658702636959e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
