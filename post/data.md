@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 10:10:56 UTC
+**Last updated:** 2024-11-01 11:08:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69558 USD
-  - Market Cap: $1375199667257.092 USD
-  - 24h Volume: $49706075208.50843 USD
-  - 24h Change: -3.7862995380707134%
+- **Bitcoin (BTC)**: $70053 USD
+  - Market Cap: $1385822219148.8755 USD
+  - 24h Volume: $51903986782.75078 USD
+  - 24h Change: -3.306680487717934%
 
-- **Ethereum (ETH)**: $2509.36 USD
-  - Market Cap: $302236128659.0253 USD
-  - 24h Volume: $22093743462.576527 USD
-  - 24h Change: -4.837925197078756%
+- **Ethereum (ETH)**: $2520.54 USD
+  - Market Cap: $303394752749.37854 USD
+  - 24h Volume: $22339840079.928062 USD
+  - 24h Change: -4.55845381457312%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 687
-  - Price (BTC): 0.0007050256693415411
+  - Market Cap Rank: 695
+  - Price (BTC): 0.0007026634939996149
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 280
+  - Price (BTC): 4.3942489577289756e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 741
+  - Price (BTC): 5.960675261282194e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 231
-  - Price (BTC): 1.62070113818236e-05
+  - Market Cap Rank: 230
+  - Price (BTC): 1.618776105359578e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 377
+  - Price (BTC): 9.63481591624779e-06
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 185
+  - Price (BTC): 5.342301319207681e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 142
+  - Price (BTC): 7.855116651923164e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 52
-  - Price (BTC): 6.85200754844998e-05
+  - Price (BTC): 6.882932673726677e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 382
-  - Price (BTC): 9.516561869209128e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.779387740710423e-05
+  - Market Cap Rank: 22
+  - Price (BTC): 2.788340316436274e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024003267679518522
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 7.981378803399896e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 194
-  - Price (BTC): 4.987448434401429e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 0.006681154797123558
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.6395600496626106e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 738
-  - Price (BTC): 6.115580990579681e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 9.961252062180061e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 267
+  - Price (BTC): 3.2064686492046053e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03609856133334534
+  - Price (BTC): 0.035998246169675
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **MSTR2100 (MSTR)**
-  - Market Cap Rank: 746
-  - Price (BTC): 2.8899943802353594e-05
-  - [More Info](https://www.coingecko.com/en/coins/mstr2100)
+- **Immutable (IMX)**
+  - Market Cap Rank: 50
+  - Price (BTC): 1.6751042233211776e-05
+  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 224
+  - Price (BTC): 7.522252423722154e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 81
+  - Price (BTC): 9.980099359167547e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 107
+  - Price (BTC): 1.1800183224687356e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
