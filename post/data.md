@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 19:07:18 UTC
+**Last updated:** 2024-11-02 20:10:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69463 USD
-  - Market Cap: $1372314344964.1929 USD
-  - 24h Volume: $22953515098.120316 USD
-  - 24h Change: 0.6977435766063217%
+- **Bitcoin (BTC)**: $69462 USD
+  - Market Cap: $1374314700117.9155 USD
+  - 24h Volume: $20732362575.201393 USD
+  - 24h Change: 0.46596328500809003%
 
-- **Ethereum (ETH)**: $2488.82 USD
-  - Market Cap: $299329313736.7269 USD
-  - 24h Volume: $10323469288.500189 USD
-  - 24h Change: -0.47751077282912474%
+- **Ethereum (ETH)**: $2491.05 USD
+  - Market Cap: $300007185530.97894 USD
+  - 24h Volume: $9399622223.71362 USD
+  - 24h Change: -0.7970351551378694%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 764
-  - Price (BTC): 5.617473294266392e-07
+  - Market Cap Rank: 771
+  - Price (BTC): 5.465950365803352e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 169
-  - Price (BTC): 2.4386320467512455e-05
+  - Market Cap Rank: 172
+  - Price (BTC): 2.3822752320559016e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 298
+  - Price (BTC): 2.2270473854050424e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.713229189729568e-05
+  - Price (BTC): 2.7199588677001627e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 161
-  - Price (BTC): 3.4256436500091936e-05
+  - Market Cap Rank: 162
+  - Price (BTC): 3.403298396525454e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 300
-  - Price (BTC): 2.1927406556918906e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 332
-  - Price (BTC): 3.5012753581739035e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Tezos (XTZ)**
-  - Market Cap Rank: 126
-  - Price (BTC): 8.92664087411695e-06
-  - [More Info](https://www.coingecko.com/en/coins/tezos)
-
-- **SmarDex (SDEX)**
-  - Market Cap Rank: 573
-  - Price (BTC): 1.0645394554972193e-07
-  - [More Info](https://www.coingecko.com/en/coins/smardex)
-
-- **Luce (LUCE)**
-  - Market Cap Rank: 990
-  - Price (BTC): 3.3667461907870157e-07
-  - [More Info](https://www.coingecko.com/en/coins/luce)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03584899318550604
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 658
-  - Price (BTC): 0.0007403349504309577
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 163
-  - Price (BTC): 6.356466642480477e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 354
-  - Price (BTC): 4.3427632081162993e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023610970689264383
+  - Price (BTC): 0.0023756096405854877
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 164
-  - Price (BTC): 6.307064458621144e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 163
+  - Price (BTC): 6.318794335461115e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 683
+  - Price (BTC): 0.0007077963532673956
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 110
+  - Price (BTC): 1.091867636733789e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 321
+  - Price (BTC): 2.3602870597988082e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 348
+  - Price (BTC): 4.4995719880973434e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.3379047501332691e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 365
+  - Price (BTC): 7.496711674450834e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6159012202165313e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
