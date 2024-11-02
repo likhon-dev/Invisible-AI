@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 13:14:37 UTC
+**Last updated:** 2024-11-02 14:08:20 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69469 USD
-  - Market Cap: $1373604891859.4172 USD
-  - 24h Volume: $40102936972.148926 USD
-  - 24h Change: -0.960553181342475%
+- **Bitcoin (BTC)**: $69304 USD
+  - Market Cap: $1370731887864.9712 USD
+  - 24h Volume: $37954419529.359505 USD
+  - 24h Change: -2.784169739568105%
 
-- **Ethereum (ETH)**: $2488.77 USD
-  - Market Cap: $299723880114.52924 USD
-  - 24h Volume: $15153299146.708805 USD
-  - 24h Change: -1.6733300482919846%
+- **Ethereum (ETH)**: $2476.8 USD
+  - Market Cap: $298233630457.4306 USD
+  - 24h Volume: $14685499311.860613 USD
+  - 24h Change: -3.732840911097382%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 900
-  - Price (BTC): 4.102479225876814e-07
+  - Market Cap Rank: 893
+  - Price (BTC): 4.252107824609e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 271
-  - Price (BTC): 1.3079801912926332e-06
+  - Price (BTC): 1.2954580596332697e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 590
-  - Price (BTC): 0.0009282624905822561
+  - Market Cap Rank: 634
+  - Price (BTC): 0.0008069413164864057
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
+- **Phil (PHIL)**
+  - Market Cap Rank: 764
+  - Price (BTC): 5.568593958225106e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 172
-  - Price (BTC): 2.42736055485359e-05
+  - Market Cap Rank: 175
+  - Price (BTC): 2.311528285563492e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 303
-  - Price (BTC): 2.1713915209609538e-11
+  - Market Cap Rank: 302
+  - Price (BTC): 2.1775403290789548e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 767
-  - Price (BTC): 5.566637302735262e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.75795898065546e-05
+  - Price (BTC): 2.749059662788109e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002378194804713651
+  - Price (BTC): 0.0023708110222419375
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 157
-  - Price (BTC): 6.767511750010048e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 439
+  - Price (BTC): 1.9746004180057706e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **Jito (JTO)**
-  - Market Cap Rank: 223
-  - Price (BTC): 3.2096253788479326e-05
-  - [More Info](https://www.coingecko.com/en/coins/jito)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 158
+  - Price (BTC): 6.790744390735964e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **MAGA (TRUMP)**
   - Market Cap Rank: 328
-  - Price (BTC): 4.8600711156503087e-05
+  - Price (BTC): 4.869975405936596e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 106
+  - Price (BTC): 1.148700020476177e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03582412279375344
+  - Price (BTC): 0.03573270623975952
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.2633058817759335e-06
+  - Price (BTC): 2.259017954293814e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 439
-  - Price (BTC): 1.9801736204776086e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
-
-- **Eigenlayer (EIGEN)**
+- **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.465178770001929e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+  - Price (BTC): 6.60560055207492e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
