@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 21:08:37 UTC
+**Last updated:** 2024-11-02 22:09:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69478 USD
-  - Market Cap: $1374643140925.9287 USD
-  - 24h Volume: $19809359688.847805 USD
-  - 24h Change: 0.2282706049445431%
+- **Bitcoin (BTC)**: $69377 USD
+  - Market Cap: $1372302749177.1987 USD
+  - 24h Volume: $18806148936.726444 USD
+  - 24h Change: 0.18205137270994182%
 
-- **Ethereum (ETH)**: $2492.41 USD
-  - Market Cap: $300234038152.7121 USD
-  - 24h Volume: $9205980602.787197 USD
-  - 24h Change: -1.0463077039396684%
+- **Ethereum (ETH)**: $2490.99 USD
+  - Market Cap: $299970150611.27246 USD
+  - 24h Volume: $8743858235.789875 USD
+  - 24h Change: -0.5820775088524064%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 169
-  - Price (BTC): 2.457595758796317e-05
+  - Market Cap Rank: 171
+  - Price (BTC): 2.4246416020288468e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 301
-  - Price (BTC): 2.205619189884568e-11
+  - Market Cap Rank: 302
+  - Price (BTC): 2.1965837240510906e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 163
-  - Price (BTC): 3.3985414493078356e-05
+  - Price (BTC): 3.404226499469531e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.742337203076288e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002396442499244589
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 161
-  - Price (BTC): 6.438015586418635e-06
+  - Price (BTC): 6.500784672540753e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Immutable (IMX)**
-  - Market Cap Rank: 54
-  - Price (BTC): 1.5338511486584117e-05
-  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 346
-  - Price (BTC): 4.5250444076166175e-05
+  - Market Cap Rank: 347
+  - Price (BTC): 4.4736185829917535e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.7454799550118576e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 382
+  - Price (BTC): 9.311308843290009e-06
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 110
+  - Price (BTC): 1.1157567626438059e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023963286387739466
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 121
+  - Price (BTC): 9.692308497334011e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 665
-  - Price (BTC): 0.0007351425957889113
+  - Market Cap Rank: 652
+  - Price (BTC): 0.000796603644040661
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.035874528727268463
+  - Price (BTC): 0.03590876133031159
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.7166420521192136e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.610450326503432e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.3461047526151741e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **PONKE (PONKE)**
+  - Market Cap Rank: 235
+  - Price (BTC): 6.873898400043619e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 110
-  - Price (BTC): 1.098436767789624e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.0063395456905202055
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **RETARDIO (RETARDIO)**
+  - Market Cap Rank: 307
+  - Price (BTC): 2.5291935126884743e-06
+  - [More Info](https://www.coingecko.com/en/coins/retardio)
 
 ## Posts
 - **Post ID: 1**
