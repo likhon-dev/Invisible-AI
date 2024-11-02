@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 12:16:15 UTC
+**Last updated:** 2024-11-02 13:14:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69593 USD
-  - Market Cap: $1375999928028.6812 USD
-  - 24h Volume: $39563448634.05899 USD
-  - 24h Change: -0.7945560084584533%
+- **Bitcoin (BTC)**: $69469 USD
+  - Market Cap: $1373604891859.4172 USD
+  - 24h Volume: $40102936972.148926 USD
+  - 24h Change: -0.960553181342475%
 
-- **Ethereum (ETH)**: $2500.16 USD
-  - Market Cap: $301125804345.733 USD
-  - 24h Volume: $15208816007.33082 USD
-  - 24h Change: -0.803742984321633%
+- **Ethereum (ETH)**: $2488.77 USD
+  - Market Cap: $299723880114.52924 USD
+  - 24h Volume: $15153299146.708805 USD
+  - 24h Change: -1.6733300482919846%
 
 ## Trending Coins
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 591
-  - Price (BTC): 0.0009251223437883594
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 165
-  - Price (BTC): 2.5952077792395655e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Luce (LUCE)**
-  - Market Cap Rank: 888
-  - Price (BTC): 4.3181794025200183e-07
+  - Market Cap Rank: 900
+  - Price (BTC): 4.102479225876814e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 271
-  - Price (BTC): 1.3294014950004012e-06
+  - Price (BTC): 1.3079801912926332e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 590
+  - Price (BTC): 0.0009282624905822561
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 172
+  - Price (BTC): 2.42736055485359e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 303
+  - Price (BTC): 2.1713915209609538e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
 - **Phil (PHIL)**
-  - Market Cap Rank: 775
-  - Price (BTC): 5.463340382380225e-07
+  - Market Cap Rank: 767
+  - Price (BTC): 5.566637302735262e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023878154016503173
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 448
-  - Price (BTC): 1.997885957572969e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7753242818646615e-05
+  - Price (BTC): 2.75795898065546e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.6551257344880875e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002378194804713651
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 157
+  - Price (BTC): 6.767511750010048e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Jito (JTO)**
+  - Market Cap Rank: 223
+  - Price (BTC): 3.2096253788479326e-05
+  - [More Info](https://www.coingecko.com/en/coins/jito)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 328
+  - Price (BTC): 4.8600711156503087e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03593971181766899
+  - Price (BTC): 0.03582412279375344
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2740834886531217e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.2633058817759335e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 439
+  - Price (BTC): 1.9801736204776086e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.519885395623521e-05
+  - Price (BTC): 3.465178770001929e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 169
-  - Price (BTC): 6.05831467594599e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Jito (JTO)**
-  - Market Cap Rank: 222
-  - Price (BTC): 3.230718101648215e-05
-  - [More Info](https://www.coingecko.com/en/coins/jito)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.1546077550490124e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
