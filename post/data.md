@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 15:09:32 UTC
+**Last updated:** 2024-11-02 16:10:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69149 USD
-  - Market Cap: $1369695599342.4163 USD
-  - 24h Volume: $35187181349.92816 USD
-  - 24h Change: -2.5024562553543674%
+- **Bitcoin (BTC)**: $69447 USD
+  - Market Cap: $1373076134816.5288 USD
+  - 24h Volume: $28300949175.447193 USD
+  - 24h Change: -0.5131415781371123%
 
-- **Ethereum (ETH)**: $2483.66 USD
-  - Market Cap: $299694126305.902 USD
-  - 24h Volume: $13983510063.089907 USD
-  - 24h Change: -2.563083410512687%
+- **Ethereum (ETH)**: $2490.98 USD
+  - Market Cap: $300010196654.96594 USD
+  - 24h Volume: $12305877220.392206 USD
+  - 24h Change: -0.8957666079805844%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 804
-  - Price (BTC): 5.131379712958913e-07
+  - Market Cap Rank: 846
+  - Price (BTC): 4.312975067056885e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 272
-  - Price (BTC): 1.3014259706627359e-06
+  - Price (BTC): 1.3007304369270966e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 769
-  - Price (BTC): 5.539010624729142e-07
+  - Market Cap Rank: 762
+  - Price (BTC): 5.634234318352308e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 632
-  - Price (BTC): 0.0008051716550277178
+  - Market Cap Rank: 699
+  - Price (BTC): 0.0006846685493690056
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 181
-  - Price (BTC): 2.2396010036957678e-05
+  - Market Cap Rank: 178
+  - Price (BTC): 2.2594336172905374e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 304
-  - Price (BTC): 2.1741001549915817e-11
+  - Market Cap Rank: 303
+  - Price (BTC): 2.1881835038426002e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.7599296029467088e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023609187182424226
+  - Price (BTC): 0.0023586670157761604
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.147988633668788e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 156
-  - Price (BTC): 6.89933052810963e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.7524921343285264e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 162
-  - Price (BTC): 3.451695291685246e-05
+  - Market Cap Rank: 163
+  - Price (BTC): 3.40893670321462e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Xai (XAI)**
-  - Market Cap Rank: 354
-  - Price (BTC): 2.7516421485896747e-06
-  - [More Info](https://www.coingecko.com/en/coins/xai)
+- **Solar (SXP)**
+  - Market Cap Rank: 336
+  - Price (BTC): 3.449915844018171e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 327
-  - Price (BTC): 4.8922211053491277e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 98
+  - Price (BTC): 1.6198189015188202e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Jito (JTO)**
-  - Market Cap Rank: 224
-  - Price (BTC): 3.174680636844133e-05
-  - [More Info](https://www.coingecko.com/en/coins/jito)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 156
+  - Price (BTC): 6.777608289020686e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 83
+  - Price (BTC): 9.215005129461493e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.625231854254537e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
