@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 22:09:10 UTC
+**Last updated:** 2024-11-02 23:11:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69377 USD
-  - Market Cap: $1372302749177.1987 USD
-  - 24h Volume: $18806148936.726444 USD
-  - 24h Change: 0.18205137270994182%
+- **Bitcoin (BTC)**: $69231 USD
+  - Market Cap: $1370178274058.434 USD
+  - 24h Volume: $18746843608.674034 USD
+  - 24h Change: -0.3754334241416262%
 
-- **Ethereum (ETH)**: $2490.99 USD
-  - Market Cap: $299970150611.27246 USD
-  - 24h Volume: $8743858235.789875 USD
-  - 24h Change: -0.5820775088524064%
+- **Ethereum (ETH)**: $2485.95 USD
+  - Market Cap: $299467425537.15765 USD
+  - 24h Volume: $8912109151.70085 USD
+  - 24h Change: -1.145946431737168%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 171
-  - Price (BTC): 2.4246416020288468e-05
+  - Market Cap Rank: 169
+  - Price (BTC): 2.418716771332683e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 302
-  - Price (BTC): 2.1965837240510906e-11
+  - Market Cap Rank: 303
+  - Price (BTC): 2.1943316829000386e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 163
-  - Price (BTC): 3.404226499469531e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 161
-  - Price (BTC): 6.500784672540753e-06
+  - Market Cap Rank: 162
+  - Price (BTC): 6.353609376977298e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 347
-  - Price (BTC): 4.4736185829917535e-05
+  - Market Cap Rank: 353
+  - Price (BTC): 4.421265703549996e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7454799550118576e-05
+  - Price (BTC): 2.7544572006162965e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 382
-  - Price (BTC): 9.311308843290009e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 110
-  - Price (BTC): 1.1157567626438059e-05
+  - Market Cap Rank: 108
+  - Price (BTC): 1.1227825860330578e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023963286387739466
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 163
+  - Price (BTC): 3.382324376463587e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 437
+  - Price (BTC): 2.0151785302729365e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Gigachad (GIGA)**
   - Market Cap Rank: 121
-  - Price (BTC): 9.692308497334011e-07
+  - Price (BTC): 9.784767355978388e-07
   - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 652
-  - Price (BTC): 0.000796603644040661
+  - Market Cap Rank: 618
+  - Price (BTC): 0.0008322604628326327
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03590876133031159
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023894727012684545
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Aerodrome Finance (AERO)**
   - Market Cap Rank: 101
-  - Price (BTC): 1.610450326503432e-05
+  - Price (BTC): 1.6062325022668162e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **PONKE (PONKE)**
-  - Market Cap Rank: 235
-  - Price (BTC): 6.873898400043619e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 168
+  - Price (BTC): 5.997613561407395e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **RETARDIO (RETARDIO)**
-  - Market Cap Rank: 307
-  - Price (BTC): 2.5291935126884743e-06
-  - [More Info](https://www.coingecko.com/en/coins/retardio)
+- **Injective (INJ)**
+  - Market Cap Rank: 55
+  - Price (BTC): 0.0002588116409660167
+  - [More Info](https://www.coingecko.com/en/coins/injective)
 
 ## Posts
 - **Post ID: 1**
