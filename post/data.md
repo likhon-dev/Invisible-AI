@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 03:14:31 UTC
+**Last updated:** 2024-11-02 04:11:31 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69745 USD
-  - Market Cap: $1379218944433.7524 USD
-  - 24h Volume: $49251929998.321556 USD
-  - 24h Change: 0.2702953264095244%
+- **Bitcoin (BTC)**: $69545 USD
+  - Market Cap: $1375723539880.2788 USD
+  - 24h Volume: $46535041481.391266 USD
+  - 24h Change: 0.23716745768029338%
 
-- **Ethereum (ETH)**: $2513.73 USD
-  - Market Cap: $302678727145.33307 USD
-  - 24h Volume: $17625124692.491005 USD
-  - 24h Change: 0.05917499937570117%
+- **Ethereum (ETH)**: $2506.81 USD
+  - Market Cap: $301685222254.03925 USD
+  - 24h Volume: $17894037617.97318 USD
+  - 24h Change: 0.15728417209251153%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 801
-  - Price (BTC): 5.246257115828421e-07
+  - Market Cap Rank: 790
+  - Price (BTC): 5.474291244021031e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 271
-  - Price (BTC): 1.3380707457569421e-06
+  - Price (BTC): 1.3321579374350958e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 188
-  - Price (BTC): 2.172283854567771e-05
+  - Market Cap Rank: 182
+  - Price (BTC): 2.2248774883113927e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 776
-  - Price (BTC): 5.516766931814157e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 555
-  - Price (BTC): 0.0010253518863967833
+  - Market Cap Rank: 549
+  - Price (BTC): 0.0010406263831667102
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 779
+  - Price (BTC): 5.515649605242924e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024042909901076737
+  - Price (BTC): 0.0023982494307957986
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.814550289406156e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 158
+  - Price (BTC): 6.928124201607227e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 108
+  - Price (BTC): 1.1266589103822947e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.8585275472147573e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 162
-  - Price (BTC): 3.64699853347331e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Immutable (IMX)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.5944037484634498e-05
-  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.331013781621878e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2849217503072724e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Alien Base (ALB)**
-  - Market Cap Rank: 758
-  - Price (BTC): 5.50788951722713e-06
-  - [More Info](https://www.coingecko.com/en/coins/alienbase)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 0.006644371585306777
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 318
+  - Price (BTC): 5.1651432259778966e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036053438319590014
+  - Price (BTC): 0.03602454228783332
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2783847866987294e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.3173541269710228e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 524
+  - Price (BTC): 1.6454648181236073e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 ## Posts
 - **Post ID: 1**
