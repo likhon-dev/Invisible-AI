@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 18:12:28 UTC
+**Last updated:** 2024-11-03 19:06:47 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68364 USD
-  - Market Cap: $1351255952649.3706 USD
-  - 24h Volume: $29851424080.37898 USD
-  - 24h Change: -1.2334156058358612%
+- **Bitcoin (BTC)**: $68152 USD
+  - Market Cap: $1347856551398.9282 USD
+  - 24h Volume: $28688616223.18138 USD
+  - 24h Change: -1.8686591841514666%
 
-- **Ethereum (ETH)**: $2446.13 USD
-  - Market Cap: $294486797265.5958 USD
-  - 24h Volume: $13134224734.572926 USD
-  - 24h Change: -1.364655417612486%
+- **Ethereum (ETH)**: $2428.39 USD
+  - Market Cap: $291961102382.1803 USD
+  - 24h Volume: $11920242656.621487 USD
+  - 24h Change: -2.4328702341373227%
 
 ## Trending Coins
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 294
+  - Price (BTC): 2.1944439126638506e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 645
-  - Price (BTC): 0.0007639228539626446
+  - Market Cap Rank: 648
+  - Price (BTC): 0.0007644746549685475
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 528
-  - Price (BTC): 1.0400619224187809e-06
+  - Market Cap Rank: 489
+  - Price (BTC): 1.0544683093264733e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 192
-  - Price (BTC): 2.016864537874687e-05
+  - Price (BTC): 2.0008606921550674e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 296
-  - Price (BTC): 2.179913416908741e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.677728414186884e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023408127101066474
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **MAGA (TRUMP)**
   - Market Cap Rank: 353
-  - Price (BTC): 4.3461201587735765e-05
+  - Price (BTC): 4.321737181825908e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 116
-  - Price (BTC): 1.0071346702857271e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006299781451844779
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Pendle (PENDLE)**
+  - Market Cap Rank: 108
+  - Price (BTC): 6.255751689168782e-05
+  - [More Info](https://www.coingecko.com/en/coins/pendle)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.9274314103360623e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.2609671976986668e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Render (RENDER)**
+  - Market Cap Rank: 53
+  - Price (BTC): 6.354075357314826e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03563228933864981
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03578401868811498
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023570986340846617
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006347097394032058
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 158
-  - Price (BTC): 3.5106046350503824e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.6895693990537132e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Pendle (PENDLE)**
-  - Market Cap Rank: 107
-  - Price (BTC): 6.303828641364477e-05
-  - [More Info](https://www.coingecko.com/en/coins/pendle)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.1484930855853185e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Immutable (IMX)**
-  - Market Cap Rank: 51
-  - Price (BTC): 1.579778851161773e-05
-  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
+- **NEAR Protocol (NEAR)**
+  - Market Cap Rank: 26
+  - Price (BTC): 5.25345564289683e-05
+  - [More Info](https://www.coingecko.com/en/coins/near)
 
 ## Posts
 - **Post ID: 1**
