@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 05:09:12 UTC
+**Last updated:** 2024-11-03 06:14:13 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68669 USD
-  - Market Cap: $1358164231150.555 USD
-  - 24h Volume: $25183846837.69427 USD
-  - 24h Change: -1.1485956749205082%
+- **Bitcoin (BTC)**: $68393 USD
+  - Market Cap: $1352880413572.3203 USD
+  - 24h Volume: $25099586362.877083 USD
+  - 24h Change: -1.769244085675811%
 
-- **Ethereum (ETH)**: $2457.34 USD
-  - Market Cap: $295577352715.88605 USD
-  - 24h Volume: $11038488502.732183 USD
-  - 24h Change: -1.770660703658479%
+- **Ethereum (ETH)**: $2444.32 USD
+  - Market Cap: $294053892225.9858 USD
+  - 24h Volume: $10973664789.889862 USD
+  - 24h Change: -2.556214796258932%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 190
-  - Price (BTC): 2.0782402517311056e-05
+  - Market Cap Rank: 191
+  - Price (BTC): 2.0188816692988038e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **SmarDex (SDEX)**
-  - Market Cap Rank: 568
-  - Price (BTC): 1.0645933277751817e-07
-  - [More Info](https://www.coingecko.com/en/coins/smardex)
-
-- **Tezos (XTZ)**
-  - Market Cap Rank: 123
-  - Price (BTC): 9.00178347228644e-06
-  - [More Info](https://www.coingecko.com/en/coins/tezos)
-
-- **First Digital USD (FDUSD)**
-  - Market Cap Rank: 40
-  - Price (BTC): 1.4577324289398838e-05
-  - [More Info](https://www.coingecko.com/en/coins/first-digital-usd)
-
-- **Frax Share (FXS)**
-  - Market Cap Rank: 341
-  - Price (BTC): 2.5240635903503017e-05
-  - [More Info](https://www.coingecko.com/en/coins/frax-share)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 364
-  - Price (BTC): 4.111524689706499e-05
+  - Market Cap Rank: 356
+  - Price (BTC): 4.305241506265319e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7392393439626362e-05
+  - Price (BTC): 2.7343747293875756e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 470
-  - Price (BTC): 1.2225943301900195e-06
+  - Market Cap Rank: 532
+  - Price (BTC): 1.0642860666567887e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 616
-  - Price (BTC): 0.0008441203938104772
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03570619367151372
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 161
-  - Price (BTC): 6.426901044826056e-06
+  - Price (BTC): 6.5277248207029256e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002369196279191492
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.2029749570989496e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 162
+  - Price (BTC): 3.4162169679573305e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Toncoin (TON)**
+  - Market Cap Rank: 12
+  - Price (BTC): 7.001669405044455e-05
+  - [More Info](https://www.coingecko.com/en/coins/toncoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1011708734806281e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 322
+  - Price (BTC): 2.3188460034601352e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.2142874656428204e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2198424756517522e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 162
-  - Price (BTC): 3.40177271295447e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 260
+  - Price (BTC): 1.1426858278331603e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002376623592210398
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 289
+  - Price (BTC): 2.77496088808658e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 ## Posts
 - **Post ID: 1**
