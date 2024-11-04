@@ -1,82 +1,77 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 16:12:00 UTC
+**Last updated:** 2024-11-04 17:08:31 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68591 USD
-  - Market Cap: $1356428332165.0256 USD
-  - 24h Volume: $38891347597.91869 USD
-  - 24h Change: 0.2328656089132725%
+- **Bitcoin (BTC)**: $67472 USD
+  - Market Cap: $1335107545597.8418 USD
+  - 24h Volume: $37732267029.77767 USD
+  - 24h Change: -1.4134879475041315%
 
-- **Ethereum (ETH)**: $2439.93 USD
-  - Market Cap: $293670264448.98047 USD
-  - 24h Volume: $14555640120.618954 USD
-  - 24h Change: -0.5361656312417952%
+- **Ethereum (ETH)**: $2406.03 USD
+  - Market Cap: $289864629770.8522 USD
+  - 24h Volume: $14764903541.661222 USD
+  - 24h Change: -1.8664279925652565%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 305
-  - Price (BTC): 3.6866669813511264e-10
+  - Market Cap Rank: 301
+  - Price (BTC): 3.7689180746990486e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 697
-  - Price (BTC): 0.0006665276521025797
+  - Market Cap Rank: 685
+  - Price (BTC): 0.0006804599372618288
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 300
-  - Price (BTC): 5.511043557101974e-05
+  - Market Cap Rank: 307
+  - Price (BTC): 5.376628697448906e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 174
-  - Price (BTC): 2.362713055163929e-05
+  - Market Cap Rank: 171
+  - Price (BTC): 2.3907415426154807e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 664
-  - Price (BTC): 6.930393653144106e-07
+  - Market Cap Rank: 654
+  - Price (BTC): 6.888277751419315e-07
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7571194948202334e-05
+  - Price (BTC): 2.7497470847287938e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **PONKE (PONKE)**
   - Market Cap Rank: 248
-  - Price (BTC): 6.425080443398086e-06
+  - Price (BTC): 6.445293257409624e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002375938596805666
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **RETARDIO (RETARDIO)**
-  - Market Cap Rank: 308
-  - Price (BTC): 2.4477890181245916e-06
-  - [More Info](https://www.coingecko.com/en/coins/retardio)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035583842693280375
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 115
-  - Price (BTC): 1.0283602173899296e-05
+  - Price (BTC): 1.0128330817014436e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023618088732779577
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0356306897087178
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 783
-  - Price (BTC): 5.314687840353183e-05
+  - Market Cap Rank: 781
+  - Price (BTC): 5.4242158778434384e-05
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.312703066788244e-06
+  - Price (BTC): 2.2913719735696136e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
@@ -84,10 +79,15 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006202209033586876
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 393
+  - Price (BTC): 2.217917523687233e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.5054000416286323e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
