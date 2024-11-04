@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 05:10:48 UTC
+**Last updated:** 2024-11-04 06:15:01 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69015 USD
-  - Market Cap: $1366490292898.4546 USD
-  - 24h Volume: $35319576659.916374 USD
-  - 24h Change: 0.5415796104987779%
+- **Bitcoin (BTC)**: $68901 USD
+  - Market Cap: $1360584595274.9783 USD
+  - 24h Volume: $31162126185.570942 USD
+  - 24h Change: 0.6654031339821167%
 
-- **Ethereum (ETH)**: $2467.99 USD
-  - Market Cap: $297201920055.45294 USD
-  - 24h Volume: $14559388227.270683 USD
-  - 24h Change: 0.479852671535493%
+- **Ethereum (ETH)**: $2466.23 USD
+  - Market Cap: $296449365739.2271 USD
+  - 24h Volume: $14553628077.964445 USD
+  - 24h Change: 0.8395185864352617%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 171
-  - Price (BTC): 2.395159938246063e-05
+  - Market Cap Rank: 176
+  - Price (BTC): 2.2910854805728668e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 586
-  - Price (BTC): 8.244200509207872e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 318
-  - Price (BTC): 4.9751458463957884e-05
+  - Market Cap Rank: 328
+  - Price (BTC): 4.756474411715927e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 656
+  - Price (BTC): 6.932956349929226e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 144
-  - Price (BTC): 7.715972526930989e-06
+  - Price (BTC): 7.674591622051797e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 704
-  - Price (BTC): 0.0006513837824457658
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002357543518513306
+  - Price (BTC): 0.002347505444732771
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.72547084901306e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.573552556585764e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.739479697858118e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.0901559882898918e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 56
-  - Price (BTC): 8.533225678782732e-06
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Arbitrum (ARB)**
-  - Market Cap Rank: 48
-  - Price (BTC): 7.030244243488048e-06
-  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 182
+  - Price (BTC): 5.364393406584722e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.19798206888281e-06
+  - Price (BTC): 2.1767759425088278e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.5863686808612812e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 109
+  - Price (BTC): 1.0741634404285628e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 160
-  - Price (BTC): 3.4455409109318655e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006216409427704496
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Arbitrum (ARB)**
+  - Market Cap Rank: 48
+  - Price (BTC): 6.996285576876884e-06
+  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 12
+  - Price (BTC): 4.792363847270496e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.1794576392876727e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.911548513927569e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
