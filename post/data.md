@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 11:10:01 UTC
+**Last updated:** 2024-11-04 12:18:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68687 USD
-  - Market Cap: $1359705756735.5435 USD
-  - 24h Volume: $37267250879.94187 USD
-  - 24h Change: 0.4578598946538056%
+- **Bitcoin (BTC)**: $68907 USD
+  - Market Cap: $1359530447703.4597 USD
+  - 24h Volume: $37843874138.96107 USD
+  - 24h Change: 0.882901517796904%
 
-- **Ethereum (ETH)**: $2463.24 USD
-  - Market Cap: $296908227188.52905 USD
-  - 24h Volume: $14488408407.235714 USD
-  - 24h Change: 0.3765790924569863%
+- **Ethereum (ETH)**: $2473.95 USD
+  - Market Cap: $297296455300.9483 USD
+  - 24h Volume: $14559588196.90812 USD
+  - 24h Change: 0.8508105578468212%
 
 ## Trending Coins
-- **PONKE (PONKE)**
-  - Market Cap Rank: 213
-  - Price (BTC): 7.666469758162845e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 172
-  - Price (BTC): 2.3769543270935402e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 653
-  - Price (BTC): 7.286742508353535e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 309
-  - Price (BTC): 5.3509855569948844e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 302
+  - Price (BTC): 3.7924664289779146e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 744
-  - Price (BTC): 0.0006014656635793923
+  - Market Cap Rank: 731
+  - Price (BTC): 0.000610716047607103
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 173
+  - Price (BTC): 2.362560347421916e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 221
+  - Price (BTC): 7.2952478227956715e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 307
+  - Price (BTC): 5.4462483360669694e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 683
+  - Price (BTC): 6.277349571035334e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.734250915779764e-05
+  - Price (BTC): 2.734307007759153e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.9024083808111614e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 390
-  - Price (BTC): 8.68145252409239e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.275006320600609e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002373318085755538
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 149
+  - Price (BTC): 7.312766837333901e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 67
-  - Price (BTC): 1.788004298383312e-05
+  - Price (BTC): 1.814344063818225e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0358591621105251
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **MANTRA (OM)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.8951106775803384e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 159
-  - Price (BTC): 3.541216003746168e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002387306630062189
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 113
-  - Price (BTC): 1.0422022709489323e-05
+  - Price (BTC): 1.0405747671065216e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 152
-  - Price (BTC): 7.303385589156399e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0359056117973892
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.293668880656791e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
