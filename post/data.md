@@ -1,63 +1,63 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 07:09:49 UTC
+**Last updated:** 2024-11-06 08:13:13 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74579 USD
-  - Market Cap: $1472067626381.1257 USD
-  - 24h Volume: $99233575322.59288 USD
-  - 24h Change: 8.499921841231629%
+- **Bitcoin (BTC)**: $73328 USD
+  - Market Cap: $1441302782328.1707 USD
+  - 24h Volume: $110184072858.67192 USD
+  - 24h Change: 6.48789337529095%
 
-- **Ethereum (ETH)**: $2592.51 USD
-  - Market Cap: $312100454886.1693 USD
-  - 24h Volume: $32422869573.827698 USD
-  - 24h Change: 6.700976525709586%
+- **Ethereum (ETH)**: $2596.75 USD
+  - Market Cap: $312629815252.2817 USD
+  - 24h Volume: $35861036030.56182 USD
+  - 24h Change: 6.491436720937858%
 
 ## Trending Coins
-- **BabyBoomToken (BBT)**
-  - Market Cap Rank: 882
-  - Price (BTC): 2.6001956771657017e-06
-  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 306
-  - Price (BTC): 5.233829269729678e-05
+  - Market Cap Rank: 314
+  - Price (BTC): 4.781882609878085e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
+- **Nym (NYM)**
+  - Market Cap Rank: 682
+  - Price (BTC): 8.420865252897159e-07
+  - [More Info](https://www.coingecko.com/en/coins/nym)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 734
+  - Price (BTC): 0.0006247442087497993
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **BabyBoomToken (BBT)**
+  - Market Cap Rank: 842
+  - Price (BTC): 2.8009035890267187e-06
+  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
+
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 463
-  - Price (BTC): 3.8460979938805375e-06
+  - Market Cap Rank: 476
+  - Price (BTC): 3.833493004166636e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 392
-  - Price (BTC): 1.5375398637397403e-06
+  - Market Cap Rank: 430
+  - Price (BTC): 1.4330876551165434e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Nym (NYM)**
-  - Market Cap Rank: 683
-  - Price (BTC): 8.301809627720072e-07
-  - [More Info](https://www.coingecko.com/en/coins/nym)
-
 - **CoW Protocol (COW)**
-  - Market Cap Rank: 405
-  - Price (BTC): 5.954234909853256e-06
+  - Market Cap Rank: 395
+  - Price (BTC): 6.18524857044511e-06
   - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.7738063679834835e-06
+  - Price (BTC): 2.708903938774361e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 166
-  - Price (BTC): 2.4712753851925857e-05
+  - Price (BTC): 2.4666542815967773e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 747
-  - Price (BTC): 0.0005965787953737178
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -66,28 +66,28 @@
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0683082893107875e-05
+  - Price (BTC): 3.0457359283204716e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024920944748748016
+  - Price (BTC): 0.0025025707519407306
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 115
-  - Price (BTC): 2.289032951065868e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03536215162746138
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 119
+  - Price (BTC): 9.472008623382963e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Uniswap (UNI)**
   - Market Cap Rank: 24
-  - Price (BTC): 0.00012371117585151066
+  - Price (BTC): 0.00012081679844102735
   - [More Info](https://www.coingecko.com/en/coins/uniswap)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 117
-  - Price (BTC): 9.572293562615432e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
 - **Post ID: 1**
