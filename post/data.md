@@ -1,78 +1,83 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 16:11:33 UTC
+**Last updated:** 2024-11-06 17:08:18 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74264 USD
-  - Market Cap: $1470450027982.272 USD
-  - 24h Volume: $123693392161.76683 USD
-  - 24h Change: 6.3723800494203%
+- **Bitcoin (BTC)**: $74493 USD
+  - Market Cap: $1470629221527.345 USD
+  - 24h Volume: $128847797649.96786 USD
+  - 24h Change: 5.934686925807169%
 
-- **Ethereum (ETH)**: $2637.36 USD
-  - Market Cap: $318015339823.04297 USD
-  - 24h Volume: $40657969729.74617 USD
-  - 24h Change: 7.73694130785056%
+- **Ethereum (ETH)**: $2656.09 USD
+  - Market Cap: $319843328184.01587 USD
+  - 24h Volume: $41393456911.356415 USD
+  - 24h Change: 7.6652592060033955%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 300
-  - Price (BTC): 3.85636202899349e-10
+  - Market Cap Rank: 296
+  - Price (BTC): 3.9588045602759266e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Nym (NYM)**
-  - Market Cap Rank: 626
-  - Price (BTC): 9.75816927160519e-07
+  - Market Cap Rank: 638
+  - Price (BTC): 9.551403627848892e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
+- **Self Chain (SLF)**
+  - Market Cap Rank: 967
+  - Price (BTC): 3.774869729734116e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
 - **CoW Protocol (COW)**
-  - Market Cap Rank: 311
-  - Price (BTC): 8.987913749726635e-06
+  - Market Cap Rank: 326
+  - Price (BTC): 8.29691564762056e-06
   - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 393
-  - Price (BTC): 3.606847390068104e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 714
-  - Price (BTC): 0.0006437346331872476
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
-- **Panther AI (PAI)**
-  - Market Cap Rank: 929
-  - Price (BTC): 1.4120793454513355e-06
-  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 163
-  - Price (BTC): 2.5973730587564733e-05
+  - Price (BTC): 2.6156350341912492e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Self Chain (SLF)**
-  - Market Cap Rank: 961
-  - Price (BTC): 3.778118074549242e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 409
+  - Price (BTC): 3.349536492667613e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 451
-  - Price (BTC): 4.160914670544963e-06
+  - Market Cap Rank: 435
+  - Price (BTC): 4.339469016972977e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 738
+  - Price (BTC): 0.0006197700540411036
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.579550637880915e-06
+  - Price (BTC): 2.5882772347165234e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0348119518334697e-05
+  - Price (BTC): 3.039864500506706e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024949356760527092
+  - Price (BTC): 0.002499672808111872
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 117
+  - Price (BTC): 9.525307822759552e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Aave (AAVE)**
+  - Market Cap Rank: 40
+  - Price (BTC): 0.0022901640733680225
+  - [More Info](https://www.coingecko.com/en/coins/aave)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -81,13 +86,8 @@
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 64
-  - Price (BTC): 2.06103191702512e-05
+  - Price (BTC): 2.0607962853047602e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2473133958211227e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
