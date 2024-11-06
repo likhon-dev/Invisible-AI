@@ -1,22 +1,27 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 22:09:07 UTC
+**Last updated:** 2024-11-06 23:09:02 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76073 USD
-  - Market Cap: $1504619926650.5476 USD
-  - 24h Volume: $139594769983.87115 USD
-  - 24h Change: 9.959524222831027%
+- **Bitcoin (BTC)**: $75687 USD
+  - Market Cap: $1496981812901.9714 USD
+  - 24h Volume: $137578726909.09283 USD
+  - 24h Change: 8.63602693774953%
 
-- **Ethereum (ETH)**: $2695.6 USD
-  - Market Cap: $324359366427.6521 USD
-  - 24h Volume: $43529728150.93196 USD
-  - 24h Change: 11.55070375080436%
+- **Ethereum (ETH)**: $2734.37 USD
+  - Market Cap: $329173830534.44946 USD
+  - 24h Volume: $38364044256.19436 USD
+  - 24h Change: 12.184372921361389%
 
 ## Trending Coins
+- **Nym (NYM)**
+  - Market Cap Rank: 650
+  - Price (BTC): 9.12989703158387e-07
+  - [More Info](https://www.coingecko.com/en/coins/nym)
+
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.055811882470962e-05
+  - Price (BTC): 3.0792472270331545e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
@@ -25,69 +30,64 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 277
-  - Price (BTC): 4.422292028106836e-10
+  - Market Cap Rank: 278
+  - Price (BTC): 4.5192473391407236e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 79
+  - Price (BTC): 5.797923112161699e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.598937048091396e-06
+  - Price (BTC): 2.622207645539218e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 80
-  - Price (BTC): 5.707910996454759e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024940921965558036
+  - Price (BTC): 0.0025022131946387687
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Panther AI (PAI)**
+  - Market Cap Rank: 962
+  - Price (BTC): 1.342654965895038e-06
+  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
 
 - **BNB (BNB)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0077830638482528115
+  - Price (BTC): 0.007843397212003575
   - [More Info](https://www.coingecko.com/en/coins/bnb)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 134
+  - Price (BTC): 3.489044983547478e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03545383125152899
+  - Price (BTC): 0.036086983928061915
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 739
-  - Price (BTC): 0.000622288129897272
+  - Market Cap Rank: 734
+  - Price (BTC): 0.000617837486983295
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 125
-  - Price (BTC): 3.537152536928103e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Nym (NYM)**
-  - Market Cap Rank: 649
-  - Price (BTC): 9.177144972031156e-07
-  - [More Info](https://www.coingecko.com/en/coins/nym)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 507
-  - Price (BTC): 2.441388575679177e-05
+  - Market Cap Rank: 487
+  - Price (BTC): 2.719854921951639e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 268
-  - Price (BTC): 3.6868997331816077e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 458
+  - Price (BTC): 4.017497573853522e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
-- **Panther AI (PAI)**
-  - Market Cap Rank: 952
-  - Price (BTC): 1.3349133141589635e-06
-  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 99
-  - Price (BTC): 1.1883850099781545e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 392
+  - Price (BTC): 1.7091167409782888e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 ## Posts
 - **Post ID: 1**
