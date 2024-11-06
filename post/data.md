@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 04:13:15 UTC
+**Last updated:** 2024-11-06 05:09:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74292 USD
-  - Market Cap: $1467742319349.964 USD
-  - 24h Volume: $86075515972.3608 USD
-  - 24h Change: 8.727129241333678%
+- **Bitcoin (BTC)**: $73995 USD
+  - Market Cap: $1463119535122.5486 USD
+  - 24h Volume: $92956778004.02643 USD
+  - 24h Change: 8.255210063848537%
 
-- **Ethereum (ETH)**: $2586.67 USD
-  - Market Cap: $310825668519.52234 USD
-  - 24h Volume: $28118600222.832333 USD
-  - 24h Change: 6.783417149646185%
+- **Ethereum (ETH)**: $2575.07 USD
+  - Market Cap: $309044587317.5308 USD
+  - 24h Volume: $29706181790.609627 USD
+  - 24h Change: 6.139558227780534%
 
 ## Trending Coins
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 280
-  - Price (BTC): 6.244746653197052e-05
+  - Market Cap Rank: 302
+  - Price (BTC): 5.330484543625314e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 743
+  - Price (BTC): 0.0005944192179011782
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 161
+  - Price (BTC): 2.6005761012418432e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.7683644634160626e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 2.7843834945100257e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 163
-  - Price (BTC): 2.533945956173177e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 468
-  - Price (BTC): 1.2367876251053326e-06
+  - Market Cap Rank: 406
+  - Price (BTC): 1.5314202151458047e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Nym (NYM)**
-  - Market Cap Rank: 684
-  - Price (BTC): 8.262302450692601e-07
+  - Market Cap Rank: 686
+  - Price (BTC): 8.257920048332312e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002469143276372792
+  - Price (BTC): 0.002494997680708774
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0617842249205494e-05
+  - Price (BTC): 3.0887640657820744e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 118
+  - Price (BTC): 9.419963889050369e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.034664572081948675
+  - Price (BTC): 0.03473601835636651
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.2620684695450007e-10
+  - Price (BTC): 1.257817817624614e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 115
-  - Price (BTC): 9.51695482730234e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.9657623812949577e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
 - **Doland Tremp (TREMP)**
-  - Market Cap Rank: 810
-  - Price (BTC): 5.249145185153301e-06
+  - Market Cap Rank: 789
+  - Price (BTC): 5.1498899151589665e-06
   - [More Info](https://www.coingecko.com/en/coins/doland-tremp)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.00672525396187213
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.3798163080289414e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 42
-  - Price (BTC): 3.236697301981629e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 521
+  - Price (BTC): 1.042545741762255e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 ## Posts
 - **Post ID: 1**
