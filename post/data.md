@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 02:10:21 UTC
+**Last updated:** 2024-11-07 03:16:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75471 USD
-  - Market Cap: $1492586598267.2412 USD
-  - 24h Volume: $129209411723.63567 USD
-  - 24h Change: 5.98600925876693%
+- **Bitcoin (BTC)**: $75225 USD
+  - Market Cap: $1488304177503.5713 USD
+  - 24h Volume: $113350830232.34259 USD
+  - 24h Change: 1.7430593060408017%
 
-- **Ethereum (ETH)**: $2821.39 USD
-  - Market Cap: $338958739760.91034 USD
-  - 24h Volume: $47388510899.44454 USD
-  - 24h Change: 13.467213302007053%
+- **Ethereum (ETH)**: $2860.19 USD
+  - Market Cap: $344405894408.02454 USD
+  - 24h Volume: $45141401078.37855 USD
+  - 24h Change: 10.04796752400607%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 278
-  - Price (BTC): 4.5161843382764007e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 702
-  - Price (BTC): 0.0006764159227289627
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 143
-  - Price (BTC): 3.434681422234123e-05
+  - Market Cap Rank: 133
+  - Price (BTC): 3.5735813590463774e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 528
-  - Price (BTC): 2.3197753363155183e-05
+  - Market Cap Rank: 525
+  - Price (BTC): 2.3483468986859068e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 67
-  - Price (BTC): 6.62501488725057e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0570749254493986e-05
+  - Price (BTC): 3.077456104524272e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03732097633350972
+  - Price (BTC): 0.038054783207147634
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 70
+  - Price (BTC): 6.609197768750258e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 282
+  - Price (BTC): 4.502286022143283e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002517198151086248
+  - Price (BTC): 0.00254009163406265
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.643617119798909e-06
+  - Price (BTC): 2.630334936639726e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 151
-  - Price (BTC): 3.987377914616166e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 382
-  - Price (BTC): 1.7506266706974014e-06
+  - Market Cap Rank: 390
+  - Price (BTC): 1.7100853732190725e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 100
+  - Price (BTC): 2.7649573731792777e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4025818916187307e-10
+  - Price (BTC): 1.432089379172988e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 688
+  - Price (BTC): 0.0007262822641757092
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Aave (AAVE)**
+  - Market Cap Rank: 38
+  - Price (BTC): 0.0024976912745875044
+  - [More Info](https://www.coingecko.com/en/coins/aave)
+
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 448
-  - Price (BTC): 4.251410571769014e-06
+  - Market Cap Rank: 452
+  - Price (BTC): 4.226311439345199e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
-- **Uniswap (UNI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 0.00012390859459128178
-  - [More Info](https://www.coingecko.com/en/coins/uniswap)
-
-- **Celestia (TIA)**
-  - Market Cap Rank: 51
-  - Price (BTC): 6.86509785074469e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
