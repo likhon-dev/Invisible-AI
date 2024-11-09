@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 22:07:54 UTC
+**Last updated:** 2024-11-09 23:09:09 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76452 USD
-  - Market Cap: $1512852585511.6482 USD
-  - 24h Volume: $27752261244.648067 USD
-  - 24h Change: -0.1719205192186142%
+- **Bitcoin (BTC)**: $76629 USD
+  - Market Cap: $1514464312934.3074 USD
+  - 24h Volume: $27744971505.096497 USD
+  - 24h Change: 0.3027606935855912%
 
-- **Ethereum (ETH)**: $3077.38 USD
-  - Market Cap: $370848349402.6248 USD
-  - 24h Volume: $27429841641.876434 USD
-  - 24h Change: 4.325830575191688%
+- **Ethereum (ETH)**: $3136.06 USD
+  - Market Cap: $377583095154.61975 USD
+  - 24h Volume: $28699186760.645203 USD
+  - 24h Change: 6.029866228833671%
 
 ## Trending Coins
 - **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.378650885806263e-05
+  - Market Cap Rank: 19
+  - Price (BTC): 3.65036618203689e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 480
-  - Price (BTC): 1.1436978678601064e-06
+  - Market Cap Rank: 482
+  - Price (BTC): 1.1426725169769012e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 117
-  - Price (BTC): 4.0346744784738544e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Swell (SWELL)**
+  - Market Cap Rank: 541
+  - Price (BTC): 8.326870025547606e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Drift Protocol (DRIFT)**
   - Market Cap Rank: 175
-  - Price (BTC): 2.3253936838468085e-05
+  - Price (BTC): 2.3420245899121587e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 543
-  - Price (BTC): 8.254700233677368e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Grass (GRASS)**
+  - Market Cap Rank: 119
+  - Price (BTC): 3.962298283479123e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 279
-  - Price (BTC): 5.299937696284768e-06
+  - Market Cap Rank: 270
+  - Price (BTC): 5.6952573594454135e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 240
-  - Price (BTC): 5.824940985220103e-08
-  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002595804153675242
+  - Price (BTC): 0.002608988611660837
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Hamster Kombat (HMSTR)**
+  - Market Cap Rank: 246
+  - Price (BTC): 5.749642601625712e-08
+  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.040878479504494525
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
 - **Parcl (PRCL)**
-  - Market Cap Rank: 561
-  - Price (BTC): 6.489658106770917e-06
+  - Market Cap Rank: 559
+  - Price (BTC): 6.570910100585087e-06
   - [More Info](https://www.coingecko.com/en/coins/parcl)
 
-- **Ethena (ENA)**
-  - Market Cap Rank: 66
-  - Price (BTC): 7.295008921107884e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.582304261823934e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.708969284491976e-06
+  - Market Cap Rank: 33
+  - Price (BTC): 1.7385250815108155e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.933538309971654e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 2.8046093973354114e-06
+  - Price (BTC): 2.802341958766607e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.422830399829661e-10
+  - Price (BTC): 1.4595838919006726e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 313
-  - Price (BTC): 2.4864624075552385e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 ## Posts
 - **Post ID: 1**
