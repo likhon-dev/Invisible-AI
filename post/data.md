@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 14:08:03 UTC
+**Last updated:** 2024-11-09 15:09:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76445 USD
-  - Market Cap: $1512739896495.1787 USD
-  - 24h Volume: $47485236617.21937 USD
-  - 24h Change: 0.17321707826824234%
+- **Bitcoin (BTC)**: $76325 USD
+  - Market Cap: $1509779269841.0425 USD
+  - 24h Volume: $42803095915.58687 USD
+  - 24h Change: 0.7580253478173969%
 
-- **Ethereum (ETH)**: $3046.75 USD
-  - Market Cap: $366959161310.4992 USD
-  - 24h Volume: $33415367959.286877 USD
-  - 24h Change: 3.346851540439781%
+- **Ethereum (ETH)**: $3035.25 USD
+  - Market Cap: $365522273867.26685 USD
+  - 24h Volume: $33171859583.86242 USD
+  - 24h Change: 4.181758450014481%
 
 ## Trending Coins
 - **lmeow (LMEOW)**
-  - Market Cap Rank: 794
-  - Price (BTC): 5.316868429844948e-07
+  - Market Cap Rank: 790
+  - Price (BTC): 5.263492356660718e-07
   - [More Info](https://www.coingecko.com/en/coins/lmeow-2)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 127
-  - Price (BTC): 3.743109360809542e-05
+  - Market Cap Rank: 130
+  - Price (BTC): 3.697308654532857e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 468
-  - Price (BTC): 1.1855885443826313e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Swell (SWELL)**
-  - Market Cap Rank: 503
-  - Price (BTC): 8.895197012184232e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 198
-  - Price (BTC): 2.0325281630525232e-05
+  - Market Cap Rank: 201
+  - Price (BTC): 1.9854487858489775e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
+- **Swell (SWELL)**
+  - Market Cap Rank: 534
+  - Price (BTC): 8.345806147604199e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
 - **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 235
-  - Price (BTC): 6.113324753793913e-08
+  - Market Cap Rank: 248
+  - Price (BTC): 5.6287878867491183e-08
   - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 63
-  - Price (BTC): 1.5556673008373367e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 466
+  - Price (BTC): 1.1820181460802786e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Parcl (PRCL)**
-  - Market Cap Rank: 583
-  - Price (BTC): 5.948025484767789e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.5340405837943935e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0220245387676106e-05
+  - Price (BTC): 3.052336915340005e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026165685062452962
+  - Price (BTC): 0.0025947486661719813
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.697612999551201e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 126
+  - Price (BTC): 9.20622583215848e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Kamino (KMNO)**
-  - Market Cap Rank: 282
-  - Price (BTC): 2.2628426821468545e-06
-  - [More Info](https://www.coingecko.com/en/coins/kamino)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 7.092066501666671e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.4113872585727667e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03985741396105679
+  - Price (BTC): 0.03979977289932875
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006447859265473432
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Kamino (KMNO)**
+  - Market Cap Rank: 293
+  - Price (BTC): 2.1363043928281607e-06
+  - [More Info](https://www.coingecko.com/en/coins/kamino)
+
+- **Dogs (DOGS)**
+  - Market Cap Rank: 207
+  - Price (BTC): 9.272277208592424e-09
+  - [More Info](https://www.coingecko.com/en/coins/dogs)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 31
+  - Price (BTC): 1.8210629598485072e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 ## Posts
 - **Post ID: 1**
