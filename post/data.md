@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 09:08:31 UTC
+**Last updated:** 2024-11-09 10:08:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76640 USD
-  - Market Cap: $1514542578848.4731 USD
-  - 24h Volume: $53640032511.70459 USD
-  - 24h Change: 1.004400432151302%
+- **Bitcoin (BTC)**: $76609 USD
+  - Market Cap: $1515168363148.3845 USD
+  - 24h Volume: $51805801080.86804 USD
+  - 24h Change: 0.9775539228608366%
 
-- **Ethereum (ETH)**: $3029.53 USD
-  - Market Cap: $364474035679.4227 USD
-  - 24h Volume: $34032754302.00781 USD
-  - 24h Change: 4.378849976160619%
+- **Ethereum (ETH)**: $3048.19 USD
+  - Market Cap: $366821098167.0403 USD
+  - 24h Volume: $32454275066.129112 USD
+  - 24h Change: 4.806353209087922%
 
 ## Trending Coins
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 177
-  - Price (BTC): 2.300140161976955e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+- **Swell (SWELL)**
+  - Market Cap Rank: 547
+  - Price (BTC): 8.590913282654729e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 117
-  - Price (BTC): 4.051786929244382e-05
+  - Price (BTC): 4.082922146805158e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 178
+  - Price (BTC): 2.297281936655459e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 468
-  - Price (BTC): 1.1854742772804686e-06
+  - Market Cap Rank: 464
+  - Price (BTC): 1.199601870237797e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 557
-  - Price (BTC): 7.842643954321664e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
-- **Parcl (PRCL)**
-  - Market Cap Rank: 608
-  - Price (BTC): 5.5831503696276404e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
-
 - **Kamino (KMNO)**
-  - Market Cap Rank: 284
-  - Price (BTC): 2.242308844466457e-06
+  - Market Cap Rank: 292
+  - Price (BTC): 2.200769153498336e-06
   - [More Info](https://www.coingecko.com/en/coins/kamino)
 
+- **Jupiter (JUP)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.559875451309355e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Parcl (PRCL)**
+  - Market Cap Rank: 595
+  - Price (BTC): 5.807378853892366e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
+
 - **Raydium (RAY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 7.582593376936226e-05
+  - Market Cap Rank: 66
+  - Price (BTC): 7.811426179801456e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.5336287649016372e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.4616451661473544e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0257753449030737e-05
+  - Price (BTC): 3.0033950968439756e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03952530721934749
+  - Price (BTC): 0.03976596171059654
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026341491725578457
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.4570032776523648e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 45
-  - Price (BTC): 3.2354153578092926e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 87
-  - Price (BTC): 9.634508148949843e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.740694964644217e-06
+  - Price (BTC): 2.7518676875451848e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 88
+  - Price (BTC): 9.614009124921918e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026389398750165357
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **TriasLab (TRIAS)**
+  - Market Cap Rank: 973
+  - Price (BTC): 3.743500802169694e-05
+  - [More Info](https://www.coingecko.com/en/coins/trias-token)
 
 ## Posts
 - **Post ID: 1**
