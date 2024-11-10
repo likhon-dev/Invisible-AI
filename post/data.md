@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 04:11:00 UTC
+**Last updated:** 2024-11-10 05:08:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $77321 USD
-  - Market Cap: $1527193545511.1455 USD
-  - 24h Volume: $32447798762.411217 USD
-  - 24h Change: 1.1745238132843587%
+- **Bitcoin (BTC)**: $79159 USD
+  - Market Cap: $1563306338536.9128 USD
+  - 24h Volume: $39024429987.90763 USD
+  - 24h Change: 3.5295855295140086%
 
-- **Ethereum (ETH)**: $3139.78 USD
-  - Market Cap: $377637023613.7854 USD
-  - 24h Volume: $31695105322.872837 USD
-  - 24h Change: 5.744930689133422%
+- **Ethereum (ETH)**: $3188.81 USD
+  - Market Cap: $383640036787.972 USD
+  - 24h Volume: $33713399183.560493 USD
+  - 24h Change: 7.125315543342441%
 
 ## Trending Coins
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.650509954356572e-05
+  - Price (BTC): 3.640076400233734e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Tezos (XTZ)**
-  - Market Cap Rank: 131
-  - Price (BTC): 9.054579386295837e-06
-  - [More Info](https://www.coingecko.com/en/coins/tezos)
+- **Venus (XVS)**
+  - Market Cap Rank: 416
+  - Price (BTC): 9.614039562618242e-05
+  - [More Info](https://www.coingecko.com/en/coins/venus)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 483
-  - Price (BTC): 1.158317383006748e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 254
-  - Price (BTC): 6.102358294257244e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 111
-  - Price (BTC): 4.237427620484601e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **XBorg (XBG)**
+  - Market Cap Rank: 687
+  - Price (BTC): 3.220398641445922e-06
+  - [More Info](https://www.coingecko.com/en/coins/xborg)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 6.9146740595763645e-06
+  - Price (BTC): 7.2570233681616836e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Venus (XVS)**
-  - Market Cap Rank: 415
-  - Price (BTC): 9.648739162258474e-05
-  - [More Info](https://www.coingecko.com/en/coins/venus)
+- **Grass (GRASS)**
+  - Market Cap Rank: 116
+  - Price (BTC): 4.0793064794752484e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 248
+  - Price (BTC): 6.135777783807276e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **Tezos (XTZ)**
+  - Market Cap Rank: 131
+  - Price (BTC): 8.999512351911294e-06
+  - [More Info](https://www.coingecko.com/en/coins/tezos)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 114
+  - Price (BTC): 9.803695931746746e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 488
+  - Price (BTC): 1.137329802845973e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 2.9492884964208124e-06
+  - Price (BTC): 2.9182839239563352e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026069681820746985
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Nano (XNO)**
+  - Market Cap Rank: 423
+  - Price (BTC): 1.1471454060295794e-05
+  - [More Info](https://www.coingecko.com/en/coins/nano)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 556
-  - Price (BTC): 7.87043905125913e-07
+  - Market Cap Rank: 560
+  - Price (BTC): 7.545691365695856e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 177
-  - Price (BTC): 2.3010083827921606e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 63
-  - Price (BTC): 1.5897268311971074e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
 - **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 208
-  - Price (BTC): 7.453490510127687e-08
+  - Market Cap Rank: 212
+  - Price (BTC): 7.221124205390648e-08
   - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.040585797957943044
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **Dogs (DOGS)**
-  - Market Cap Rank: 192
-  - Price (BTC): 1.0277797782154445e-08
+  - Market Cap Rank: 202
+  - Price (BTC): 9.82041741724499e-09
   - [More Info](https://www.coingecko.com/en/coins/dogs)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 92
+  - Price (BTC): 1.9382946494498247e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
