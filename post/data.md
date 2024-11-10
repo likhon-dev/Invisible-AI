@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 16:09:39 UTC
+**Last updated:** 2024-11-10 17:07:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $79708 USD
-  - Market Cap: $1578239678753.4592 USD
-  - 24h Volume: $68993399635.1009 USD
-  - 24h Change: 4.474097055952302%
+- **Bitcoin (BTC)**: $79812 USD
+  - Market Cap: $1578975584372.6519 USD
+  - 24h Volume: $64132932594.801476 USD
+  - 24h Change: 4.916052472326984%
 
-- **Ethereum (ETH)**: $3209.36 USD
-  - Market Cap: $386730126110.7002 USD
-  - 24h Volume: $41191135536.83589 USD
-  - 24h Change: 5.586214041924152%
+- **Ethereum (ETH)**: $3214.08 USD
+  - Market Cap: $386990309033.78705 USD
+  - 24h Volume: $42165653617.99718 USD
+  - 24h Change: 6.179780696027675%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 274
-  - Price (BTC): 4.791434798511926e-10
+  - Price (BTC): 4.804124552708483e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Notcoin (NOT)**
   - Market Cap Rank: 116
-  - Price (BTC): 9.94725173116769e-08
+  - Price (BTC): 9.867958402227456e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.7688415942481286e-05
+  - Price (BTC): 3.7906739581702906e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 123
+  - Price (BTC): 3.9892626128829784e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Solidus Ai Tech (AITECH)**
   - Market Cap Rank: 482
-  - Price (BTC): 1.18084401364738e-06
+  - Price (BTC): 1.187292173411979e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 129
-  - Price (BTC): 3.82333604153215e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.090575092044583e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.475169495124489e-06
+  - Price (BTC): 7.613797683500485e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 6
+  - Price (BTC): 3.293315903051807e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002658736012867044
+  - Price (BTC): 0.0026474037790706383
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.574927751941432e-10
+  - Price (BTC): 1.5800766974379098e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.965798939490301e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 105
+  - Price (BTC): 1.1342132824309512e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.040237331925441384
+  - Price (BTC): 0.04026431628559783
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.3564117772680746e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.9623711118835087e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 85
+  - Price (BTC): 1.0444027428028768e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.2368349038642275e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 93
-  - Price (BTC): 1.9605541245492296e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 299
-  - Price (BTC): 9.821315585615795e-07
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 ## Posts
 - **Post ID: 1**
