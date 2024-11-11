@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 05:10:31 UTC
+**Last updated:** 2024-11-11 06:14:02 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $81568 USD
-  - Market Cap: $1612307133564.9688 USD
-  - 24h Volume: $92311656939.41794 USD
-  - 24h Change: 3.0460702560688357%
+- **Bitcoin (BTC)**: $80951 USD
+  - Market Cap: $1597892851734.8586 USD
+  - 24h Volume: $84682723048.2688 USD
+  - 24h Change: 2.2791952103060713%
 
-- **Ethereum (ETH)**: $3185.13 USD
-  - Market Cap: $383223011684.6909 USD
-  - 24h Volume: $49620912919.23176 USD
-  - 24h Change: -0.10427299741737979%
+- **Ethereum (ETH)**: $3138.32 USD
+  - Market Cap: $377943031076.4606 USD
+  - 24h Volume: $45696584397.47366 USD
+  - 24h Change: -1.1670537885175292%
 
 ## Trending Coins
-- **BounceBit (BB)**
-  - Market Cap Rank: 393
-  - Price (BTC): 4.232701582431698e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 218
+  - Price (BTC): 4.225306146643096e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 18
-  - Price (BTC): 3.9495238625125384e-05
+  - Price (BTC): 3.892701108482441e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 132
-  - Price (BTC): 3.582928738901844e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.624156021725518e-06
+  - Price (BTC): 3.471479881440577e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 134
+  - Price (BTC): 3.4456818128453144e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 401
+  - Price (BTC): 4.1107110739394766e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 39
-  - Price (BTC): 3.83584475460766e-05
+  - Market Cap Rank: 40
+  - Price (BTC): 3.693264779367465e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.5536880896659054e-10
+  - Price (BTC): 1.4889054889612459e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002553556581760078
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.103577240098487e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Acet (ACT)**
+  - Market Cap Rank: 402
+  - Price (BTC): 7.657561552009948e-07
+  - [More Info](https://www.coingecko.com/en/coins/acet)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.8255240647490003e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002552731632624836
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03881987542848574
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 209
+  - Price (BTC): 4.664074307704763e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.4813953717613644e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.103457594351532e-05
+  - Market Cap Rank: 108
+  - Price (BTC): 1.0335825086235376e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.2148865447793447e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 78
-  - Price (BTC): 1.0913311814528372e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Swell (SWELL)**
-  - Market Cap Rank: 640
-  - Price (BTC): 6.013449191047449e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 675
-  - Price (BTC): 1.5500905844062246e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.276027415420459e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
 - **Post ID: 1**
