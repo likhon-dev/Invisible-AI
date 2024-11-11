@@ -1,53 +1,58 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 19:07:03 UTC
+**Last updated:** 2024-11-11 20:09:58 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $85910 USD
-  - Market Cap: $1699649734063.1072 USD
-  - 24h Volume: $107812008916.88828 USD
-  - 24h Change: 6.403821936626689%
+- **Bitcoin (BTC)**: $86633 USD
+  - Market Cap: $1713559485018.4124 USD
+  - 24h Volume: $116975226731.0244 USD
+  - 24h Change: 9.048010188437997%
 
-- **Ethereum (ETH)**: $3331.19 USD
-  - Market Cap: $401165535023.759 USD
-  - 24h Volume: $53961723875.4768 USD
-  - 24h Change: 3.365162229730508%
+- **Ethereum (ETH)**: $3310.92 USD
+  - Market Cap: $398713293955.21594 USD
+  - 24h Volume: $57703773578.662704 USD
+  - 24h Change: 4.783548780613081%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 624
-  - Price (BTC): 2.5038535295897966e-07
+  - Market Cap Rank: 651
+  - Price (BTC): 2.2313612928971466e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
+- **BounceBit (BB)**
+  - Market Cap Rank: 397
+  - Price (BTC): 4.0850778211673966e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 183
-  - Price (BTC): 5.7511953899678124e-06
+  - Market Cap Rank: 193
+  - Price (BTC): 5.136216287955867e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 353
-  - Price (BTC): 1.681789420412401e-10
+  - Market Cap Rank: 363
+  - Price (BTC): 1.546415555679545e-10
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 6
-  - Price (BTC): 3.7652370654930596e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 213
-  - Price (BTC): 4.5371836277151384e-06
+  - Market Cap Rank: 222
+  - Price (BTC): 4.115001761211832e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 170
+  - Price (BTC): 6.471627146739428e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Sui (SUI)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.718444317852341e-05
+  - Price (BTC): 3.663523833662157e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 111
-  - Price (BTC): 4.14866511965361e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 6
+  - Price (BTC): 3.691587657089085e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -56,37 +61,32 @@
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025600367121245324
+  - Price (BTC): 0.0025265946505765315
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 398
-  - Price (BTC): 4.136864598935118e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Grass (GRASS)**
+  - Market Cap Rank: 112
+  - Price (BTC): 4.037634798310751e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03880530826167423
+  - Price (BTC): 0.038315835719288156
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Cronos (CRO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 1.928800896592226e-06
+  - Market Cap Rank: 30
+  - Price (BTC): 2.015928325117453e-06
   - [More Info](https://www.coingecko.com/en/coins/cronos)
-
-- **Aptos (APT)**
-  - Market Cap Rank: 24
-  - Price (BTC): 0.00014254046069806154
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
 
 - **Render (RENDER)**
   - Market Cap Rank: 50
-  - Price (BTC): 7.544525857721646e-05
+  - Price (BTC): 7.480628118633779e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.0069520528885e-06
+  - Price (BTC): 6.9311721535198325e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
