@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 22:08:45 UTC
+**Last updated:** 2024-11-11 23:08:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $87775 USD
-  - Market Cap: $1736376082540.667 USD
-  - 24h Volume: $125118724043.32614 USD
-  - 24h Change: 9.182985339492651%
+- **Bitcoin (BTC)**: $88841 USD
+  - Market Cap: $1757049365467.0723 USD
+  - 24h Volume: $130170312050.54156 USD
+  - 24h Change: 10.477840013260229%
 
-- **Ethereum (ETH)**: $3320.21 USD
-  - Market Cap: $401062629522.4439 USD
-  - 24h Volume: $59434083548.271194 USD
-  - 24h Change: 4.047661748739702%
+- **Ethereum (ETH)**: $3375.12 USD
+  - Market Cap: $405018942629.34985 USD
+  - 24h Volume: $60251326245.73467 USD
+  - 24h Change: 6.133769412727336%
 
 ## Trending Coins
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 365
+  - Price (BTC): 1.542829174616193e-10
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 595
-  - Price (BTC): 2.4425875887761395e-07
+  - Market Cap Rank: 582
+  - Price (BTC): 2.793270968333909e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 396
-  - Price (BTC): 4.063461993258964e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Notcoin (NOT)**
+  - Market Cap Rank: 120
+  - Price (BTC): 8.776570093792218e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Act I The AI Prophecy (ACT)**
   - Market Cap Rank: 204
-  - Price (BTC): 4.952379080333903e-06
+  - Price (BTC): 5.103900214801539e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.651730673668776e-05
+  - Price (BTC): 3.64415782744148e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Cronos (CRO)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.5204696822208907e-06
+  - [More Info](https://www.coingecko.com/en/coins/cronos)
+
+- **Nimiq (NIM)**
+  - Market Cap Rank: 1000
+  - Price (BTC): 2.773721495624143e-08
+  - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 222
-  - Price (BTC): 4.160749177315145e-06
+  - Price (BTC): 4.22259801587662e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 362
-  - Price (BTC): 1.5890966466402398e-10
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.7475062165338436e-06
+  - Price (BTC): 3.7276930003423287e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 47
-  - Price (BTC): 7.474689864945177e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 166
-  - Price (BTC): 6.483080712345428e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **BounceBit (BB)**
+  - Market Cap Rank: 396
+  - Price (BTC): 4.071960380989162e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024898452747747794
+  - Price (BTC): 0.002514150989530065
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 1.4835855714536154e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Render (RENDER)**
+  - Market Cap Rank: 47
+  - Price (BTC): 7.641669978279068e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 119
-  - Price (BTC): 3.847640301390842e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Cronos (CRO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 2.232987237439513e-06
-  - [More Info](https://www.coingecko.com/en/coins/cronos)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 164
+  - Price (BTC): 6.578002855519844e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03785427170857912
+  - Price (BTC): 0.03808131352142348
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
