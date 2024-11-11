@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 07:10:40 UTC
+**Last updated:** 2024-11-11 08:13:07 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $80857 USD
-  - Market Cap: $1599591574537.0183 USD
-  - 24h Volume: $87452486959.9202 USD
-  - 24h Change: 2.316891782827695%
+- **Bitcoin (BTC)**: $81341 USD
+  - Market Cap: $1608007575944.3293 USD
+  - 24h Volume: $85368779900.1843 USD
+  - 24h Change: 2.9595140578044967%
 
-- **Ethereum (ETH)**: $3135.1 USD
-  - Market Cap: $377704932896.3793 USD
-  - 24h Volume: $48208427842.1554 USD
-  - 24h Change: -1.5982405589217132%
+- **Ethereum (ETH)**: $3150.15 USD
+  - Market Cap: $379325631250.94543 USD
+  - 24h Volume: $47497174967.92344 USD
+  - 24h Change: -1.213650502893881%
 
 ## Trending Coins
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 239
+  - Price (BTC): 4.082320326397869e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 213
-  - Price (BTC): 4.78078847455762e-06
+  - Market Cap Rank: 214
+  - Price (BTC): 4.4480752341626434e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 251
-  - Price (BTC): 3.7638657887830253e-06
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+- **HappyCat (HAPPY)**
+  - Market Cap Rank: 838
+  - Price (BTC): 1.4026586565777096e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 399
+  - Price (BTC): 4.135812974140312e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Sui (SUI)**
   - Market Cap Rank: 18
-  - Price (BTC): 3.886047030531044e-05
+  - Price (BTC): 3.9024999830767716e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 6
-  - Price (BTC): 3.4503861349812702e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 134
-  - Price (BTC): 3.387697319230246e-05
+  - Market Cap Rank: 135
+  - Price (BTC): 3.4162888517509956e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 39
-  - Price (BTC): 3.712060055347356e-05
+  - Market Cap Rank: 40
+  - Price (BTC): 3.743042359774911e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 400
-  - Price (BTC): 4.09264108304128e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002558300548286786
+  - Price (BTC): 0.0025673693478014173
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 111
-  - Price (BTC): 1.0069799067853103e-05
+  - Market Cap Rank: 112
+  - Price (BTC): 1.0252208835099747e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 93
-  - Price (BTC): 2.998966756546014e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.4844108314070122e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 1.9100335005562933e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 214
-  - Price (BTC): 4.568703792356768e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.060789013957318e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 6
+  - Price (BTC): 3.487733842577608e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03874332236493531
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.4933176099678345e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Swell (SWELL)**
+  - Market Cap Rank: 676
+  - Price (BTC): 5.455217013624269e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.9173794522930064e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
