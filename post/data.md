@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 21:08:25 UTC
+**Last updated:** 2024-11-12 22:08:48 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $89476 USD
-  - Market Cap: $1771843227874.0435 USD
-  - 24h Volume: $161757530665.2466 USD
-  - 24h Change: 2.7928663455376515%
+- **Bitcoin (BTC)**: $88248 USD
+  - Market Cap: $1745103328982.0688 USD
+  - 24h Volume: $161005469897.9256 USD
+  - 24h Change: 0.5297628409926909%
 
-- **Ethereum (ETH)**: $3289.18 USD
-  - Market Cap: $396533636493.1886 USD
-  - 24h Volume: $66616156611.58289 USD
-  - 24h Change: -1.6945114733273905%
+- **Ethereum (ETH)**: $3279.43 USD
+  - Market Cap: $394601645422.49927 USD
+  - 24h Volume: $63612922652.509796 USD
+  - 24h Change: -1.189999903852%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 519
-  - Price (BTC): 3.0648379926790264e-07
+  - Market Cap Rank: 535
+  - Price (BTC): 3.0137919584946664e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 288
-  - Price (BTC): 3.9642986871836107e-10
+  - Price (BTC): 4.021842386386201e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **PaLM AI (PALM)**
-  - Market Cap Rank: 718
-  - Price (BTC): 7.6112815685303565e-06
+  - Market Cap Rank: 716
+  - Price (BTC): 7.783125609542808e-06
   - [More Info](https://www.coingecko.com/en/coins/palm-ai)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 395
-  - Price (BTC): 3.842902809776404e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
 - **Notcoin (NOT)**
-  - Market Cap Rank: 126
-  - Price (BTC): 8.220074616772962e-08
+  - Market Cap Rank: 125
+  - Price (BTC): 8.46970054496882e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 437
-  - Price (BTC): 1.535825721047165e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+- **BounceBit (BB)**
+  - Market Cap Rank: 393
+  - Price (BTC): 3.889600611198037e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Nimiq (NIM)**
-  - Market Cap Rank: 969
-  - Price (BTC): 2.8037827401476124e-08
+  - Market Cap Rank: 975
+  - Price (BTC): 2.8380656918512335e-08
   - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.5444884194591523e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 439
+  - Price (BTC): 1.5312776444258148e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 51
-  - Price (BTC): 3.868353031776792e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Sui (SUI)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.611609397467482e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.252884753991942e-06
+  - Price (BTC): 4.3101436375220826e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 7
-  - Price (BTC): 7.956660133967868e-06
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.563680446292188e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0023820986818052126
+  - Price (BTC): 0.002411209906711799
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 183
-  - Price (BTC): 5.256658844471109e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **lmeow (LMEOW)**
-  - Market Cap Rank: 897
-  - Price (BTC): 3.9928523004174033e-07
-  - [More Info](https://www.coingecko.com/en/coins/lmeow-2)
+- **XRP (XRP)**
+  - Market Cap Rank: 7
+  - Price (BTC): 8.170210495507434e-06
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.460017383187601e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Bonk (BONK)**
+  - Market Cap Rank: 52
+  - Price (BTC): 3.8597980103523043e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 1.5482942987367728e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
