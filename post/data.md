@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 08:13:14 UTC
+**Last updated:** 2024-11-12 09:10:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $88850 USD
-  - Market Cap: $1757586384088.8875 USD
-  - 24h Volume: $160600288133.72665 USD
-  - 24h Change: 9.328476050430984%
+- **Bitcoin (BTC)**: $88743 USD
+  - Market Cap: $1761337993407.0374 USD
+  - 24h Volume: $145845555891.36804 USD
+  - 24h Change: 8.965813620968367%
 
-- **Ethereum (ETH)**: $3370.74 USD
-  - Market Cap: $406704888982.83545 USD
-  - 24h Volume: $69112842342.02155 USD
-  - 24h Change: 7.087699396459842%
+- **Ethereum (ETH)**: $3412.83 USD
+  - Market Cap: $410988135244.42236 USD
+  - 24h Volume: $70937623011.8924 USD
+  - 24h Change: 8.25645686605101%
 
 ## Trending Coins
 - **Notcoin (NOT)**
   - Market Cap Rank: 121
-  - Price (BTC): 9.082095690618302e-08
+  - Price (BTC): 9.054946552271448e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Nimiq (NIM)**
+  - Market Cap Rank: 1000
+  - Price (BTC): 2.7602920585015342e-08
+  - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.642555080581447e-06
+  - Price (BTC): 4.820416060103193e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 495
-  - Price (BTC): 3.564143559726063e-07
+  - Market Cap Rank: 469
+  - Price (BTC): 3.94998567470007e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 174
-  - Price (BTC): 6.066275253242267e-06
+  - Market Cap Rank: 177
+  - Price (BTC): 5.99741938702524e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
+- **BounceBit (BB)**
+  - Market Cap Rank: 382
+  - Price (BTC): 4.335338338236113e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 1.6142073945993273e-10
+  - Market Cap Rank: 25
+  - Price (BTC): 1.6572652164821461e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 180
-  - Price (BTC): 5.4149175127349955e-06
+  - Market Cap Rank: 187
+  - Price (BTC): 5.3083787147578365e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 55
+  - Price (BTC): 3.7687830689592355e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 336
-  - Price (BTC): 1.6848362297300067e-10
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+- **Grass (GRASS)**
+  - Market Cap Rank: 127
+  - Price (BTC): 3.592741342712049e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.5061690348110066e-05
+  - Price (BTC): 3.528906100344854e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Shiba Inu (SHIB)**
   - Market Cap Rank: 11
-  - Price (BTC): 3.277852606684227e-10
+  - Price (BTC): 3.2961538899023316e-10
   - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 387
-  - Price (BTC): 4.198511256034884e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 59
-  - Price (BTC): 3.533544781903269e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024782295321234987
+  - Price (BTC): 0.002516978627419482
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 126
-  - Price (BTC): 3.612191892453111e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Render (RENDER)**
   - Market Cap Rank: 44
-  - Price (BTC): 8.228870064833473e-05
+  - Price (BTC): 8.301125902008008e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
