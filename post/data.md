@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 23:09:15 UTC
+**Last updated:** 2024-11-13 00:44:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $88359 USD
-  - Market Cap: $1747266761903.2234 USD
-  - 24h Volume: $161521081917.89688 USD
-  - 24h Change: -0.44271074468544386%
+- **Bitcoin (BTC)**: $88504 USD
+  - Market Cap: $1751511820261.1365 USD
+  - 24h Volume: $140329886068.2807 USD
+  - 24h Change: 0.7762499517599919%
 
-- **Ethereum (ETH)**: $3276.39 USD
-  - Market Cap: $394384065920.29785 USD
-  - 24h Volume: $62449466690.10556 USD
-  - 24h Change: -2.4334393264268157%
+- **Ethereum (ETH)**: $3266.22 USD
+  - Market Cap: $392439550075.00604 USD
+  - 24h Volume: $59115266751.67006 USD
+  - 24h Change: -0.9104110123819312%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 546
-  - Price (BTC): 2.8640502376584095e-07
+  - Market Cap Rank: 570
+  - Price (BTC): 2.801950828996331e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 286
-  - Price (BTC): 4.1290367267976916e-10
+  - Price (BTC): 4.155266713557538e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 391
-  - Price (BTC): 3.92098229089894e-06
+  - Market Cap Rank: 396
+  - Price (BTC): 3.882229964401762e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **PaLM AI (PALM)**
-  - Market Cap Rank: 728
-  - Price (BTC): 7.5095444501402855e-06
+  - Market Cap Rank: 713
+  - Price (BTC): 8.187463737746513e-06
   - [More Info](https://www.coingecko.com/en/coins/palm-ai)
 
 - **Nimiq (NIM)**
   - Market Cap Rank: 980
-  - Price (BTC): 2.8191563424418684e-08
+  - Price (BTC): 2.8289489863898614e-08
   - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
 - **Notcoin (NOT)**
-  - Market Cap Rank: 124
-  - Price (BTC): 8.684367209438503e-08
+  - Market Cap Rank: 123
+  - Price (BTC): 8.674498758142781e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **PAAL AI (PAAL)**
-  - Market Cap Rank: 451
-  - Price (BTC): 1.482447102198922e-06
+  - Market Cap Rank: 498
+  - Price (BTC): 1.3042677196432333e-06
   - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 48
-  - Price (BTC): 4.154426730288187e-10
+  - Price (BTC): 4.1390938408322474e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 6.601973731483376e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 18
-  - Price (BTC): 3.6717164484349434e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 25
-  - Price (BTC): 1.637234728606007e-10
+  - Price (BTC): 1.6549723898636712e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.427078859909061e-06
+  - Price (BTC): 4.267545231436277e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 43
-  - Price (BTC): 8.408378925883696e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002425257653718504
+  - Price (BTC): 0.0024059000476428253
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.597117142597882e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 37
+  - Price (BTC): 3.6905544233158946e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 170
+  - Price (BTC): 6.145122035374541e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **Artificial Superintelligence Alliance (FET)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.5855976269367197e-05
+  - Price (BTC): 1.567534866888226e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 ## Posts
