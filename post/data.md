@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 22:08:19 UTC
+**Last updated:** 2024-11-16 23:10:12 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91031 USD
-  - Market Cap: $1801291835160.411 USD
-  - 24h Volume: $49193633104.36044 USD
-  - 24h Change: -0.6930071800523555%
+- **Bitcoin (BTC)**: $90629 USD
+  - Market Cap: $1792138984256.1494 USD
+  - 24h Volume: $49962564142.779724 USD
+  - 24h Change: -0.8348391589237031%
 
-- **Ethereum (ETH)**: $3155.84 USD
-  - Market Cap: $380121258383.0903 USD
-  - 24h Volume: $27814203082.17383 USD
-  - 24h Change: 2.1313381223316%
+- **Ethereum (ETH)**: $3142.94 USD
+  - Market Cap: $378251141004.0207 USD
+  - 24h Volume: $26918017523.516003 USD
+  - 24h Change: 1.1424613636378655%
 
 ## Trending Coins
-- **MANTRA (OM)**
-  - Market Cap Rank: 61
-  - Price (BTC): 2.6166478123311996e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 234
-  - Price (BTC): 5.660227990141326e-10
+  - Market Cap Rank: 232
+  - Price (BTC): 5.773536160714771e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 711
-  - Price (BTC): 6.35344292940701e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **MANTRA (OM)**
+  - Market Cap Rank: 60
+  - Price (BTC): 2.686589286977836e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 473
-  - Price (BTC): 3.7943073276977365e-07
+  - Market Cap Rank: 488
+  - Price (BTC): 3.6171954917141807e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 424
-  - Price (BTC): 3.5652581406982878e-06
+  - Market Cap Rank: 423
+  - Price (BTC): 3.562982111223392e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 701
+  - Price (BTC): 6.651277195862648e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XDC Network (XDC)**
   - Market Cap Rank: 134
-  - Price (BTC): 5.394569786552591e-07
+  - Price (BTC): 5.388965381479251e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solar (SXP)**
-  - Market Cap Rank: 304
-  - Price (BTC): 3.987670292693405e-06
+  - Market Cap Rank: 302
+  - Price (BTC): 3.977347400733573e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.2484374199252221e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Hasbulla's Cat (BARSIK)**
-  - Market Cap Rank: 299
-  - Price (BTC): 2.491302147182591e-06
-  - [More Info](https://www.coingecko.com/en/coins/hasbulla-s-cat)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.868153567487518e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.5215410494099034e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Bonk (BONK)**
+  - Market Cap Rank: 41
+  - Price (BTC): 5.196421435456426e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.317935673649823e-10
+  - Price (BTC): 2.335490709421657e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.132050449902136e-05
+  - Price (BTC): 4.117194811173044e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.8446464697849658e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2391790510378413e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.032892015265932e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0023837679568775205
+  - Price (BTC): 0.0023746232938143172
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 43
-  - Price (BTC): 4.914212810943751e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Stellar (XLM)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.406888303753707e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 ## Posts
 - **Post ID: 1**
