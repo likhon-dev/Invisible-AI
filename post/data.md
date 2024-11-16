@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 12:16:46 UTC
+**Last updated:** 2024-11-16 13:16:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90830 USD
-  - Market Cap: $1805290362704.3853 USD
-  - 24h Volume: $76384041160.81989 USD
-  - 24h Change: 0.2407613911425728%
+- **Bitcoin (BTC)**: $91219 USD
+  - Market Cap: $1803680505875.9944 USD
+  - 24h Volume: $74628336742.35634 USD
+  - 24h Change: 1.5370444172806177%
 
-- **Ethereum (ETH)**: $3197.05 USD
-  - Market Cap: $383552140772.1037 USD
-  - 24h Volume: $32613194027.44092 USD
-  - 24h Change: 2.134324429773562%
+- **Ethereum (ETH)**: $3189.42 USD
+  - Market Cap: $383665215569.317 USD
+  - 24h Volume: $33379689371.981167 USD
+  - 24h Change: 2.702348403971261%
 
 ## Trending Coins
-- **MANTRA (OM)**
-  - Market Cap Rank: 62
-  - Price (BTC): 2.4408534766738765e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 766
-  - Price (BTC): 5.589036069005227e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 230
+  - Price (BTC): 5.763256137193064e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 418
-  - Price (BTC): 3.6012110941024437e-06
+  - Price (BTC): 3.5718344426573124e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 62
+  - Price (BTC): 2.4781860140961713e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 431
+  - Price (BTC): 2.551316686544305e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 728
+  - Price (BTC): 6.419910312189318e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 71
+  - Price (BTC): 2.1761405758355253e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.142635774485209e-05
+  - Price (BTC): 1.1652446236731817e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 432
-  - Price (BTC): 2.5819034364408862e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1291980296193905e-05
+  - Price (BTC): 4.180208375505171e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 67
-  - Price (BTC): 2.0171287352040837e-05
+  - Price (BTC): 2.0098936239366663e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Solar (SXP)**
-  - Market Cap Rank: 304
-  - Price (BTC): 3.947905806227094e-06
+  - Market Cap Rank: 305
+  - Price (BTC): 3.94061323101615e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.203604516146833e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002409762952896688
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.12628156011091e-06
+  - Price (BTC): 4.130473658367512e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 159
-  - Price (BTC): 6.33570703793011e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.4237208905444236e-10
+  - Market Cap Rank: 19
+  - Price (BTC): 2.4293519418445197e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 44
-  - Price (BTC): 4.482230097127758e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.277339321464282e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.9445540189900124e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 68
+  - Price (BTC): 2.0191061638334082e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002422589825291511
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
