@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 00:47:22 UTC
+**Last updated:** 2024-11-16 02:15:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90994 USD
-  - Market Cap: $1800177410117.3489 USD
-  - 24h Volume: $83584287488.87312 USD
-  - 24h Change: 3.4870295784978045%
+- **Bitcoin (BTC)**: $91435 USD
+  - Market Cap: $1805439307585.6606 USD
+  - 24h Volume: $86632747498.77327 USD
+  - 24h Change: 3.7855287650952274%
 
-- **Ethereum (ETH)**: $3078.11 USD
-  - Market Cap: $370845097405.0169 USD
-  - 24h Volume: $32151614896.228127 USD
-  - 24h Change: 0.23804998932294782%
+- **Ethereum (ETH)**: $3103.46 USD
+  - Market Cap: $373171899757.51886 USD
+  - 24h Volume: $31219405549.702682 USD
+  - 24h Change: 1.2643092658632105%
 
 ## Trending Coins
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 919
-  - Price (BTC): 3.773632910491109e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **MANTRA (OM)**
+  - Market Cap Rank: 55
+  - Price (BTC): 2.879118123594537e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 418
-  - Price (BTC): 3.533849541892824e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Solar (SXP)**
+  - Market Cap Rank: 307
+  - Price (BTC): 3.8046457995912914e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
+
+- **SAD HAMSTER (HAMMY)**
+  - Market Cap Rank: 912
+  - Price (BTC): 3.8540987536932784e-07
+  - [More Info](https://www.coingecko.com/en/coins/sad-hamster)
 
 - **Dogelon Mars (ELON)**
   - Market Cap Rank: 436
-  - Price (BTC): 2.4994813265677582e-12
+  - Price (BTC): 2.4910005571341255e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 55
-  - Price (BTC): 2.6060470502033e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **SAD HAMSTER (HAMMY)**
-  - Market Cap Rank: 916
-  - Price (BTC): 3.814288051662115e-07
-  - [More Info](https://www.coingecko.com/en/coins/sad-hamster)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 306
-  - Price (BTC): 3.7985115690402667e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.9644821931995144e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 866
+  - Price (BTC): 4.1714661992315576e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.8522625316972434e-05
+  - Price (BTC): 1.9206483998844796e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 41
-  - Price (BTC): 4.78450747983994e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 18
-  - Price (BTC): 2.508703815831872e-10
+  - Price (BTC): 2.5438409367978215e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 41
+  - Price (BTC): 4.888965039040155e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.081187796668345e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 90
+  - Price (BTC): 3.149123670717319e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.124207354215878e-06
+  - Price (BTC): 4.147597288590061e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.9262157530813738e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 33
-  - Price (BTC): 4.228429893159046e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 50
-  - Price (BTC): 2.783608757983174e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002380684993616986
+  - Price (BTC): 0.002395990330135783
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.937817095588954e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 48
+  - Price (BTC): 2.9726333652416078e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 33
+  - Price (BTC): 4.2778400758870685e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
