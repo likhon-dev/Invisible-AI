@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-16 11:07:31 UTC
+**Last updated:** 2024-11-16 12:16:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91300 USD
-  - Market Cap: $1806190207569.9634 USD
-  - 24h Volume: $77007115306.53717 USD
-  - 24h Change: 2.023685785766645%
+- **Bitcoin (BTC)**: $90830 USD
+  - Market Cap: $1805290362704.3853 USD
+  - 24h Volume: $76384041160.81989 USD
+  - 24h Change: 0.2407613911425728%
 
-- **Ethereum (ETH)**: $3122.86 USD
-  - Market Cap: $376566095419.9485 USD
-  - 24h Volume: $30228148334.347492 USD
-  - 24h Change: 0.704339736541295%
+- **Ethereum (ETH)**: $3197.05 USD
+  - Market Cap: $383552140772.1037 USD
+  - 24h Volume: $32613194027.44092 USD
+  - 24h Change: 2.134324429773562%
 
 ## Trending Coins
 - **MANTRA (OM)**
   - Market Cap Rank: 62
-  - Price (BTC): 2.4544155772864626e-05
+  - Price (BTC): 2.4408534766738765e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 766
+  - Price (BTC): 5.589036069005227e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 418
+  - Price (BTC): 3.6012110941024437e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.16264702649274e-05
+  - Price (BTC): 1.142635774485209e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 432
+  - Price (BTC): 2.5819034364408862e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.2236525766755355e-05
+  - Price (BTC): 4.1291980296193905e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 758
-  - Price (BTC): 5.565441532996253e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 67
-  - Price (BTC): 2.0571627692665125e-05
+  - Price (BTC): 2.0171287352040837e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002390049094743523
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
 - **Solar (SXP)**
-  - Market Cap Rank: 303
-  - Price (BTC): 3.905136563600217e-06
+  - Market Cap Rank: 304
+  - Price (BTC): 3.947905806227094e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 440
-  - Price (BTC): 2.507332279592646e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.3936548361739787e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.122187173381474e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.412590815123679e-06
+  - Price (BTC): 8.203604516146833e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Sei (SEI)**
-  - Market Cap Rank: 56
-  - Price (BTC): 5.886981899774274e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002409762952896688
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.12628156011091e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 159
+  - Price (BTC): 6.33570703793011e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 18
+  - Price (BTC): 2.4237208905444236e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 44
+  - Price (BTC): 4.482230097127758e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Brett (BRETT)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.9053537482031866e-06
+  - Price (BTC): 1.9445540189900124e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 186
-  - Price (BTC): 2.914926253812989e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 157
-  - Price (BTC): 6.349557309765865e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 ## Posts
 - **Post ID: 1**
