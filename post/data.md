@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 19:06:54 UTC
+**Last updated:** 2024-11-17 20:10:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $89815 USD
-  - Market Cap: $1779491978722.5098 USD
-  - 24h Volume: $45232759926.39767 USD
-  - 24h Change: -1.4654397375151718%
+- **Bitcoin (BTC)**: $90190 USD
+  - Market Cap: $1784208408464.184 USD
+  - 24h Volume: $48326784247.85168 USD
+  - 24h Change: -1.0119624452932428%
 
-- **Ethereum (ETH)**: $3075.71 USD
-  - Market Cap: $370798289019.5305 USD
-  - 24h Volume: $26428848686.37453 USD
-  - 24h Change: -3.1097224140354607%
+- **Ethereum (ETH)**: $3103.66 USD
+  - Market Cap: $373314027083.07794 USD
+  - 24h Volume: $26907078756.797714 USD
+  - 24h Change: -2.0850978891803735%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 523
-  - Price (BTC): 3.2220115350524643e-07
+  - Market Cap Rank: 530
+  - Price (BTC): 3.1387920826414843e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
+- **BounceBit (BB)**
+  - Market Cap Rank: 433
+  - Price (BTC): 3.3946339136401656e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 227
-  - Price (BTC): 5.896089988990629e-10
+  - Market Cap Rank: 220
+  - Price (BTC): 6.088471158698878e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 540
-  - Price (BTC): 1.004100646612161e-06
+  - Market Cap Rank: 609
+  - Price (BTC): 8.33880600731924e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 434
-  - Price (BTC): 3.3821517701460003e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
 - **MANTRA (OM)**
-  - Market Cap Rank: 42
-  - Price (BTC): 3.974675536049917e-05
+  - Market Cap Rank: 40
+  - Price (BTC): 4.065466749863177e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.268613033258172e-05
+  - Price (BTC): 4.2560249891392754e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 70
-  - Price (BTC): 1.8059523060490013e-05
+  - Price (BTC): 1.8230148203551936e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.588235444093172e-10
+  - Price (BTC): 5.713483383401996e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025864358470281956
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.365255370510716e-10
+  - Price (BTC): 2.361695477752261e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.997418382898097e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
   - Market Cap Rank: 134
-  - Price (BTC): 8.007699846132463e-08
+  - Price (BTC): 7.957322971616993e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002613455996925537
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Hasbulla's Cat (BARSIK)**
+  - Market Cap Rank: 297
+  - Price (BTC): 2.560748837610611e-06
+  - [More Info](https://www.coingecko.com/en/coins/hasbulla-s-cat)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.99212946081676e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 66
-  - Price (BTC): 2.1038040718359065e-05
+  - Market Cap Rank: 64
+  - Price (BTC): 2.1247420460430997e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Cheyenne (CHEYENNE)**
-  - Market Cap Rank: 684
-  - Price (BTC): 7.010902182435356e-07
-  - [More Info](https://www.coingecko.com/en/coins/cheyenne)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 154
-  - Price (BTC): 7.04873338505716e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.1542059958863536e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
