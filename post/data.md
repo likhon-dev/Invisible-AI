@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 20:10:14 UTC
+**Last updated:** 2024-11-17 21:08:12 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90190 USD
-  - Market Cap: $1784208408464.184 USD
-  - 24h Volume: $48326784247.85168 USD
-  - 24h Change: -1.0119624452932428%
+- **Bitcoin (BTC)**: $89536 USD
+  - Market Cap: $1772568808610.4683 USD
+  - 24h Volume: $48053836390.21061 USD
+  - 24h Change: -1.4728967477325863%
 
-- **Ethereum (ETH)**: $3103.66 USD
-  - Market Cap: $373314027083.07794 USD
-  - 24h Volume: $26907078756.797714 USD
-  - 24h Change: -2.0850978891803735%
+- **Ethereum (ETH)**: $3070.5 USD
+  - Market Cap: $369698633456.0773 USD
+  - 24h Volume: $26735882937.691917 USD
+  - 24h Change: -2.6640539615883925%
 
 ## Trending Coins
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 530
-  - Price (BTC): 3.1387920826414843e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
 - **BounceBit (BB)**
   - Market Cap Rank: 433
-  - Price (BTC): 3.3946339136401656e-06
+  - Price (BTC): 3.39117877138328e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 543
+  - Price (BTC): 2.9687386309178875e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 220
-  - Price (BTC): 6.088471158698878e-10
+  - Price (BTC): 6.240404855679838e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 609
-  - Price (BTC): 8.33880600731924e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **MANTRA (OM)**
-  - Market Cap Rank: 40
-  - Price (BTC): 4.065466749863177e-05
+  - Market Cap Rank: 42
+  - Price (BTC): 4.005232876796467e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 131
+  - Price (BTC): 8.267059297039317e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.2560249891392754e-05
+  - Price (BTC): 4.2582612758162834e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026293847675448573
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 19
+  - Price (BTC): 2.3614845020138175e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 70
-  - Price (BTC): 1.8230148203551936e-05
+  - Price (BTC): 1.8197473463901232e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.713483383401996e-10
+  - Price (BTC): 5.770120687871988e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.361695477752261e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 134
-  - Price (BTC): 7.957322971616993e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002613455996925537
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Hasbulla's Cat (BARSIK)**
-  - Market Cap Rank: 297
-  - Price (BTC): 2.560748837610611e-06
-  - [More Info](https://www.coingecko.com/en/coins/hasbulla-s-cat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.99212946081676e-06
+  - Price (BTC): 4.034590080968593e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.1247420460430997e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Hasbulla's Cat (BARSIK)**
+  - Market Cap Rank: 300
+  - Price (BTC): 2.5304367054497283e-06
+  - [More Info](https://www.coingecko.com/en/coins/hasbulla-s-cat)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1542059958863536e-05
+  - Price (BTC): 1.172667585155701e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 64
+  - Price (BTC): 2.1353768376510266e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
