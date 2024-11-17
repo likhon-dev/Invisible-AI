@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 08:11:46 UTC
+**Last updated:** 2024-11-17 09:10:25 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90706 USD
-  - Market Cap: $1792570187914.1616 USD
-  - 24h Volume: $49642460935.29285 USD
-  - 24h Change: -0.5101443793073346%
+- **Bitcoin (BTC)**: $91375 USD
+  - Market Cap: $1807328042208.5562 USD
+  - 24h Volume: $51127024481.57386 USD
+  - 24h Change: 0.03055844791208956%
 
-- **Ethereum (ETH)**: $3145.5 USD
-  - Market Cap: $378558589065.6038 USD
-  - 24h Volume: $30285921877.738728 USD
-  - 24h Change: 1.1444308795888558%
+- **Ethereum (ETH)**: $3158.12 USD
+  - Market Cap: $379958750879.9105 USD
+  - 24h Volume: $30649194882.491795 USD
+  - 24h Change: 1.1578238750612324%
 
 ## Trending Coins
 - **XDC Network (XDC)**
-  - Market Cap Rank: 148
-  - Price (BTC): 4.7114921391667455e-07
+  - Market Cap Rank: 147
+  - Price (BTC): 4.7224789037624513e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.6782945465970523e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 305
-  - Price (BTC): 3.945285073622597e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 576
+  - Price (BTC): 9.631201334544093e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002627173326936993
+  - Price (BTC): 0.002619781538635428
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 578
-  - Price (BTC): 9.136066422105834e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **MANTRA (OM)**
+  - Market Cap Rank: 44
+  - Price (BTC): 3.733595878982844e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.786517730815958e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Solar (SXP)**
+  - Market Cap Rank: 306
+  - Price (BTC): 3.94541289489548e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 73
-  - Price (BTC): 1.8036923230295607e-05
+  - Price (BTC): 1.785154653457976e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.825240983190275e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.0427951959980506e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.115140980868847e-05
+  - Price (BTC): 4.1300174002575885e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Mister Miggles (MIGGLES)**
+  - Market Cap Rank: 383
+  - Price (BTC): 1.788760245084075e-06
+  - [More Info](https://www.coingecko.com/en/coins/mister-miggles)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1756928160558149e-05
+  - Price (BTC): 1.1924983663254642e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.3956465248374744e-10
+  - Price (BTC): 2.389495975981723e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.962643383462489e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.944741842741518e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 89
-  - Price (BTC): 1.3380141140489677e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 34
+  - Price (BTC): 4.2707629307882805e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 138
-  - Price (BTC): 7.420407229064583e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 52
-  - Price (BTC): 2.970436358097962e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
-
-- **Cheyenne (CHEYENNE)**
-  - Market Cap Rank: 637
-  - Price (BTC): 7.677461361957208e-07
-  - [More Info](https://www.coingecko.com/en/coins/cheyenne)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 2.0439805027402333e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
