@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 15:08:37 UTC
+**Last updated:** 2024-11-17 16:10:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90209 USD
-  - Market Cap: $1786547119667.6726 USD
-  - 24h Volume: $49633243268.114204 USD
-  - 24h Change: -0.564545658139107%
+- **Bitcoin (BTC)**: $90107 USD
+  - Market Cap: $1784298159357.1145 USD
+  - 24h Volume: $47905947263.97306 USD
+  - 24h Change: -0.17629416590928854%
 
-- **Ethereum (ETH)**: $3082.15 USD
-  - Market Cap: $371936759866.87964 USD
-  - 24h Volume: $27647362442.103584 USD
-  - 24h Change: -2.236276652468395%
+- **Ethereum (ETH)**: $3077.76 USD
+  - Market Cap: $370884072138.7572 USD
+  - 24h Volume: $26196680724.24108 USD
+  - 24h Change: -1.7251325279936816%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 232
-  - Price (BTC): 5.839846447423773e-10
+  - Market Cap Rank: 225
+  - Price (BTC): 6.163551678218937e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 594
-  - Price (BTC): 8.652194974903034e-07
+  - Market Cap Rank: 621
+  - Price (BTC): 8.322324257477562e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 434
-  - Price (BTC): 3.4756965529800525e-06
+  - Price (BTC): 3.459778896915946e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **XDC Network (XDC)**
-  - Market Cap Rank: 147
-  - Price (BTC): 4.716168410805304e-07
-  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002584866509596003
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 310
-  - Price (BTC): 3.921014463902028e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03419231913460051
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.9090787053086536e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.859279831967162e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 183
-  - Price (BTC): 3.1373550815404704e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.7266889687096602e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.168637692306168e-05
+  - Price (BTC): 4.246238454891101e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 44
+  - Price (BTC): 3.821861630516187e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 36
+  - Price (BTC): 5.965919052634203e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025898985597649833
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 63
+  - Price (BTC): 2.2197414621726093e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.6905013720481357e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Casper Network (CSPR)**
+  - Market Cap Rank: 294
+  - Price (BTC): 2.2491009086056337e-07
+  - [More Info](https://www.coingecko.com/en/coins/casper-network)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.3523559943760993e-10
+  - Price (BTC): 2.3618083679700765e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 51
+  - Price (BTC): 2.9873956584365215e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 138
+  - Price (BTC): 7.511029179352253e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2279447669550576e-05
+  - Price (BTC): 1.1978646759681885e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 188
+  - Price (BTC): 2.948780459164337e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
 
 ## Posts
 - **Post ID: 1**
