@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 11:07:18 UTC
+**Last updated:** 2024-11-17 12:16:39 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90902 USD
-  - Market Cap: $1801615403687.1924 USD
-  - 24h Volume: $49769297319.894615 USD
-  - 24h Change: -0.4887970270339101%
+- **Bitcoin (BTC)**: $90826 USD
+  - Market Cap: $1796557615438.1582 USD
+  - 24h Volume: $45784359834.22168 USD
+  - 24h Change: 0.0032128378062940255%
 
-- **Ethereum (ETH)**: $3134.13 USD
-  - Market Cap: $377723711907.8287 USD
-  - 24h Volume: $30469096092.811893 USD
-  - 24h Change: 0.28957803863595144%
+- **Ethereum (ETH)**: $3110.1 USD
+  - Market Cap: $374552223558.2448 USD
+  - 24h Volume: $28345629080.225582 USD
+  - 24h Change: -2.564226573347676%
 
 ## Trending Coins
 - **XDC Network (XDC)**
   - Market Cap Rank: 148
-  - Price (BTC): 4.68435790326709e-07
+  - Price (BTC): 4.6287985166448444e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 636
+  - Price (BTC): 7.9912625798656e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 434
+  - Price (BTC): 3.4411508292103407e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
 - **Solar (SXP)**
-  - Market Cap Rank: 310
-  - Price (BTC): 3.934668399268374e-06
+  - Market Cap Rank: 309
+  - Price (BTC): 3.875938389587619e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026416480582069023
+  - Price (BTC): 0.002594080167098193
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.61703721174604e-05
+  - Price (BTC): 3.576135769134114e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 432
-  - Price (BTC): 3.5005917141188923e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 559
-  - Price (BTC): 7.20606385135335e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 73
-  - Price (BTC): 1.782099822399734e-05
+  - Market Cap Rank: 74
+  - Price (BTC): 1.7475280719322812e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.571795734937723e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.121795212995744e-05
+  - Price (BTC): 4.114934479600828e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Beam (BEAM)**
-  - Market Cap Rank: 87
-  - Price (BTC): 2.6972231489156056e-07
-  - [More Info](https://www.coingecko.com/en/coins/beam-2)
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.487413969562139e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.006930055791916e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.278755692419924e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1678712575676712e-05
+  - Price (BTC): 1.1507134712002912e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Moonbeam (GLMR)**
-  - Market Cap Rank: 306
-  - Price (BTC): 2.70277669002646e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonbeam)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.991926938758715e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Acala (ACA)**
-  - Market Cap Rank: 388
-  - Price (BTC): 1.4715427265388455e-06
-  - [More Info](https://www.coingecko.com/en/coins/acala)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.841884306469498e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.3238354631503845e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.4069527676064087e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03428421720047786
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
