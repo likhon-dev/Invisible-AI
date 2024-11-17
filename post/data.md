@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 22:08:35 UTC
+**Last updated:** 2024-11-17 23:09:08 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $88816 USD
-  - Market Cap: $1757110567334.089 USD
-  - 24h Volume: $50556753562.55165 USD
-  - 24h Change: -2.3663832868508754%
+- **Bitcoin (BTC)**: $89683 USD
+  - Market Cap: $1770034489886.4272 USD
+  - 24h Volume: $51680644507.80074 USD
+  - 24h Change: -1.0887094038206504%
 
-- **Ethereum (ETH)**: $3051.19 USD
-  - Market Cap: $368327671116.263 USD
-  - 24h Volume: $27760984802.751583 USD
-  - 24h Change: -3.2391934855648716%
+- **Ethereum (ETH)**: $3071.79 USD
+  - Market Cap: $368477901131.3262 USD
+  - 24h Volume: $28350725285.959843 USD
+  - 24h Change: -2.3298484044343137%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 218
-  - Price (BTC): 6.228616263114255e-10
+  - Price (BTC): 6.261549031902074e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 433
-  - Price (BTC): 3.3761708868276783e-06
+  - Price (BTC): 3.347080286012378e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 68
-  - Price (BTC): 1.9714425130357954e-05
+  - Price (BTC): 2.0404957211674998e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 129
+  - Price (BTC): 8.492908564260114e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
 - **MANTRA (OM)**
-  - Market Cap Rank: 40
-  - Price (BTC): 4.07242159575888e-05
+  - Market Cap Rank: 35
+  - Price (BTC): 4.4703384016810994e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1944153352347555e-05
+  - Price (BTC): 4.1550257706178276e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 132
-  - Price (BTC): 8.354231134257296e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00262291885983801
+  - Price (BTC): 0.0026171280022518513
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 38
+  - Price (BTC): 5.62724677938211e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.3465470466932957e-10
+  - Price (BTC): 2.3514911452589274e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.005407472215887e-06
+  - Price (BTC): 4.024092802199387e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.584244653663572e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Cheyenne (CHEYENNE)**
-  - Market Cap Rank: 588
-  - Price (BTC): 8.952598850125249e-07
-  - [More Info](https://www.coingecko.com/en/coins/cheyenne)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.3559841871317918e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1845754948821093e-05
+  - Price (BTC): 1.1894476793877058e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Raydium (RAY)**
   - Market Cap Rank: 69
-  - Price (BTC): 6.335155869586526e-05
+  - Price (BTC): 6.429166318184391e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 72
+  - Price (BTC): 1.3007999369292903e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Cheyenne (CHEYENNE)**
+  - Market Cap Rank: 627
+  - Price (BTC): 8.114000623029622e-07
+  - [More Info](https://www.coingecko.com/en/coins/cheyenne)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 2.100749115445575e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
