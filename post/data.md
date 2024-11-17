@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 14:08:09 UTC
+**Last updated:** 2024-11-17 15:08:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90647 USD
-  - Market Cap: $1791379564393.3892 USD
-  - 24h Volume: $49706708999.09617 USD
-  - 24h Change: -0.24180647088314286%
+- **Bitcoin (BTC)**: $90209 USD
+  - Market Cap: $1786547119667.6726 USD
+  - 24h Volume: $49633243268.114204 USD
+  - 24h Change: -0.564545658139107%
 
-- **Ethereum (ETH)**: $3107.27 USD
-  - Market Cap: $374189992372.8181 USD
-  - 24h Volume: $27396068484.1865 USD
-  - 24h Change: -2.242236604480656%
+- **Ethereum (ETH)**: $3082.15 USD
+  - Market Cap: $371936759866.87964 USD
+  - 24h Volume: $27647362442.103584 USD
+  - 24h Change: -2.236276652468395%
 
 ## Trending Coins
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 614
-  - Price (BTC): 7.899202708344278e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 234
-  - Price (BTC): 5.773795391198241e-10
+  - Market Cap Rank: 232
+  - Price (BTC): 5.839846447423773e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 594
+  - Price (BTC): 8.652194974903034e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 434
-  - Price (BTC): 3.480026327991886e-06
+  - Price (BTC): 3.4756965529800525e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **XDC Network (XDC)**
+  - Market Cap Rank: 147
+  - Price (BTC): 4.716168410805304e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025559240711369967
+  - Price (BTC): 0.002584866509596003
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **XDC Network (XDC)**
-  - Market Cap Rank: 146
-  - Price (BTC): 4.7009854838555657e-07
-  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
-
 - **Solar (SXP)**
-  - Market Cap Rank: 308
-  - Price (BTC): 3.925481512141505e-06
+  - Market Cap Rank: 310
+  - Price (BTC): 3.921014463902028e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03419231913460051
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03429158392727095
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.907988767302831e-05
+  - Price (BTC): 3.9090787053086536e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 67
-  - Price (BTC): 2.0870079968693924e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.859279831967162e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 183
+  - Price (BTC): 3.1373550815404704e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.7248350869877838e-05
+  - Price (BTC): 1.7266889687096602e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.206162621630161e-05
+  - Price (BTC): 4.168637692306168e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.720462489733474e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.005943840953537e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.3124195245004944e-10
+  - Market Cap Rank: 19
+  - Price (BTC): 2.3523559943760993e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2279447669550576e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
