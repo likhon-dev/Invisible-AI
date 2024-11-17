@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 12:16:39 UTC
+**Last updated:** 2024-11-17 13:15:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90826 USD
-  - Market Cap: $1796557615438.1582 USD
-  - 24h Volume: $45784359834.22168 USD
-  - 24h Change: 0.0032128378062940255%
+- **Bitcoin (BTC)**: $90884 USD
+  - Market Cap: $1797001424602.3782 USD
+  - 24h Volume: $49015626094.77556 USD
+  - 24h Change: -0.37018730164437064%
 
-- **Ethereum (ETH)**: $3110.1 USD
-  - Market Cap: $374552223558.2448 USD
-  - 24h Volume: $28345629080.225582 USD
-  - 24h Change: -2.564226573347676%
+- **Ethereum (ETH)**: $3116.29 USD
+  - Market Cap: $375047494611.5705 USD
+  - 24h Volume: $27292600356.978172 USD
+  - 24h Change: -2.285740253562734%
 
 ## Trending Coins
-- **XDC Network (XDC)**
-  - Market Cap Rank: 148
-  - Price (BTC): 4.6287985166448444e-07
-  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
-
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 636
-  - Price (BTC): 7.9912625798656e-07
+  - Market Cap Rank: 574
+  - Price (BTC): 9.102850236017113e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 434
-  - Price (BTC): 3.4411508292103407e-06
+  - Market Cap Rank: 432
+  - Price (BTC): 3.4829633248540763e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Solar (SXP)**
-  - Market Cap Rank: 309
-  - Price (BTC): 3.875938389587619e-06
-  - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002594080167098193
+  - Price (BTC): 0.002575139074971779
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 236
+  - Price (BTC): 5.689147111331296e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **XDC Network (XDC)**
+  - Market Cap Rank: 150
+  - Price (BTC): 4.6463803646491577e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
+
+- **Solar (SXP)**
+  - Market Cap Rank: 308
+  - Price (BTC): 3.900069145094745e-06
+  - [More Info](https://www.coingecko.com/en/coins/solar-2)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 517
+  - Price (BTC): 3.2811894214618e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03427614898157603
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.576135769134114e-05
+  - Price (BTC): 3.707020030324653e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.7475280719322812e-05
+  - Market Cap Rank: 75
+  - Price (BTC): 1.7246301000527804e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.114934479600828e-05
+  - Price (BTC): 4.175755037155134e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.487413969562139e-10
+  - Price (BTC): 5.567287645553936e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.278755692419924e-10
+  - Market Cap Rank: 20
+  - Price (BTC): 2.2996460013156708e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1507134712002912e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Secret (SCRT)**
+  - Market Cap Rank: 417
+  - Price (BTC): 4.988104121508225e-06
+  - [More Info](https://www.coingecko.com/en/coins/secret)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.991926938758715e-06
+  - Price (BTC): 4.037525305828144e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.841884306469498e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 38
-  - Price (BTC): 1.4069527676064087e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03428421720047786
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
