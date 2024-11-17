@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 13:15:51 UTC
+**Last updated:** 2024-11-17 14:08:09 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90884 USD
-  - Market Cap: $1797001424602.3782 USD
-  - 24h Volume: $49015626094.77556 USD
-  - 24h Change: -0.37018730164437064%
+- **Bitcoin (BTC)**: $90647 USD
+  - Market Cap: $1791379564393.3892 USD
+  - 24h Volume: $49706708999.09617 USD
+  - 24h Change: -0.24180647088314286%
 
-- **Ethereum (ETH)**: $3116.29 USD
-  - Market Cap: $375047494611.5705 USD
-  - 24h Volume: $27292600356.978172 USD
-  - 24h Change: -2.285740253562734%
+- **Ethereum (ETH)**: $3107.27 USD
+  - Market Cap: $374189992372.8181 USD
+  - 24h Volume: $27396068484.1865 USD
+  - 24h Change: -2.242236604480656%
 
 ## Trending Coins
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 574
-  - Price (BTC): 9.102850236017113e-07
+  - Market Cap Rank: 614
+  - Price (BTC): 7.899202708344278e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 234
+  - Price (BTC): 5.773795391198241e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 432
-  - Price (BTC): 3.4829633248540763e-06
+  - Market Cap Rank: 434
+  - Price (BTC): 3.480026327991886e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002575139074971779
+  - Price (BTC): 0.0025559240711369967
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 236
-  - Price (BTC): 5.689147111331296e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **XDC Network (XDC)**
-  - Market Cap Rank: 150
-  - Price (BTC): 4.6463803646491577e-07
+  - Market Cap Rank: 146
+  - Price (BTC): 4.7009854838555657e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solar (SXP)**
   - Market Cap Rank: 308
-  - Price (BTC): 3.900069145094745e-06
+  - Price (BTC): 3.925481512141505e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 517
-  - Price (BTC): 3.2811894214618e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03427614898157603
+  - Price (BTC): 0.03429158392727095
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.707020030324653e-05
+  - Price (BTC): 3.907988767302831e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 2.0870079968693924e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 75
-  - Price (BTC): 1.7246301000527804e-05
+  - Market Cap Rank: 74
+  - Price (BTC): 1.7248350869877838e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.175755037155134e-05
+  - Price (BTC): 4.206162621630161e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.567287645553936e-10
+  - Price (BTC): 5.720462489733474e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.2996460013156708e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Secret (SCRT)**
-  - Market Cap Rank: 417
-  - Price (BTC): 4.988104121508225e-06
-  - [More Info](https://www.coingecko.com/en/coins/secret)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.037525305828144e-06
+  - Price (BTC): 4.005943840953537e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 20
+  - Price (BTC): 2.3124195245004944e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
