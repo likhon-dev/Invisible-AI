@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 09:11:52 UTC
+**Last updated:** 2024-11-18 10:11:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91755 USD
-  - Market Cap: $1815268454340.7593 USD
-  - 24h Volume: $55855836447.76559 USD
-  - 24h Change: 0.3448978777039516%
+- **Bitcoin (BTC)**: $91952 USD
+  - Market Cap: $1818605315873.9993 USD
+  - 24h Volume: $53495846853.80821 USD
+  - 24h Change: 0.8248174065899092%
 
-- **Ethereum (ETH)**: $3118.65 USD
-  - Market Cap: $376151610054.9181 USD
-  - 24h Volume: $25370332281.93897 USD
-  - 24h Change: -1.2945919319798032%
+- **Ethereum (ETH)**: $3112.99 USD
+  - Market Cap: $374794681840.1075 USD
+  - 24h Volume: $25212416497.31094 USD
+  - 24h Change: -0.7342594338327108%
 
 ## Trending Coins
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.094981681283733e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Comedian (BAN)**
+  - Market Cap Rank: 258
+  - Price (BTC): 3.5848467116380383e-06
+  - [More Info](https://www.coingecko.com/en/coins/comedian)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 134
-  - Price (BTC): 7.809723860982447e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.808600400931797e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.25227241479896e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Akash Network (AKT)**
+  - Market Cap Rank: 97
+  - Price (BTC): 4.576770331612343e-05
+  - [More Info](https://www.coingecko.com/en/coins/akash-network)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 37
-  - Price (BTC): 4.445536493091907e-05
+  - Price (BTC): 4.523533033752408e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.2579897465910043e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Fractal Bitcoin (FB)**
-  - Market Cap Rank: 835
-  - Price (BTC): 7.873927198983282e-05
-  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.062113505683519e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026381472551096313
+  - Price (BTC): 0.0026590187094232545
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 38
-  - Price (BTC): 5.820122040425433e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Fractal Bitcoin (FB)**
+  - Market Cap Rank: 881
+  - Price (BTC): 7.005169324182969e-05
+  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 139
+  - Price (BTC): 7.550004391623013e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 73
+  - Price (BTC): 1.7626019609412693e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.2198957474053865e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.4313142352409075e-10
+  - Market Cap Rank: 20
+  - Price (BTC): 2.350946034685889e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **ai16z (AI16Z)**
-  - Market Cap Rank: 189
-  - Price (BTC): 4.755909189430013e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai16z)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.073527173803707e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 40
+  - Price (BTC): 5.639135227734883e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 67
-  - Price (BTC): 2.0130878398737874e-05
+  - Price (BTC): 2.0084390592880376e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.6993916164852538e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2326035424435033e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.055538651716312e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.407832783385152e-06
+  - Price (BTC): 8.285917268601072e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
