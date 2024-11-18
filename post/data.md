@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 03:25:38 UTC
+**Last updated:** 2024-11-18 04:12:41 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90378 USD
-  - Market Cap: $1789686301061.7727 USD
-  - 24h Volume: $48213708004.07926 USD
-  - 24h Change: 0.48567595779970246%
+- **Bitcoin (BTC)**: $90687 USD
+  - Market Cap: $1791022964983.9114 USD
+  - 24h Volume: $49812546202.686745 USD
+  - 24h Change: 0.35152657027479456%
 
-- **Ethereum (ETH)**: $3099.19 USD
-  - Market Cap: $373590681816.12476 USD
-  - 24h Volume: $26712421166.575264 USD
-  - 24h Change: 1.2550698570367316%
+- **Ethereum (ETH)**: $3113.38 USD
+  - Market Cap: $374583459385.5532 USD
+  - 24h Volume: $26283225721.74883 USD
+  - 24h Change: 0.8746584177013559%
 
 ## Trending Coins
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 127
-  - Price (BTC): 8.697916475655272e-08
+  - Market Cap Rank: 129
+  - Price (BTC): 8.60430735014547e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.9088290312404346e-05
+  - Market Cap Rank: 69
+  - Price (BTC): 1.9315933571561478e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.234469605540798e-05
+  - Price (BTC): 4.27951745037152e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 36
-  - Price (BTC): 4.6605646342332864e-05
+  - Price (BTC): 4.8215234619971446e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
-  - Market Cap Rank: 38
-  - Price (BTC): 5.741738528702159e-10
+  - Market Cap Rank: 39
+  - Price (BTC): 5.744609890168638e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026348959655358058
+  - Price (BTC): 0.0026984967804102064
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.342628392169015e-10
+  - Market Cap Rank: 20
+  - Price (BTC): 2.336285318349811e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.089563129577119e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2461238017978294e-05
+  - Price (BTC): 1.2335157542367188e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 147
-  - Price (BTC): 7.1415369837550995e-06
+  - Market Cap Rank: 149
+  - Price (BTC): 7.230300084676678e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.103361297843955e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.14282489358382e-06
+  - Price (BTC): 8.162471727684425e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 221
-  - Price (BTC): 6.114088340010243e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 67
-  - Price (BTC): 2.055675338309685e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.034292828199703
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Grass (GRASS)**
+  - Market Cap Rank: 152
+  - Price (BTC): 2.8017182025547832e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.2661085208309328e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.72422278717898e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
