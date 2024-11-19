@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 07:10:16 UTC
+**Last updated:** 2024-11-19 08:13:48 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91948 USD
-  - Market Cap: $1820572344575.4592 USD
-  - 24h Volume: $85005114535.4232 USD
-  - 24h Change: 0.03368811519409034%
+- **Bitcoin (BTC)**: $91689 USD
+  - Market Cap: $1815369510655.9268 USD
+  - 24h Volume: $79825431515.52826 USD
+  - 24h Change: -0.425310336190544%
 
-- **Ethereum (ETH)**: $3127.86 USD
-  - Market Cap: $377137140501.0494 USD
-  - 24h Volume: $37688825387.34579 USD
-  - 24h Change: -0.44690273131959757%
+- **Ethereum (ETH)**: $3119.61 USD
+  - Market Cap: $376001552293.77795 USD
+  - 24h Volume: $37915145362.77914 USD
+  - 24h Change: -0.6059106793009705%
 
 ## Trending Coins
-- **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 852
-  - Price (BTC): 6.467486275326892e-07
-  - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
+- **PONKE (PONKE)**
+  - Market Cap Rank: 196
+  - Price (BTC): 8.690834404863981e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 273
+  - Price (BTC): 3.427561689545568e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.134581870046148e-05
+  - Price (BTC): 4.131233702987475e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 194
-  - Price (BTC): 8.776017476798914e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 40
-  - Price (BTC): 4.193306738342908e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 30
-  - Price (BTC): 1.5627504512226994e-06
+  - Price (BTC): 1.5283785711633864e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 594
+  - Price (BTC): 8.657976953782572e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 122
+  - Price (BTC): 9.281709853413862e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 69
+  - Price (BTC): 1.9214304410234364e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.237701137127712e-06
+  - Price (BTC): 4.233954883010441e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **ai16z (AI16Z)**
-  - Market Cap Rank: 227
-  - Price (BTC): 3.75643242233486e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai16z)
+- **MANTRA (OM)**
+  - Market Cap Rank: 39
+  - Price (BTC): 4.246847029458063e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.77488989606205e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.2241233098243517e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 73
+  - Price (BTC): 1.7578809726578983e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.379880555975179e-10
+  - Price (BTC): 5.449862843777488e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 124
-  - Price (BTC): 9.369144998269271e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 78
+  - Price (BTC): 1.1426380547804211e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026425593442093004
+  - Price (BTC): 0.00265405474942655
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Akash Network (AKT)**
-  - Market Cap Rank: 95
-  - Price (BTC): 4.733880085619929e-05
-  - [More Info](https://www.coingecko.com/en/coins/akash-network)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0340419078940521
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 156
-  - Price (BTC): 2.597928256901058e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.1958361712821087e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2037764507514422e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 ## Posts
 - **Post ID: 1**
