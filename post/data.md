@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 15:10:28 UTC
+**Last updated:** 2024-11-19 16:12:30 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92235 USD
-  - Market Cap: $1821527845115.5457 USD
-  - 24h Volume: $81920946783.20117 USD
-  - 24h Change: 1.64615704079723%
+- **Bitcoin (BTC)**: $92401 USD
+  - Market Cap: $1827266939655.7537 USD
+  - 24h Volume: $81624760078.29915 USD
+  - 24h Change: 0.49077238139940615%
 
-- **Ethereum (ETH)**: $3110.93 USD
-  - Market Cap: $374322928144.75287 USD
-  - 24h Volume: $37434892325.72147 USD
-  - 24h Change: 0.4806311771428563%
+- **Ethereum (ETH)**: $3105.8 USD
+  - Market Cap: $373907277783.86755 USD
+  - 24h Volume: $35668671802.043465 USD
+  - 24h Change: -0.979357720190046%
 
 ## Trending Coins
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 480
-  - Price (BTC): 3.750927797994769e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 592
-  - Price (BTC): 9.983301394811612e-11
-  - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
-
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 639
-  - Price (BTC): 7.654828493000351e-07
+  - Market Cap Rank: 643
+  - Price (BTC): 7.627059041165096e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 446
-  - Price (BTC): 3.3074123995754696e-06
+  - Market Cap Rank: 447
+  - Price (BTC): 3.300766037921216e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.967808426404715e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 459
+  - Price (BTC): 3.9405025364980877e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **McDull (Meme) (MCDULL)**
+  - Market Cap Rank: 585
+  - Price (BTC): 1.0126781210076861e-10
+  - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **ai16z (AI16Z)**
-  - Market Cap Rank: 258
-  - Price (BTC): 3.119663474832221e-06
+  - Market Cap Rank: 235
+  - Price (BTC): 3.601924808932866e-06
   - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 38
-  - Price (BTC): 4.53875820284512e-05
+  - Price (BTC): 4.563099622466166e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.925786501109566e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.9732500090570624e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002606904886700014
+  - Price (BTC): 0.0026077555237348803
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 125
-  - Price (BTC): 8.951065598369529e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 1.7823584004973425e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Kaspa (KAS)**
+- **Bonk (BONK)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.808384423435669e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+  - Price (BTC): 5.905174254192068e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 8.735709333499537e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.242288891012531e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.181534153161719e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 31
-  - Price (BTC): 1.4776004729193883e-06
+  - Price (BTC): 1.4883037986730575e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.7645317588948058e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.798474776018483e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 125
+  - Price (BTC): 8.812817121234066e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 80
+  - Price (BTC): 1.0923113842494136e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
