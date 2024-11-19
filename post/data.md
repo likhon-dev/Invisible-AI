@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 06:14:11 UTC
+**Last updated:** 2024-11-19 07:10:16 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91822 USD
-  - Market Cap: $1816544842354.2224 USD
-  - 24h Volume: $78795738181.60976 USD
-  - 24h Change: 1.1625131562824487%
+- **Bitcoin (BTC)**: $91948 USD
+  - Market Cap: $1820572344575.4592 USD
+  - 24h Volume: $85005114535.4232 USD
+  - 24h Change: 0.03368811519409034%
 
-- **Ethereum (ETH)**: $3133.13 USD
-  - Market Cap: $377372426089.0856 USD
-  - 24h Volume: $38583066244.474495 USD
-  - 24h Change: 0.3546465047733856%
+- **Ethereum (ETH)**: $3127.86 USD
+  - Market Cap: $377137140501.0494 USD
+  - 24h Volume: $37688825387.34579 USD
+  - 24h Change: -0.44690273131959757%
 
 ## Trending Coins
 - **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 858
-  - Price (BTC): 6.396718297532918e-07
+  - Market Cap Rank: 852
+  - Price (BTC): 6.467486275326892e-07
   - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 28
-  - Price (BTC): 1.6567838253207447e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 39
-  - Price (BTC): 4.290078249101668e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 195
-  - Price (BTC): 8.79887848005886e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026288167478650992
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.230748982770871e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1142127270123334e-05
+  - Price (BTC): 4.134581870046148e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 194
+  - Price (BTC): 8.776017476798914e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 40
+  - Price (BTC): 4.193306738342908e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 30
+  - Price (BTC): 1.5627504512226994e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.237701137127712e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 227
+  - Price (BTC): 3.75643242233486e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 72
-  - Price (BTC): 1.7653247400825356e-05
+  - Price (BTC): 1.77488989606205e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 130
-  - Price (BTC): 8.621079437063507e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.8996437686534355e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 156
-  - Price (BTC): 2.607592993549126e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 77
-  - Price (BTC): 1.1503424424073321e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.2072003285282754e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.1680866815698866e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.352043701477077e-10
+  - Price (BTC): 5.379880555975179e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 124
+  - Price (BTC): 9.369144998269271e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026425593442093004
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Akash Network (AKT)**
+  - Market Cap Rank: 95
+  - Price (BTC): 4.733880085619929e-05
+  - [More Info](https://www.coingecko.com/en/coins/akash-network)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0340419078940521
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 156
+  - Price (BTC): 2.597928256901058e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.1958361712821087e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
