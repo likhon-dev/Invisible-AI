@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 03:22:05 UTC
+**Last updated:** 2024-11-20 04:12:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91772 USD
-  - Market Cap: $1815113395297.9087 USD
-  - 24h Volume: $84814843023.89565 USD
-  - 24h Change: 0.553262408741921%
+- **Bitcoin (BTC)**: $92033 USD
+  - Market Cap: $1820474858746.2737 USD
+  - 24h Volume: $84726158994.1809 USD
+  - 24h Change: 0.7167747164451507%
 
-- **Ethereum (ETH)**: $3088.19 USD
-  - Market Cap: $371810576165.702 USD
-  - 24h Volume: $29933095774.0173 USD
-  - 24h Change: -2.1533707957999115%
+- **Ethereum (ETH)**: $3093.8 USD
+  - Market Cap: $372730040911.146 USD
+  - 24h Volume: $29780163036.367172 USD
+  - 24h Change: -1.7687266865694378%
 
 ## Trending Coins
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 592
-  - Price (BTC): 1.0012143106864864e-10
+  - Market Cap Rank: 586
+  - Price (BTC): 1.0056305065063334e-10
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 303
-  - Price (BTC): 2.3484617602870847e-06
+  - Market Cap Rank: 372
+  - Price (BTC): 1.884044134562581e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 33
+  - Price (BTC): 6.28778804163776e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.10411797312418e-05
+  - Price (BTC): 4.12733833210744e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 34
-  - Price (BTC): 6.01886725773817e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.7276635351028596e-05
+  - Market Cap Rank: 71
+  - Price (BTC): 1.7570912638429553e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 122
-  - Price (BTC): 8.942705162391351e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025356022551015264
+  - Price (BTC): 0.002532829232270724
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.291929579396631e-05
+  - Market Cap Rank: 91
+  - Price (BTC): 1.2673259939459398e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.1512909435304555e-06
+  - Price (BTC): 4.154211230669614e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 187
-  - Price (BTC): 5.10036565748957e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 148
-  - Price (BTC): 2.713051073555727e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03362421655761948
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1883476817396835e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.141749728716427e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 96
-  - Price (BTC): 2.3084475985767496e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.033624662384449576
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 125
+  - Price (BTC): 8.637787175681113e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 187
+  - Price (BTC): 5.097078612639564e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 45
+  - Price (BTC): 3.557622941780622e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **MOO DENG (MOODENG)**
+  - Market Cap Rank: 399
+  - Price (BTC): 3.654683299947102e-09
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng-2)
 
 ## Posts
 - **Post ID: 1**
