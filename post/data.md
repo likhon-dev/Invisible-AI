@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 14:09:41 UTC
+**Last updated:** 2024-11-20 15:10:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94461 USD
-  - Market Cap: $1866747794407.2 USD
-  - 24h Volume: $87270467212.44815 USD
-  - 24h Change: 3.630248431577452%
+- **Bitcoin (BTC)**: $94710 USD
+  - Market Cap: $1875942810494.4253 USD
+  - 24h Volume: $83674406136.3417 USD
+  - 24h Change: 2.8670212996706885%
 
-- **Ethereum (ETH)**: $3122.32 USD
-  - Market Cap: $375157457425.9038 USD
-  - 24h Volume: $29480795048.07643 USD
-  - 24h Change: 0.7545137993356119%
+- **Ethereum (ETH)**: $3117.71 USD
+  - Market Cap: $376105767448.39575 USD
+  - 24h Volume: $28974941854.31772 USD
+  - 24h Change: 0.274526919629008%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 237
-  - Price (BTC): 5.385623195629864e-10
+  - Price (BTC): 5.370876682543473e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 467
-  - Price (BTC): 3.6650143152667117e-07
+  - Market Cap Rank: 491
+  - Price (BTC): 3.472640857025449e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 456
-  - Price (BTC): 3.1006960883021045e-06
+  - Market Cap Rank: 453
+  - Price (BTC): 3.0984691153542766e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **XYO Network (XYO)**
-  - Market Cap Rank: 465
-  - Price (BTC): 8.96505623136655e-08
-  - [More Info](https://www.coingecko.com/en/coins/xyo-network)
-
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 282
-  - Price (BTC): 2.9631249241999e-06
+  - Market Cap Rank: 255
+  - Price (BTC): 3.374286074359602e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.131256876637757e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 171
-  - Price (BTC): 5.841682719745201e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **XYO Network (XYO)**
+  - Market Cap Rank: 454
+  - Price (BTC): 9.089954677239718e-08
+  - [More Info](https://www.coingecko.com/en/coins/xyo-network)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002528549126791216
+  - Price (BTC): 0.0025373542298178105
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.148732752895972e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.8867709942034765e-05
+  - Price (BTC): 3.933462322330968e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.823517667852793e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 36
-  - Price (BTC): 5.732814461760501e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 73
-  - Price (BTC): 1.6851934867441105e-05
+  - Price (BTC): 1.6797515631323435e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.759613296306833e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 71
+  - Price (BTC): 5.9672677594598866e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Aptos (APT)**
+  - Market Cap Rank: 27
+  - Price (BTC): 0.0001280655803076248
+  - [More Info](https://www.coingecko.com/en/coins/aptos)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.787479155559579e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.1316811552068094e-10
+  - Price (BTC): 2.128035608917539e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 151
-  - Price (BTC): 2.571381686159171e-05
+  - Market Cap Rank: 150
+  - Price (BTC): 2.6077364906168742e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 ## Posts
