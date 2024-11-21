@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 09:11:01 UTC
+**Last updated:** 2024-11-21 10:10:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97313 USD
-  - Market Cap: $1924424162877.006 USD
-  - 24h Volume: $104472996716.46188 USD
-  - 24h Change: 4.349495880205569%
+- **Bitcoin (BTC)**: $97492 USD
+  - Market Cap: $1929054740725.9563 USD
+  - 24h Volume: $102349110681.8826 USD
+  - 24h Change: 4.389728005071969%
 
-- **Ethereum (ETH)**: $3145.49 USD
-  - Market Cap: $378718080899.2174 USD
-  - 24h Volume: $37260033174.58812 USD
-  - 24h Change: 0.7414099934379861%
+- **Ethereum (ETH)**: $3131.44 USD
+  - Market Cap: $376628563519.8807 USD
+  - 24h Volume: $37612368593.63315 USD
+  - 24h Change: 0.2502244637536324%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 957
-  - Price (BTC): 1.3821207443600669e-07
+  - Market Cap Rank: 956
+  - Price (BTC): 1.3743116929835257e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 866
+  - Price (BTC): 4.808378379869365e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 269
-  - Price (BTC): 3.009244936689974e-06
+  - Market Cap Rank: 232
+  - Price (BTC): 3.634443341154986e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 868
-  - Price (BTC): 4.845393116294148e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+- **Slerf (SLERF)**
+  - Market Cap Rank: 322
+  - Price (BTC): 4.186367839109846e-06
+  - [More Info](https://www.coingecko.com/en/coins/slerf)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.585215009850253e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002487860177371744
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 18
-  - Price (BTC): 3.6662891968797985e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 83
-  - Price (BTC): 1.3995370710280275e-05
+  - Market Cap Rank: 84
+  - Price (BTC): 1.3775352036771022e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
+- **Secret (SCRT)**
+  - Market Cap Rank: 510
+  - Price (BTC): 3.461246925511776e-06
+  - [More Info](https://www.coingecko.com/en/coins/secret)
+
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.5935821849870577e-05
+  - Market Cap Rank: 76
+  - Price (BTC): 1.557707203279201e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002494040365114183
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.032084909641071656
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 166
-  - Price (BTC): 2.2280996237722004e-05
+  - Market Cap Rank: 165
+  - Price (BTC): 2.2060391885320448e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 22
-  - Price (BTC): 1.9961118973596446e-10
+  - Price (BTC): 1.9629077727532795e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03234368176818669
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **MANTRA (OM)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.6874796153988405e-05
+  - Market Cap Rank: 43
+  - Price (BTC): 3.659529185065299e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1527741448243205e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 99
-  - Price (BTC): 1.0498537977274918e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.05384303813556e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.25023518283151e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 ## Posts
 - **Post ID: 1**
