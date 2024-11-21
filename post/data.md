@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 04:12:55 UTC
+**Last updated:** 2024-11-21 05:10:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96690 USD
-  - Market Cap: $1903650896811.2292 USD
-  - 24h Volume: $91365077286.01198 USD
-  - 24h Change: 5.057850776167941%
+- **Bitcoin (BTC)**: $97367 USD
+  - Market Cap: $1925676446858.838 USD
+  - 24h Volume: $96672436506.11005 USD
+  - 24h Change: 5.693397878462593%
 
-- **Ethereum (ETH)**: $3106.54 USD
-  - Market Cap: $372408749959.485 USD
-  - 24h Volume: $32441775489.453197 USD
-  - 24h Change: 0.3759016792725234%
+- **Ethereum (ETH)**: $3139.51 USD
+  - Market Cap: $377604974976.3817 USD
+  - 24h Volume: $34705614566.269035 USD
+  - 24h Change: 1.3676365638820602%
 
 ## Trending Coins
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024650546243159994
+  - Price (BTC): 0.002472688942972087
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 207
-  - Price (BTC): 3.8543971003220605e-06
+  - Market Cap Rank: 190
+  - Price (BTC): 4.615684235999657e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 83
-  - Price (BTC): 1.3823026385952931e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 170
-  - Price (BTC): 2.1904605301973874e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.6396466010101894e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 49
-  - Price (BTC): 2.868406816550134e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 1.9631128446295315e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 82
+  - Price (BTC): 1.4814051957930003e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.698692394987139e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **FLOKI (FLOKI)**
+  - Market Cap Rank: 52
+  - Price (BTC): 2.7528148073414637e-09
+  - [More Info](https://www.coingecko.com/en/coins/floki)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.946079626101795e-06
+  - Price (BTC): 3.9933435094743365e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 164
+  - Price (BTC): 2.2327250371108464e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 38
+  - Price (BTC): 0.005068351393862122
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.284772143110176e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.0222956171184784e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03219402861041276
+  - Price (BTC): 0.032198792658659964
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 45
-  - Price (BTC): 3.2310815315345775e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 43
-  - Price (BTC): 3.7979834521020616e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.029805325107153e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1476880992734448e-05
+  - Price (BTC): 1.1481639133411901e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 109
-  - Price (BTC): 9.583052440633671e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.5948261602888962e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Render (RENDER)**
+  - Market Cap Rank: 36
+  - Price (BTC): 7.622171609884232e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
 - **Post ID: 1**
