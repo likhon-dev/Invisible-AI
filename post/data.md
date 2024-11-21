@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 16:12:34 UTC
+**Last updated:** 2024-11-21 17:09:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96378 USD
-  - Market Cap: $1914065040131.9766 USD
-  - 24h Volume: $117911070505.664 USD
-  - 24h Change: 2.127691776707134%
+- **Bitcoin (BTC)**: $97129 USD
+  - Market Cap: $1920013636430.2886 USD
+  - 24h Volume: $115355191205.26811 USD
+  - 24h Change: 2.992574513153854%
 
-- **Ethereum (ETH)**: $3279.12 USD
-  - Market Cap: $396185129944.707 USD
-  - 24h Volume: $50594654156.97158 USD
-  - 24h Change: 5.269507491407164%
+- **Ethereum (ETH)**: $3324.71 USD
+  - Market Cap: $400040900583.0317 USD
+  - 24h Volume: $54098713901.89226 USD
+  - 24h Change: 7.547511806860016%
 
 ## Trending Coins
 - **StrikeX (STRX)**
-  - Market Cap Rank: 830
-  - Price (BTC): 5.378723707551272e-07
+  - Market Cap Rank: 835
+  - Price (BTC): 5.288305459320331e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 959
-  - Price (BTC): 3.480363427783505e-07
+  - Market Cap Rank: 964
+  - Price (BTC): 3.4540737330990524e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 449
-  - Price (BTC): 3.073256778817965e-06
+  - Market Cap Rank: 443
+  - Price (BTC): 3.150661392743474e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 965
-  - Price (BTC): 3.445754821712693e-10
+  - Market Cap Rank: 967
+  - Price (BTC): 3.4582183597957583e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 891
-  - Price (BTC): 1.586237686824095e-07
+  - Market Cap Rank: 906
+  - Price (BTC): 1.568041980206224e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 242
-  - Price (BTC): 3.5792751856980926e-06
+  - Market Cap Rank: 215
+  - Price (BTC): 4.189240351989799e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.679681973324068e-05
+  - Price (BTC): 3.660737894857207e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002575086512993427
+  - Price (BTC): 0.002609319154701371
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.0974227716832322e-10
+  - Price (BTC): 2.1545180729098907e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Arbitrum (ARB)**
-  - Market Cap Rank: 45
-  - Price (BTC): 8.119010054371623e-06
-  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03426223166948648
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03395222923057624
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Optimism (OP)**
-  - Market Cap Rank: 52
-  - Price (BTC): 2.182025428990785e-05
-  - [More Info](https://www.coingecko.com/en/coins/optimism)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.943085729318815e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 76
-  - Price (BTC): 1.6490707011522376e-05
+  - Price (BTC): 1.647009829463354e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.160380897589515e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Arbitrum (ARB)**
+  - Market Cap Rank: 45
+  - Price (BTC): 8.158820616874509e-06
+  - [More Info](https://www.coingecko.com/en/coins/arbitrum)
+
+- **Ether.fi (ETHFI)**
+  - Market Cap Rank: 201
+  - Price (BTC): 2.0429515672281498e-05
+  - [More Info](https://www.coingecko.com/en/coins/ether-fi)
 
 ## Posts
 - **Post ID: 1**
