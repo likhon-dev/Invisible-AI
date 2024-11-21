@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 22:09:13 UTC
+**Last updated:** 2024-11-21 23:10:02 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98077 USD
-  - Market Cap: $1940089089045.5566 USD
-  - 24h Volume: $114475919064.75017 USD
-  - 24h Change: 3.8763076097754325%
+- **Bitcoin (BTC)**: $98669 USD
+  - Market Cap: $1951185618480.394 USD
+  - 24h Volume: $126632076978.66101 USD
+  - 24h Change: 4.7360246861209125%
 
-- **Ethereum (ETH)**: $3357.5 USD
-  - Market Cap: $404036458735.12396 USD
-  - 24h Volume: $55633159196.70141 USD
-  - 24h Change: 8.912270558174862%
+- **Ethereum (ETH)**: $3372.72 USD
+  - Market Cap: $406303182192.6172 USD
+  - 24h Volume: $56276023797.3526 USD
+  - 24h Change: 9.739016503651817%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 956
-  - Price (BTC): 3.512923596166422e-07
+  - Market Cap Rank: 946
+  - Price (BTC): 3.5844921231085615e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 874
-  - Price (BTC): 4.901620767862064e-07
+  - Market Cap Rank: 878
+  - Price (BTC): 4.807858441962043e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 443
-  - Price (BTC): 3.1337151203690924e-06
+  - Price (BTC): 3.1377883353284857e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 786
-  - Price (BTC): 5.431972269200994e-10
+  - Market Cap Rank: 720
+  - Price (BTC): 5.929783986588352e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 189
-  - Price (BTC): 4.836493653117458e-06
+  - Market Cap Rank: 190
+  - Price (BTC): 4.789283468452625e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002588612140012805
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.6796193431922137e-05
+  - Price (BTC): 3.7230253207571766e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Mode (MODE)**
   - Market Cap Rank: 907
-  - Price (BTC): 1.5411494209481218e-07
+  - Price (BTC): 1.540182275023285e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025922823782786883
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 125
+  - Price (BTC): 8.45111029936398e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1384062383096684e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03424657824322736
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 84
+  - Price (BTC): 1.3790807942403664e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.9151075438342656e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1113549552793195e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03416874623148379
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 54
-  - Price (BTC): 2.650492804358958e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
-
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2124820834186786e-05
+  - Price (BTC): 1.2225731829840156e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 6.221209401428191e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 36
-  - Price (BTC): 0.005324645959576376
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 ## Posts
 - **Post ID: 1**
