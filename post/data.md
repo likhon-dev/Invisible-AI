@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 11:08:52 UTC
+**Last updated:** 2024-11-22 12:18:36 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98635 USD
-  - Market Cap: $1951217547487.457 USD
-  - 24h Volume: $113764529536.13812 USD
-  - 24h Change: 0.3297779105902766%
+- **Bitcoin (BTC)**: $98775 USD
+  - Market Cap: $1955735170967.665 USD
+  - 24h Volume: $105679518258.95183 USD
+  - 24h Change: 1.034686734446655%
 
-- **Ethereum (ETH)**: $3331.73 USD
-  - Market Cap: $400912094670.36127 USD
-  - 24h Volume: $57530704711.63751 USD
-  - 24h Change: 5.78696675396954%
+- **Ethereum (ETH)**: $3340.45 USD
+  - Market Cap: $402601011490.2024 USD
+  - 24h Volume: $54299935262.790665 USD
+  - 24h Change: 4.068029763143293%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 334
-  - Price (BTC): 2.705869949089266e-06
+  - Market Cap Rank: 332
+  - Price (BTC): 2.7400301619888267e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 988
-  - Price (BTC): 3.328166843405913e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **StrikeX (STRX)**
-  - Market Cap Rank: 867
-  - Price (BTC): 4.931465558868166e-07
+  - Market Cap Rank: 881
+  - Price (BTC): 4.945779690846779e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 702
-  - Price (BTC): 6.315780495494795e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 859
-  - Price (BTC): 1.7160393360939942e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 219
-  - Price (BTC): 3.8942612625532984e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4270194851129796e-05
+  - Price (BTC): 1.493435809478289e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026161812534933647
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **MAD (MAD)**
+  - Market Cap Rank: 729
+  - Price (BTC): 5.866323456241671e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 990
+  - Price (BTC): 3.26268589972356e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 860
+  - Price (BTC): 1.7271734494515152e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 454
+  - Price (BTC): 3.058894217897211e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.582146479994799e-05
+  - Price (BTC): 3.623199271099913e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1329828310601754e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 219
+  - Price (BTC): 3.862515558184368e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 182
-  - Price (BTC): 2.0333002377610163e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026272910756453146
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 9.202610590309582e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **peaq (PEAQ)**
-  - Market Cap Rank: 656
-  - Price (BTC): 1.8597683472900931e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
+- **Stellar (XLM)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.0372801125144886e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.772957428858403e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Grass (GRASS)**
+  - Market Cap Rank: 184
+  - Price (BTC): 2.0077951823147366e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.245939879805216e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.130401033175458e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
