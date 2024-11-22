@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 05:10:12 UTC
+**Last updated:** 2024-11-22 06:14:22 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98770 USD
-  - Market Cap: $1952629138326.0872 USD
-  - 24h Volume: $117301807819.96837 USD
-  - 24h Change: 1.2845712859287253%
+- **Bitcoin (BTC)**: $98826 USD
+  - Market Cap: $1957312348128.4163 USD
+  - 24h Volume: $107157984868.48927 USD
+  - 24h Change: 1.6508842629720866%
 
-- **Ethereum (ETH)**: $3387.36 USD
-  - Market Cap: $407794295838.0571 USD
-  - 24h Volume: $57343245508.86847 USD
-  - 24h Change: 7.748089598771172%
+- **Ethereum (ETH)**: $3378.64 USD
+  - Market Cap: $407528946483.56226 USD
+  - 24h Volume: $57012590018.11602 USD
+  - 24h Change: 8.517973260673545%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 895
-  - Price (BTC): 1.601497074628016e-07
+  - Market Cap Rank: 888
+  - Price (BTC): 1.6104383021008716e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 767
-  - Price (BTC): 5.394049288885493e-10
+  - Market Cap Rank: 719
+  - Price (BTC): 6.185402552450048e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 950
+  - Price (BTC): 3.5544738153819896e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 866
+  - Price (BTC): 4.988735260475738e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 229
+  - Price (BTC): 3.76696311485364e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4057023116621506e-05
+  - Price (BTC): 1.4205061005842127e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002638053652951299
+  - Price (BTC): 0.002631977541623618
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 229
-  - Price (BTC): 3.746897707212168e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.68346418283207e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03431476561103378
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 9.022825251928098e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1465662599017363e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.6401278562391354e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.011259190348781e-06
+  - Price (BTC): 3.994567300313706e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.270402377536344e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.159592457547091e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.940788627712825e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 86
-  - Price (BTC): 1.3235777930510748e-05
+  - Price (BTC): 1.3050058789792133e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 95
-  - Price (BTC): 2.8857917134371097e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03420153047236681
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 43
-  - Price (BTC): 3.4385783769308864e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.276200977688068e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 ## Posts
 - **Post ID: 1**
