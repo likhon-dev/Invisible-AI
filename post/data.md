@@ -1,52 +1,52 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 08:13:20 UTC
+**Last updated:** 2024-11-22 09:11:08 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99211 USD
-  - Market Cap: $1963691533532.7737 USD
-  - 24h Volume: $111420069334.01477 USD
-  - 24h Change: 2.2528503871577272%
+- **Bitcoin (BTC)**: $98917 USD
+  - Market Cap: $1956047768304.9915 USD
+  - 24h Volume: $112486895385.04176 USD
+  - 24h Change: 1.4807328876631756%
 
-- **Ethereum (ETH)**: $3369.29 USD
-  - Market Cap: $405803975189.17664 USD
-  - 24h Volume: $54134449761.20118 USD
-  - 24h Change: 7.357387360212626%
+- **Ethereum (ETH)**: $3376.75 USD
+  - Market Cap: $406274303634.88776 USD
+  - 24h Volume: $55612338254.442635 USD
+  - 24h Change: 7.315893175951038%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 864
-  - Price (BTC): 1.6686424361186228e-07
+  - Market Cap Rank: 857
+  - Price (BTC): 1.7192089933179352e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 641
-  - Price (BTC): 6.907972689736971e-10
+  - Market Cap Rank: 699
+  - Price (BTC): 6.43053787474608e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 954
-  - Price (BTC): 3.5245808757132697e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 869
-  - Price (BTC): 4.911634542776958e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 199
+  - Price (BTC): 4.186791551064246e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.383866885255338e-05
+  - Price (BTC): 1.4085257047577955e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 213
-  - Price (BTC): 4.1339708544736575e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.612258697637806e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 960
+  - Price (BTC): 3.47158988219524e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026162379223910147
+  - Price (BTC): 0.002627620439120371
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
@@ -54,40 +54,40 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.581717091641887e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.117111169591515e-10
+  - Price (BTC): 2.1390458857010554e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 180
+  - Price (BTC): 2.048992308778759e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03395072950932989
+  - Price (BTC): 0.03412808906635699
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.778082848292342e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 876
+  - Price (BTC): 4.949066177068255e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.9517855374667105e-06
+  - Price (BTC): 3.978948793628415e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.2641067247265753e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Sologenic (SOLO)**
-  - Market Cap Rank: 320
-  - Price (BTC): 5.3680887855960535e-06
-  - [More Info](https://www.coingecko.com/en/coins/sologenic)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 177
-  - Price (BTC): 2.0938814621904338e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Optimism (OP)**
+  - Market Cap Rank: 53
+  - Price (BTC): 2.1262564077066768e-05
+  - [More Info](https://www.coingecko.com/en/coins/optimism)
 
 ## Posts
 - **Post ID: 1**
