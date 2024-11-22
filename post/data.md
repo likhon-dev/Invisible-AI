@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 04:12:41 UTC
+**Last updated:** 2024-11-22 05:10:12 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99016 USD
-  - Market Cap: $1959613166791.0483 USD
-  - 24h Volume: $119007752556.71523 USD
-  - 24h Change: 2.4178934796679563%
+- **Bitcoin (BTC)**: $98770 USD
+  - Market Cap: $1952629138326.0872 USD
+  - 24h Volume: $117301807819.96837 USD
+  - 24h Change: 1.2845712859287253%
 
-- **Ethereum (ETH)**: $3370.48 USD
-  - Market Cap: $405891798237.02594 USD
-  - 24h Volume: $57622803125.02289 USD
-  - 24h Change: 8.562872099308754%
+- **Ethereum (ETH)**: $3387.36 USD
+  - Market Cap: $407794295838.0571 USD
+  - 24h Volume: $57343245508.86847 USD
+  - 24h Change: 7.748089598771172%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 902
-  - Price (BTC): 1.5785027738040652e-07
+  - Market Cap Rank: 895
+  - Price (BTC): 1.601497074628016e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 746
-  - Price (BTC): 5.572992361159424e-10
+  - Market Cap Rank: 767
+  - Price (BTC): 5.394049288885493e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 953
-  - Price (BTC): 3.5264226846978314e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 226
-  - Price (BTC): 3.729097599258385e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002655360817803169
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4008645376341998e-05
+  - Price (BTC): 1.4057023116621506e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 874
-  - Price (BTC): 4.960565843095175e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002638053652951299
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 229
+  - Price (BTC): 3.746897707212168e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.68346418283207e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03431476561103378
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.660638511486918e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03404237784591098
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.989275645169943e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 8.795885992568202e-06
+  - Price (BTC): 9.022825251928098e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.1601905182436525e-10
+  - Price (BTC): 2.1465662599017363e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.011259190348781e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 35
-  - Price (BTC): 5.301773486780871e-10
+  - Price (BTC): 5.270402377536344e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 129
-  - Price (BTC): 8.061981574241333e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 86
+  - Price (BTC): 1.3235777930510748e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 95
+  - Price (BTC): 2.8857917134371097e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 43
+  - Price (BTC): 3.4385783769308864e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
