@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 16:12:03 UTC
+**Last updated:** 2024-11-22 17:09:39 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98511 USD
-  - Market Cap: $1949446755513.1338 USD
-  - 24h Volume: $92945230418.60556 USD
-  - 24h Change: 1.830027478845741%
+- **Bitcoin (BTC)**: $99012 USD
+  - Market Cap: $1959003504396.3452 USD
+  - 24h Volume: $93231646913.7766 USD
+  - 24h Change: 1.7871191296271067%
 
-- **Ethereum (ETH)**: $3305.8 USD
-  - Market Cap: $398173415510.66016 USD
-  - 24h Volume: $44259174385.46845 USD
-  - 24h Change: 0.47948151211328444%
+- **Ethereum (ETH)**: $3313.67 USD
+  - Market Cap: $399060125080.23193 USD
+  - 24h Volume: $42229302457.04592 USD
+  - 24h Change: -0.4582835787402071%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 320
-  - Price (BTC): 2.85768308409191e-06
+  - Market Cap Rank: 335
+  - Price (BTC): 2.6583267695574646e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 279
-  - Price (BTC): 4.204947329812584e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 451
-  - Price (BTC): 3.0182331323768853e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 996
-  - Price (BTC): 3.265062648218692e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 838
-  - Price (BTC): 4.571180135179903e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **StrikeX (STRX)**
   - Market Cap Rank: 900
-  - Price (BTC): 4.635708932572384e-07
+  - Price (BTC): 4.635604697268213e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 281
+  - Price (BTC): 4.1526268091408195e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 456
+  - Price (BTC): 2.9980358645540506e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **MAD (MAD)**
+  - Market Cap Rank: 787
+  - Price (BTC): 5.021913241927443e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
 - **Mode (MODE)**
-  - Market Cap Rank: 845
-  - Price (BTC): 1.7634798079548376e-07
+  - Market Cap Rank: 843
+  - Price (BTC): 1.740123387078852e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.5403227457019155e-05
+  - Price (BTC): 3.50935447203679e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4576552722184213e-05
+  - Price (BTC): 1.4837714833506284e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025906889685096087
+  - Price (BTC): 0.002579474195717704
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 224
-  - Price (BTC): 3.880083031497787e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0749305394801676e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 9.427143142035807e-06
+  - Price (BTC): 9.782824557821033e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.070210111318945e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.0410889390329765e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 56
-  - Price (BTC): 2.5274654622298488e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 215
+  - Price (BTC): 3.9951741396492065e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Sologenic (SOLO)**
+  - Market Cap Rank: 253
+  - Price (BTC): 8.267192964513411e-06
+  - [More Info](https://www.coingecko.com/en/coins/sologenic)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.033472186544153903
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
