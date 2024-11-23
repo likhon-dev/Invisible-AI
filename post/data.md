@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 00:46:20 UTC
+**Last updated:** 2024-11-23 02:13:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98774 USD
-  - Market Cap: $1955044992394.0562 USD
-  - 24h Volume: $85717693293.84706 USD
-  - 24h Change: 0.6013422595746033%
+- **Bitcoin (BTC)**: $98526 USD
+  - Market Cap: $1949517412829.6506 USD
+  - 24h Volume: $80871643075.8837 USD
+  - 24h Change: 0.1810531535884893%
 
-- **Ethereum (ETH)**: $3344.51 USD
-  - Market Cap: $402789772523.12897 USD
-  - 24h Volume: $39168678754.44706 USD
-  - 24h Change: 0.27254292995942914%
+- **Ethereum (ETH)**: $3345.09 USD
+  - Market Cap: $402858181276.89484 USD
+  - 24h Volume: $39360330456.80916 USD
+  - 24h Change: 0.4204552745930369%
 
 ## Trending Coins
-- **StrikeX (STRX)**
-  - Market Cap Rank: 947
-  - Price (BTC): 4.3250841714096394e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 991
-  - Price (BTC): 3.285492108490329e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 446
-  - Price (BTC): 3.1352391015273444e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 274
-  - Price (BTC): 4.511149679514131e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Mythos (MYTH)**
-  - Market Cap Rank: 340
-  - Price (BTC): 2.670255761586515e-06
+  - Market Cap Rank: 344
+  - Price (BTC): 2.6574827925789193e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 759
-  - Price (BTC): 5.336400544187086e-10
+  - Market Cap Rank: 762
+  - Price (BTC): 5.32300636773153e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 845
-  - Price (BTC): 1.755335187570832e-07
+  - Market Cap Rank: 859
+  - Price (BTC): 1.720944973494077e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.60479412716861e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 1.096751724588577e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025978680442202548
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 269
-  - Price (BTC): 3.1380488413880685e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 944
+  - Price (BTC): 4.360806430026958e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.959938019322439e-06
+  - Price (BTC): 4.538223254712019e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 12
-  - Price (BTC): 0.00043227812552364435
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1253980964474892e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.605121264872482e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026002349955561613
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 30
-  - Price (BTC): 1.5433957964082946e-06
+  - Market Cap Rank: 28
+  - Price (BTC): 1.675332931644584e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.1693168954472275e-06
+  - Price (BTC): 4.13483180440896e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 286
+  - Price (BTC): 2.746838613215356e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 0.00044692329143141427
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+
+- **NEAR Protocol (NEAR)**
+  - Market Cap Rank: 25
+  - Price (BTC): 6.33846776077466e-05
+  - [More Info](https://www.coingecko.com/en/coins/near)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.592782547401191e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03387568276672245
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
