@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 14:09:44 UTC
+**Last updated:** 2024-11-25 15:10:42 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97561 USD
-  - Market Cap: $1931275280431.943 USD
-  - 24h Volume: $56849931289.26881 USD
-  - 24h Change: 0.5974552498922499%
+- **Bitcoin (BTC)**: $95289 USD
+  - Market Cap: $1885714123087.4329 USD
+  - 24h Volume: $64294658115.824165 USD
+  - 24h Change: -1.5966074435847923%
 
-- **Ethereum (ETH)**: $3486.03 USD
-  - Market Cap: $419760455232.9677 USD
-  - 24h Volume: $34254127695.005306 USD
-  - 24h Change: 5.37079384328555%
+- **Ethereum (ETH)**: $3404.81 USD
+  - Market Cap: $410253725840.08875 USD
+  - 24h Volume: $34380099969.07961 USD
+  - 24h Change: 2.589485279843212%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 669
-  - Price (BTC): 2.285473299876655e-07
+  - Market Cap Rank: 673
+  - Price (BTC): 2.2273131812333986e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 274
-  - Price (BTC): 4.877348587610182e-10
+  - Market Cap Rank: 273
+  - Price (BTC): 4.788507971666905e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 778
-  - Price (BTC): 5.569777291221874e-07
+  - Market Cap Rank: 765
+  - Price (BTC): 5.839581233116294e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 47
-  - Price (BTC): 3.45065544757e-05
+  - Market Cap Rank: 48
+  - Price (BTC): 3.443215967222171e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 155
-  - Price (BTC): 2.7810375364575827e-05
+  - Market Cap Rank: 158
+  - Price (BTC): 2.7818908792311252e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 243
-  - Price (BTC): 3.9930205030013875e-06
+  - Market Cap Rank: 249
+  - Price (BTC): 3.8195196123387946e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 899
-  - Price (BTC): 4.31047002851639e-10
+  - Market Cap Rank: 890
+  - Price (BTC): 4.2576781632168444e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 680
+  - Price (BTC): 7.260231072556676e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 42
+  - Price (BTC): 4.836011050124274e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.424705088127061e-05
+  - Price (BTC): 3.3956238858830194e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 681
-  - Price (BTC): 7.141653523745302e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025495228277804365
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.1834372710157815e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4726674380537022e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 73
-  - Price (BTC): 7.400997687475845e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03568404656138146
+  - Price (BTC): 0.035678956176372005
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 368
-  - Price (BTC): 0.0001440960315174984
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025286215241483276
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.5199778517010183e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.4615908618258036e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Sei (SEI)**
+  - Market Cap Rank: 60
+  - Price (BTC): 6.285997902621616e-06
+  - [More Info](https://www.coingecko.com/en/coins/sei)
 
 ## Posts
 - **Post ID: 1**
