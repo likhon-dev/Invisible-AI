@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 03:25:45 UTC
+**Last updated:** 2024-11-25 04:13:01 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97854 USD
-  - Market Cap: $1934923863426.1865 USD
-  - 24h Volume: $57702249154.83215 USD
-  - 24h Change: -0.6342476248122688%
+- **Bitcoin (BTC)**: $98105 USD
+  - Market Cap: $1939987284913.5693 USD
+  - 24h Volume: $57294520594.49219 USD
+  - 24h Change: -0.19577906974442127%
 
-- **Ethereum (ETH)**: $3357.62 USD
-  - Market Cap: $404018629738.3304 USD
-  - 24h Volume: $30681796278.943752 USD
-  - 24h Change: -2.1534786950792175%
+- **Ethereum (ETH)**: $3374.92 USD
+  - Market Cap: $405866213398.4353 USD
+  - 24h Volume: $30614539225.24872 USD
+  - 24h Change: -1.6229619653243055%
 
 ## Trending Coins
-- **MAD (MAD)**
-  - Market Cap Rank: 935
-  - Price (BTC): 3.803268602386884e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 462
-  - Price (BTC): 1.2283531044134282e-06
+  - Market Cap Rank: 461
+  - Price (BTC): 1.2241051836166827e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
+- **MAD (MAD)**
+  - Market Cap Rank: 940
+  - Price (BTC): 3.81182759592937e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
 - **Celestia (TIA)**
-  - Market Cap Rank: 50
-  - Price (BTC): 7.783989678741149e-05
+  - Market Cap Rank: 51
+  - Price (BTC): 7.765045617285751e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 879
-  - Price (BTC): 5.097403725755325e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **Entangle (NGL)**
-  - Market Cap Rank: 703
-  - Price (BTC): 1.1381590815752663e-06
-  - [More Info](https://www.coingecko.com/en/coins/entangle)
 
 - **Koma Inu (KOMA)**
   - Market Cap Rank: 682
-  - Price (BTC): 7.032946898283441e-07
+  - Price (BTC): 7.003046423535409e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 209
-  - Price (BTC): 4.535447254534496e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 875
+  - Price (BTC): 5.167008139047702e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **The Sandbox (SAND)**
   - Market Cap Rank: 67
-  - Price (BTC): 8.43760273442267e-06
+  - Price (BTC): 8.203152260540824e-06
   - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
+
+- **Entangle (NGL)**
+  - Market Cap Rank: 710
+  - Price (BTC): 1.1191292142527016e-06
+  - [More Info](https://www.coingecko.com/en/coins/entangle)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 208
+  - Price (BTC): 4.553966586410899e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 361
+  - Price (BTC): 0.00014897304394173764
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.430232944155394e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025677563923398334
+  - Price (BTC): 0.00258121959613074
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.233211847427713e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Decentraland (MANA)**
+  - Market Cap Rank: 91
+  - Price (BTC): 7.425326959073143e-06
+  - [More Info](https://www.coingecko.com/en/coins/decentraland)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4263376577461053e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 189
+  - Price (BTC): 4.544879551422171e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 362
-  - Price (BTC): 0.0001521065943813978
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.322401056410923e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 160
-  - Price (BTC): 2.613178179675918e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Puffer (PUFFER)**
-  - Market Cap Rank: 896
-  - Price (BTC): 4.12996987218339e-06
-  - [More Info](https://www.coingecko.com/en/coins/puffer)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0343139370142516
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 24
+  - Price (BTC): 2.0448951039464314e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
