@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 14:10:03 UTC
+**Last updated:** 2024-11-26 15:10:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91833 USD
-  - Market Cap: $1817428373333.8157 USD
-  - 24h Volume: $129318659692.68756 USD
-  - 24h Change: -5.917792042148615%
+- **Bitcoin (BTC)**: $93537 USD
+  - Market Cap: $1851081970395.4314 USD
+  - 24h Volume: $126340977687.69113 USD
+  - 24h Change: -1.5369143882250036%
 
-- **Ethereum (ETH)**: $3295.73 USD
-  - Market Cap: $397110163854.1342 USD
-  - 24h Volume: $56463508921.96876 USD
-  - 24h Change: -5.51757131974044%
+- **Ethereum (ETH)**: $3355.28 USD
+  - Market Cap: $404159114567.36993 USD
+  - 24h Volume: $52735257375.83006 USD
+  - 24h Change: -1.05465274730614%
 
 ## Trending Coins
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 379
-  - Price (BTC): 2.5924193046250453e-11
+  - Market Cap Rank: 378
+  - Price (BTC): 2.62549704116224e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
+- **Self Chain (SLF)**
+  - Market Cap Rank: 852
+  - Price (BTC): 5.109628830696522e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 661
-  - Price (BTC): 7.646827488775824e-06
+  - Market Cap Rank: 648
+  - Price (BTC): 8.125087018829275e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 296
-  - Price (BTC): 2.2365958722599275e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Thena (THE)**
-  - Market Cap Rank: 783
-  - Price (BTC): 1.0174761104756157e-05
-  - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **Fantom (FTM)**
   - Market Cap Rank: 53
-  - Price (BTC): 1.0984918142099473e-05
+  - Price (BTC): 1.1256327879070125e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
 
-- **Self Chain (SLF)**
-  - Market Cap Rank: 869
-  - Price (BTC): 4.675266612397933e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+- **Thena (THE)**
+  - Market Cap Rank: 770
+  - Price (BTC): 1.0249951733118154e-05
+  - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024732993843441437
+  - Price (BTC): 0.0024865668729160393
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 181
-  - Price (BTC): 5.297002245874036e-06
+  - Market Cap Rank: 178
+  - Price (BTC): 5.601016147751686e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 309
+  - Price (BTC): 2.156974870354625e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03590320880608001
+  - Price (BTC): 0.03593067920431914
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4666175908568056e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Grass (GRASS)**
+  - Market Cap Rank: 136
+  - Price (BTC): 3.401060469992238e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.48441666384856e-05
+  - Price (BTC): 3.585806010595349e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.087728152027191e-06
+  - Price (BTC): 4.133639305100117e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Sei (SEI)**
-  - Market Cap Rank: 58
-  - Price (BTC): 6.871454318055367e-06
+  - Market Cap Rank: 57
+  - Price (BTC): 7.063920669712638e-06
   - [More Info](https://www.coingecko.com/en/coins/sei)
 
-- **MAD (MAD)**
-  - Market Cap Rank: 960
-  - Price (BTC): 3.8323332052722655e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 141
-  - Price (BTC): 3.215597211209975e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 146
+  - Price (BTC): 7.4527709624200576e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
