@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-27 12:19:33 UTC
+**Last updated:** 2024-11-27 13:21:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93295 USD
-  - Market Cap: $1844221605550.3818 USD
-  - 24h Volume: $86100753406.1042 USD
-  - 24h Change: 0.8432543372221821%
+- **Bitcoin (BTC)**: $93574 USD
+  - Market Cap: $1851536143025.885 USD
+  - 24h Volume: $80419404543.84654 USD
+  - 24h Change: 0.8580406576903312%
 
-- **Ethereum (ETH)**: $3457.2 USD
-  - Market Cap: $415622879217.15924 USD
-  - 24h Volume: $41184591537.290405 USD
-  - 24h Change: 3.6829647208851584%
+- **Ethereum (ETH)**: $3483.03 USD
+  - Market Cap: $419133454755.5845 USD
+  - 24h Volume: $40238000686.62295 USD
+  - 24h Change: 4.551166158680061%
 
 ## Trending Coins
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 378
+  - Price (BTC): 2.72844932922031e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
 - **Thena (THE)**
-  - Market Cap Rank: 451
-  - Price (BTC): 2.605947465455209e-05
+  - Market Cap Rank: 446
+  - Price (BTC): 2.6064167360330916e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 25
-  - Price (BTC): 1.9505998151929159e-10
+  - Price (BTC): 1.9427563570033574e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 169
+  - Price (BTC): 6.153753960020821e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
 - **Tornado Cash (TORN)**
-  - Market Cap Rank: 687
-  - Price (BTC): 0.00019658386080671918
+  - Market Cap Rank: 682
+  - Price (BTC): 0.00020062234745269147
   - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 859
-  - Price (BTC): 4.968223417062517e-10
+  - Market Cap Rank: 868
+  - Price (BTC): 5.056824023266281e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 377
-  - Price (BTC): 2.752908854626505e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 257
+  - Price (BTC): 3.0335729716693224e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 916
-  - Price (BTC): 4.726704007475025e-08
+  - Market Cap Rank: 913
+  - Price (BTC): 4.761459991394677e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 681
-  - Price (BTC): 7.670324038963628e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 406
+  - Price (BTC): 1.4121770383797183e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 159
-  - Price (BTC): 6.707063953558106e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 704
+  - Price (BTC): 7.0926512796954715e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 126
-  - Price (BTC): 9.488213891539703e-06
+  - Price (BTC): 9.558569365831899e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.624948646249576e-05
+  - Price (BTC): 3.604956924799739e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.158263053269485e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.5301005679256844e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Zircuit (ZRC)**
-  - Market Cap Rank: 388
-  - Price (BTC): 8.275314447854532e-07
-  - [More Info](https://www.coingecko.com/en/coins/zircuit)
+- **peaq (PEAQ)**
+  - Market Cap Rank: 478
+  - Price (BTC): 3.515096446869836e-06
+  - [More Info](https://www.coingecko.com/en/coins/peaq)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 274
-  - Price (BTC): 2.844852390703519e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 15
-  - Price (BTC): 5.198998391664707e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0372509712074719
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
