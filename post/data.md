@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-28 20:11:09 UTC
+**Last updated:** 2024-11-28 21:09:23 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95027 USD
-  - Market Cap: $1881819606756.3943 USD
-  - 24h Volume: $69220664196.51332 USD
-  - 24h Change: -1.9295887213966585%
+- **Bitcoin (BTC)**: $95092 USD
+  - Market Cap: $1878512681448.384 USD
+  - 24h Volume: $67299108092.87182 USD
+  - 24h Change: -1.411532724014%
 
-- **Ethereum (ETH)**: $3568.24 USD
-  - Market Cap: $430120137644.06696 USD
-  - 24h Volume: $39900953895.79129 USD
-  - 24h Change: -1.105851099446809%
+- **Ethereum (ETH)**: $3570.43 USD
+  - Market Cap: $429229603336.4935 USD
+  - 24h Volume: $38186882540.09448 USD
+  - 24h Change: -1.6912720025688337%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 300
-  - Price (BTC): 4.310158716743954e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 783
-  - Price (BTC): 6.298972267945567e-08
+  - Market Cap Rank: 786
+  - Price (BTC): 6.554887624403516e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 727
-  - Price (BTC): 6.716453962761161e-06
+  - Market Cap Rank: 744
+  - Price (BTC): 6.622574727636334e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 404
-  - Price (BTC): 2.5117613675110606e-11
+  - Market Cap Rank: 409
+  - Price (BTC): 2.491212067294117e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 107
-  - Price (BTC): 1.1802197094033297e-05
+  - Price (BTC): 1.1588014326814306e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 263
-  - Price (BTC): 3.0235011255509467e-11
+  - Market Cap Rank: 259
+  - Price (BTC): 3.1575494497339544e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.760401242805169e-05
+  - Market Cap Rank: 36
+  - Price (BTC): 1.780171741237937e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 191
-  - Price (BTC): 5.3901236955395764e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Thena (THE)**
-  - Market Cap Rank: 379
-  - Price (BTC): 3.5207613574622246e-05
-  - [More Info](https://www.coingecko.com/en/coins/thena)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 8.925539615004405e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024741355394854335
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.6294479432837596e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **NEURALAI (NEURAL)**
   - Market Cap Rank: 538
-  - Price (BTC): 0.00011596966457024
+  - Price (BTC): 0.00011598308272838
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.192457169457026e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 301
+  - Price (BTC): 4.281599772787599e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 24
-  - Price (BTC): 2.0515233386407877e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0024856862409037683
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Render (RENDER)**
+  - Market Cap Rank: 37
+  - Price (BTC): 8.899858314592921e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 194
+  - Price (BTC): 5.226888168106808e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 121
+  - Price (BTC): 1.4564406326036838e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 140
-  - Price (BTC): 3.616764201987032e-05
+  - Market Cap Rank: 135
+  - Price (BTC): 3.732499526787188e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **peaq (PEAQ)**
+  - Market Cap Rank: 512
+  - Price (BTC): 3.2440052045343745e-06
+  - [More Info](https://www.coingecko.com/en/coins/peaq)
 
 ## Posts
 - **Post ID: 1**
