@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 10:11:12 UTC
+**Last updated:** 2024-11-29 11:08:39 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96459 USD
-  - Market Cap: $1908775041905.026 USD
-  - 24h Volume: $55494794899.1284 USD
-  - 24h Change: 1.839670947514353%
+- **Bitcoin (BTC)**: $96787 USD
+  - Market Cap: $1916804595368.8804 USD
+  - 24h Volume: $54411739765.76148 USD
+  - 24h Change: 1.8844756999979166%
 
-- **Ethereum (ETH)**: $3570.51 USD
-  - Market Cap: $430130836446.5702 USD
-  - 24h Volume: $29513434914.928143 USD
-  - 24h Change: -0.4859558278973439%
+- **Ethereum (ETH)**: $3582.25 USD
+  - Market Cap: $431635156911.7322 USD
+  - 24h Volume: $29297641525.86097 USD
+  - 24h Change: -0.6894015814370644%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 93
-  - Price (BTC): 4.091424861920225e-05
+  - Market Cap Rank: 86
+  - Price (BTC): 4.402601126093907e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.4639148718537795e-05
+  - Market Cap Rank: 85
+  - Price (BTC): 1.467037096935318e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Spectral (SPEC)**
-  - Market Cap Rank: 372
-  - Price (BTC): 0.00014472942661734168
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 415
-  - Price (BTC): 2.4334234448536835e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 735
-  - Price (BTC): 6.727065601622997e-06
+  - Market Cap Rank: 741
+  - Price (BTC): 6.632486707346634e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 810
-  - Price (BTC): 6.004247748083663e-08
+  - Market Cap Rank: 788
+  - Price (BTC): 6.265614931991529e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 421
+  - Price (BTC): 2.408178350638824e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 364
+  - Price (BTC): 0.00015100271924213028
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 133
-  - Price (BTC): 3.696170827631152e-05
+  - Market Cap Rank: 136
+  - Price (BTC): 3.666847866760289e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 173
-  - Price (BTC): 6.514415294173349e-06
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 35
-  - Price (BTC): 0.006552788643330681
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03703635070150772
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.5259681986599805e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **peaq (PEAQ)**
-  - Market Cap Rank: 459
-  - Price (BTC): 3.751518414512786e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.6938270241091192e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.6925888193438382e-05
+  - Price (BTC): 1.7200784550293165e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 172
+  - Price (BTC): 6.524968370443526e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.5211348388112046e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 35
+  - Price (BTC): 0.006458653595571822
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 221
+  - Price (BTC): 4.5382541420530905e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
 - **Brett (BRETT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.7962901916756269e-06
+  - Market Cap Rank: 75
+  - Price (BTC): 1.771961038605151e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0024952882040153463
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Gifto (GFT)**
+  - Market Cap Rank: 1212
+  - Price (BTC): 1.1121152176319842e-07
+  - [More Info](https://www.coingecko.com/en/coins/gifto)
 
 ## Posts
 - **Post ID: 1**
