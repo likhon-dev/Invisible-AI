@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 22:09:17 UTC
+**Last updated:** 2024-11-29 23:09:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97447 USD
-  - Market Cap: $1929241387517.4214 USD
-  - 24h Volume: $71659955946.25275 USD
-  - 24h Change: 2.4992370587450643%
+- **Bitcoin (BTC)**: $97350 USD
+  - Market Cap: $1926908496097.2822 USD
+  - 24h Volume: $57647893634.248764 USD
+  - 24h Change: 1.7708887438704535%
 
-- **Ethereum (ETH)**: $3593.42 USD
-  - Market Cap: $432884512867.91174 USD
-  - 24h Volume: $29695525201.249615 USD
-  - 24h Change: 0.6233507643098877%
+- **Ethereum (ETH)**: $3598.12 USD
+  - Market Cap: $433389622240.60345 USD
+  - 24h Volume: $29376701171.052948 USD
+  - 24h Change: 0.20037733290723353%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 290
-  - Price (BTC): 4.5501766655191624e-10
+  - Price (BTC): 4.589784536653686e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 71
-  - Price (BTC): 5.9679449208375306e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 6.224676600670689e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Propchain (PROPC)**
-  - Market Cap Rank: 964
-  - Price (BTC): 2.193034299086176e-05
+  - Market Cap Rank: 987
+  - Price (BTC): 2.0855627600646524e-05
   - [More Info](https://www.coingecko.com/en/coins/propchain)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 782
-  - Price (BTC): 6.599453080248765e-08
+  - Market Cap Rank: 790
+  - Price (BTC): 6.459070312205393e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 426
-  - Price (BTC): 2.356395250139034e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 185
-  - Price (BTC): 4.688293829980711e-11
+  - Market Cap Rank: 183
+  - Price (BTC): 4.733208449523352e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 430
+  - Price (BTC): 2.3521652101609406e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.3689437139111512e-05
+  - Market Cap Rank: 95
+  - Price (BTC): 1.4206398325486794e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
+- **Opulous (OPUL)**
+  - Market Cap Rank: 784
+  - Price (BTC): 1.2209078883930344e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
+
+- **Tezos (XTZ)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.3864350574699714e-05
+  - [More Info](https://www.coingecko.com/en/coins/tezos)
+
 - **Algorand (ALGO)**
-  - Market Cap Rank: 43
-  - Price (BTC): 4.520179580182175e-06
+  - Market Cap Rank: 42
+  - Price (BTC): 4.7628196341066315e-06
   - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.7997627395969538e-05
+  - Price (BTC): 1.801325735579088e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 351
+  - Price (BTC): 0.00016522278013597088
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 136
+  - Price (BTC): 9.118206195533868e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002509216380843098
+  - Price (BTC): 0.0025100982706957775
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 347
-  - Price (BTC): 0.00016796834113901819
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 30
-  - Price (BTC): 1.8007325518827538e-06
+  - Price (BTC): 1.8341776487120413e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 138
-  - Price (BTC): 8.909703288123287e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.4162611806256615e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 305
-  - Price (BTC): 2.9016731538747996e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 ## Posts
 - **Post ID: 1**
