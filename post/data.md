@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 16:12:21 UTC
+**Last updated:** 2024-11-29 17:09:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98266 USD
-  - Market Cap: $1944719197373.2485 USD
-  - 24h Volume: $66195683297.48698 USD
-  - 24h Change: 3.118378194976957%
+- **Bitcoin (BTC)**: $97744 USD
+  - Market Cap: $1935429585354.195 USD
+  - 24h Volume: $57818736800.694916 USD
+  - 24h Change: 2.730120614539282%
 
-- **Ethereum (ETH)**: $3618.16 USD
-  - Market Cap: $435774433364.94965 USD
-  - 24h Volume: $28190612706.93547 USD
-  - 24h Change: 1.67897225236257%
+- **Ethereum (ETH)**: $3598.39 USD
+  - Market Cap: $433324544581.8377 USD
+  - 24h Volume: $28332574795.385426 USD
+  - 24h Change: 1.3442527643117843%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 297
-  - Price (BTC): 4.376514742246394e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 76
-  - Price (BTC): 5.0836339065789144e-05
+  - Market Cap Rank: 73
+  - Price (BTC): 5.3348942104361095e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 291
+  - Price (BTC): 4.435943068480209e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **Propchain (PROPC)**
-  - Market Cap Rank: 983
-  - Price (BTC): 2.115393708022313e-05
+  - Market Cap Rank: 972
+  - Price (BTC): 2.1455414861703646e-05
   - [More Info](https://www.coingecko.com/en/coins/propchain)
 
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 214
+  - Price (BTC): 3.9912334351088724e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 793
-  - Price (BTC): 6.447075533556468e-08
+  - Market Cap Rank: 790
+  - Price (BTC): 6.60016475768734e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.3185728934754657e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 419
+  - Price (BTC): 2.3776332617295946e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 346
+  - Price (BTC): 0.00016807567439394467
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.7537340109496696e-05
+  - Price (BTC): 1.730871857447693e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 357
-  - Price (BTC): 0.00016079320020765927
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.3434431525150198e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 211
-  - Price (BTC): 3.976933987124283e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 418
-  - Price (BTC): 2.3899465568667333e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.1164564719530573e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Algorand (ALGO)**
-  - Market Cap Rank: 51
-  - Price (BTC): 4.115528138583112e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.586102443585657e-05
+  - Price (BTC): 3.5738993082315155e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 214
-  - Price (BTC): 4.756946239438471e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **Grass (GRASS)**
+  - Market Cap Rank: 142
+  - Price (BTC): 3.583154901700929e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.270906444712799e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Algorand (ALGO)**
+  - Market Cap Rank: 54
+  - Price (BTC): 3.970394508330315e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 343
-  - Price (BTC): 2.6791024842239225e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.09415246848297e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.6766073090039085e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036722694510033925
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
