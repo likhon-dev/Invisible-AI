@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 19:08:23 UTC
+**Last updated:** 2024-11-29 20:10:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97022 USD
-  - Market Cap: $1920957658951.0554 USD
-  - 24h Volume: $68622366669.87145 USD
-  - 24h Change: 1.8504423083554513%
+- **Bitcoin (BTC)**: $97310 USD
+  - Market Cap: $1926472237606.7886 USD
+  - 24h Volume: $70257024511.30984 USD
+  - 24h Change: 2.3580154832653752%
 
-- **Ethereum (ETH)**: $3566.94 USD
-  - Market Cap: $429968553001.29535 USD
-  - 24h Volume: $29316849007.86768 USD
-  - 24h Change: -0.34721767065813774%
+- **Ethereum (ETH)**: $3582.49 USD
+  - Market Cap: $431575408948.55786 USD
+  - 24h Volume: $29347065474.444653 USD
+  - 24h Change: 0.3549085194164779%
 
 ## Trending Coins
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 296
+  - Price (BTC): 4.40516790628757e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 71
-  - Price (BTC): 6.0524003866394847e-05
+  - Market Cap Rank: 70
+  - Price (BTC): 6.15821803210836e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Propchain (PROPC)**
-  - Market Cap Rank: 967
-  - Price (BTC): 2.1661369827218232e-05
+  - Market Cap Rank: 970
+  - Price (BTC): 2.151930922534165e-05
   - [More Info](https://www.coingecko.com/en/coins/propchain)
 
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 293
-  - Price (BTC): 4.4655470993150305e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 744
-  - Price (BTC): 7.163869553151289e-08
+  - Market Cap Rank: 785
+  - Price (BTC): 6.548639719360389e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.3565466829024398e-05
+  - Market Cap Rank: 94
+  - Price (BTC): 1.3815591514338608e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 212
-  - Price (BTC): 4.032145045617507e-11
+  - Market Cap Rank: 208
+  - Price (BTC): 4.178128454008103e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 421
-  - Price (BTC): 2.3885641586282452e-11
+  - Market Cap Rank: 423
+  - Price (BTC): 2.3885131428744324e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **Spectral (SPEC)**
-  - Market Cap Rank: 345
-  - Price (BTC): 0.00017000297760301185
+  - Market Cap Rank: 349
+  - Price (BTC): 0.00016765227152894065
   - [More Info](https://www.coingecko.com/en/coins/spectral)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 141
+  - Price (BTC): 8.761001165496876e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.7512353411977794e-05
+  - Price (BTC): 1.7689915591371623e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Algorand (ALGO)**
-  - Market Cap Rank: 49
-  - Price (BTC): 4.171041721618239e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.600152092582948e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **aixbt by Virtuals (AIXBT)**
-  - Market Cap Rank: 382
-  - Price (BTC): 1.939113494255259e-06
+  - Market Cap Rank: 364
+  - Price (BTC): 2.157921041436415e-06
   - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 48
+  - Price (BTC): 4.313478969336196e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00248677652006466
+  - Price (BTC): 0.002477528322193317
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 30
-  - Price (BTC): 1.6886757403641644e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
+- **NEURALAI (NEURAL)**
+  - Market Cap Rank: 502
+  - Price (BTC): 0.0001237242609344
+  - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
-- **peaq (PEAQ)**
-  - Market Cap Rank: 471
-  - Price (BTC): 3.701567461147372e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.587498812543501e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 ## Posts
 - **Post ID: 1**
