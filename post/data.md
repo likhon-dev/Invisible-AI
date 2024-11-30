@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 10:09:28 UTC
+**Last updated:** 2024-11-30 11:07:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96764 USD
-  - Market Cap: $1914895911542.4312 USD
-  - 24h Volume: $74511012733.2498 USD
-  - 24h Change: 0.12583634396527854%
+- **Bitcoin (BTC)**: $96277 USD
+  - Market Cap: $1903188538461.1284 USD
+  - 24h Volume: $74185221457.87608 USD
+  - 24h Change: -0.44595333321778685%
 
-- **Ethereum (ETH)**: $3689.59 USD
-  - Market Cap: $444395326477.09766 USD
-  - 24h Volume: $33964712606.498203 USD
-  - 24h Change: 3.142743167010135%
+- **Ethereum (ETH)**: $3649.41 USD
+  - Market Cap: $439041387913.2287 USD
+  - 24h Volume: $34984037426.54194 USD
+  - 24h Change: 1.9861918021998697%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 64
-  - Price (BTC): 7.256943693460477e-05
+  - Price (BTC): 7.588815392906252e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 430
-  - Price (BTC): 2.4002187684975276e-11
+  - Market Cap Rank: 432
+  - Price (BTC): 2.348641906973235e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 88
-  - Price (BTC): 1.5475460282823456e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.9511618948960668e-05
+  - Price (BTC): 1.9415191048985398e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 791
-  - Price (BTC): 6.626026154619217e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 90
+  - Price (BTC): 1.5242123237002865e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Spectral (SPEC)**
-  - Market Cap Rank: 334
-  - Price (BTC): 0.00018177296460439578
+  - Market Cap Rank: 333
+  - Price (BTC): 0.00018024132911852815
   - [More Info](https://www.coingecko.com/en/coins/spectral)
 
-- **Propchain (PROPC)**
-  - Market Cap Rank: 977
-  - Price (BTC): 2.2225221168331236e-05
-  - [More Info](https://www.coingecko.com/en/coins/propchain)
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 792
+  - Price (BTC): 6.611418462852147e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.619976131164863e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Propchain (PROPC)**
+  - Market Cap Rank: 991
+  - Price (BTC): 2.1670413059548866e-05
+  - [More Info](https://www.coingecko.com/en/coins/propchain)
 
 - **Artificial Superintelligence Alliance (FET)**
   - Market Cap Rank: 35
-  - Price (BTC): 1.891852693887807e-05
+  - Price (BTC): 1.8880471684793148e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.520644952841775e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.383369411415899e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025184480257500175
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.5589288737792865e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 1.1419494130983442e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 179
+  - Price (BTC): 4.910182887392837e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 8.7731976256983e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.2837759976555592e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03794958168580205
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 45
+  - Price (BTC): 4.409619806188732e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 146
-  - Price (BTC): 3.4317173344014405e-05
+  - Price (BTC): 3.367130027353635e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **aixbt by Virtuals (AIXBT)**
-  - Market Cap Rank: 363
-  - Price (BTC): 2.2330302657811033e-06
-  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
 ## Posts
 - **Post ID: 1**
