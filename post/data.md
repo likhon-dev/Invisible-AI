@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 14:09:02 UTC
+**Last updated:** 2024-11-30 15:09:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96495 USD
-  - Market Cap: $1908230007199.278 USD
-  - 24h Volume: $67755738888.26159 USD
-  - 24h Change: -0.56870528057498%
+- **Bitcoin (BTC)**: $96663 USD
+  - Market Cap: $1912629741214.0454 USD
+  - 24h Volume: $64014683753.800095 USD
+  - 24h Change: -1.7463635722560371%
 
-- **Ethereum (ETH)**: $3676.97 USD
-  - Market Cap: $442256970381.7439 USD
-  - 24h Volume: $34670672616.29193 USD
-  - 24h Change: 1.988990111628328%
+- **Ethereum (ETH)**: $3666.32 USD
+  - Market Cap: $441587804022.29846 USD
+  - 24h Volume: $34106903666.895626 USD
+  - 24h Change: 0.7853699927387545%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 296
-  - Price (BTC): 4.471332415682945e-10
+  - Price (BTC): 4.428475124281438e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 64
-  - Price (BTC): 7.887493104252486e-05
+  - Price (BTC): 8.402327803679001e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 434
-  - Price (BTC): 2.369759692736485e-11
+  - Price (BTC): 2.3629110360830336e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 792
-  - Price (BTC): 6.548598594337255e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+- **Propchain (PROPC)**
+  - Market Cap Rank: 1000
+  - Price (BTC): 2.136589068449003e-05
+  - [More Info](https://www.coingecko.com/en/coins/propchain)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 181
-  - Price (BTC): 4.935919301391637e-11
+  - Market Cap Rank: 179
+  - Price (BTC): 5.078918973543236e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Opulous (OPUL)**
-  - Market Cap Rank: 809
-  - Price (BTC): 1.1433634714265364e-06
-  - [More Info](https://www.coingecko.com/en/coins/opulous)
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 811
+  - Price (BTC): 6.173701757305841e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 84
-  - Price (BTC): 1.6273279423860933e-05
+  - Price (BTC): 1.672311063892657e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Opulous (OPUL)**
+  - Market Cap Rank: 809
+  - Price (BTC): 1.1389386167390366e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
+
+- **Vanar Chain (VANRY)**
+  - Market Cap Rank: 384
+  - Price (BTC): 1.4032521923411192e-06
+  - [More Info](https://www.coingecko.com/en/coins/vanar-chain)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.903871364695507e-05
+  - Price (BTC): 1.9184347098118647e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.2990319203068675e-05
+  - Price (BTC): 1.2996064920202375e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Spectral (SPEC)**
-  - Market Cap Rank: 336
-  - Price (BTC): 0.00017593268565624628
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.555352017620279e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Curve DAO (CRV)**
-  - Market Cap Rank: 152
-  - Price (BTC): 6.27293586361816e-06
-  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 35
+  - Price (BTC): 0.006842616521207674
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 349
+  - Price (BTC): 0.0001679533878247257
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03806316836342477
+  - Price (BTC): 0.037944951646219055
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Worldcoin (WLD)**
-  - Market Cap Rank: 65
-  - Price (BTC): 3.415944955244474e-05
-  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.00249629171102482
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 519
-  - Price (BTC): 0.00012596366990235
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 ## Posts
 - **Post ID: 1**
