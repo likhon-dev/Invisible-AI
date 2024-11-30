@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 11:07:38 UTC
+**Last updated:** 2024-11-30 12:17:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96277 USD
-  - Market Cap: $1903188538461.1284 USD
-  - 24h Volume: $74185221457.87608 USD
-  - 24h Change: -0.44595333321778685%
+- **Bitcoin (BTC)**: $96408 USD
+  - Market Cap: $1907697515686.1755 USD
+  - 24h Volume: $68006719935.81756 USD
+  - 24h Change: -1.111603640509748%
 
-- **Ethereum (ETH)**: $3649.41 USD
-  - Market Cap: $439041387913.2287 USD
-  - 24h Volume: $34984037426.54194 USD
-  - 24h Change: 1.9861918021998697%
+- **Ethereum (ETH)**: $3659.45 USD
+  - Market Cap: $440718717198.65405 USD
+  - 24h Volume: $34442978218.941635 USD
+  - 24h Change: 1.676728502425085%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 64
-  - Price (BTC): 7.588815392906252e-05
+  - Price (BTC): 7.731690575826325e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Propchain (PROPC)**
+  - Market Cap Rank: 990
+  - Price (BTC): 2.161924873582055e-05
+  - [More Info](https://www.coingecko.com/en/coins/propchain)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 786
+  - Price (BTC): 6.731387686039676e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 297
+  - Price (BTC): 4.4733854242747363e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 432
-  - Price (BTC): 2.348641906973235e-11
+  - Price (BTC): 2.3615142309242353e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 5
-  - Price (BTC): 1.9415191048985398e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.5242123237002865e-05
+  - Market Cap Rank: 86
+  - Price (BTC): 1.5937441413975562e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 182
+  - Price (BTC): 4.880471990903478e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Spectral (SPEC)**
   - Market Cap Rank: 333
-  - Price (BTC): 0.00018024132911852815
+  - Price (BTC): 0.00018210884528773984
   - [More Info](https://www.coingecko.com/en/coins/spectral)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 792
-  - Price (BTC): 6.611418462852147e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **Propchain (PROPC)**
-  - Market Cap Rank: 991
-  - Price (BTC): 2.1670413059548866e-05
-  - [More Info](https://www.coingecko.com/en/coins/propchain)
+- **XRP (XRP)**
+  - Market Cap Rank: 5
+  - Price (BTC): 1.961822630402253e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Artificial Superintelligence Alliance (FET)**
   - Market Cap Rank: 35
-  - Price (BTC): 1.8880471684793148e-05
+  - Price (BTC): 1.9060775613568245e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.383369411415899e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.5589288737792865e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 179
-  - Price (BTC): 4.910182887392837e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.2837759976555592e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Opulous (OPUL)**
+  - Market Cap Rank: 810
+  - Price (BTC): 1.1418972082603077e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03794958168580205
+  - Price (BTC): 0.03798676635488416
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Algorand (ALGO)**
-  - Market Cap Rank: 45
-  - Price (BTC): 4.409619806188732e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
+- **aixbt by Virtuals (AIXBT)**
+  - Market Cap Rank: 352
+  - Price (BTC): 2.3752879281535474e-06
+  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 146
-  - Price (BTC): 3.367130027353635e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Ethereum Name Service (ENS)**
+  - Market Cap Rank: 89
+  - Price (BTC): 0.000463528281863041
+  - [More Info](https://www.coingecko.com/en/coins/ethereum-name-service)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 75
+  - Price (BTC): 1.270333169833825e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
 - **Post ID: 1**
