@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 10:11:46 UTC
+**Last updated:** 2024-12-02 11:09:05 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95208 USD
-  - Market Cap: $1884769071145.7517 USD
-  - 24h Volume: $67064784755.102615 USD
-  - 24h Change: -1.7781795031068783%
+- **Bitcoin (BTC)**: $95026 USD
+  - Market Cap: $1881355781985.6099 USD
+  - 24h Volume: $71353645142.98248 USD
+  - 24h Change: -2.033496205432912%
 
-- **Ethereum (ETH)**: $3610.59 USD
-  - Market Cap: $435006267507.5478 USD
-  - 24h Volume: $39162513211.7421 USD
-  - 24h Change: -2.316025089748775%
+- **Ethereum (ETH)**: $3580.45 USD
+  - Market Cap: $431506507737.5635 USD
+  - 24h Volume: $38880749493.54767 USD
+  - 24h Change: -2.984874499587995%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 672
-  - Price (BTC): 8.351465120795074e-07
+  - Market Cap Rank: 675
+  - Price (BTC): 8.209476639616163e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 934
-  - Price (BTC): 1.3420121435849471e-06
-  - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.4466842655060152e-05
+  - Price (BTC): 2.3834908025981146e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.024701120054026e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.5752689555456115e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.3827645085219281e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 790
-  - Price (BTC): 6.36340730925974e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023806621632457056
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Vita Inu (VINU)**
   - Market Cap Rank: 900
-  - Price (BTC): 5.2449302504657e-13
+  - Price (BTC): 5.08834960886908e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
+- **bitsCrunch Token (BCUT)**
+  - Market Cap Rank: 882
+  - Price (BTC): 1.4424109417776638e-06
+  - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 59
+  - Price (BTC): 8.725616528694321e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 849
-  - Price (BTC): 5.681100538474441e-08
+  - Market Cap Rank: 859
+  - Price (BTC): 5.564937972755971e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.3742332608539008e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Shrub (SHRUB)**
+  - Market Cap Rank: 794
+  - Price (BTC): 6.274397836438707e-07
+  - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03791580899261607
+  - Price (BTC): 0.037692086690083074
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **FLOKI (FLOKI)**
-  - Market Cap Rank: 68
-  - Price (BTC): 2.3793886327237886e-09
-  - [More Info](https://www.coingecko.com/en/coins/floki)
+- **Chainlink (LINK)**
+  - Market Cap Rank: 19
+  - Price (BTC): 0.00020820006514561074
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 163
-  - Price (BTC): 7.027366649228543e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.8747932496357277e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.48281260510454e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 25
-  - Price (BTC): 2.1317344763648113e-10
+  - Price (BTC): 2.1061440929935952e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 42
+  - Price (BTC): 4.869074395751405e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 164
+  - Price (BTC): 6.988711479131602e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
