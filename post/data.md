@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 03:30:47 UTC
+**Last updated:** 2024-12-02 04:12:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97650 USD
-  - Market Cap: $1932588253019.7366 USD
-  - 24h Volume: $36684974259.42155 USD
-  - 24h Change: 1.654018281210689%
+- **Bitcoin (BTC)**: $96302 USD
+  - Market Cap: $1909496911194.8323 USD
+  - 24h Volume: $55945024500.754036 USD
+  - 24h Change: -0.026196751867488766%
 
-- **Ethereum (ETH)**: $3749.13 USD
-  - Market Cap: $451556145538.2265 USD
-  - 24h Volume: $29045018820.411987 USD
-  - 24h Change: 1.9238932076541255%
+- **Ethereum (ETH)**: $3679.02 USD
+  - Market Cap: $444218762453.11487 USD
+  - 24h Volume: $30680719861.693356 USD
+  - 24h Change: -0.7506246466950379%
 
 ## Trending Coins
-- **KANGO (KANGO)**
-  - Market Cap Rank: 983
-  - Price (BTC): 1.4311323957665057e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 690
+  - Price (BTC): 8.253714904059614e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.4699399834033082e-05
+  - Price (BTC): 2.5018834013732777e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 697
-  - Price (BTC): 8.011904436506306e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 808
+  - Price (BTC): 6.422460672838262e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 875
-  - Price (BTC): 5.658112129183686e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 61
+  - Price (BTC): 8.932152058847158e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 24
-  - Price (BTC): 2.4759224366946305e-06
+  - Price (BTC): 2.463715909465112e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 57
-  - Price (BTC): 9.654099473349679e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 809
-  - Price (BTC): 6.478013338946899e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 105
-  - Price (BTC): 1.3632185449883768e-05
+  - Price (BTC): 1.3367595649306315e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 15
-  - Price (BTC): 5.6712589828420235e-06
+  - Price (BTC): 5.6611819380039485e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 2.0623076524938066e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024020106538634165
+  - Price (BTC): 0.0023719511187643796
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.2004400648863466e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **KANGO (KANGO)**
+  - Market Cap Rank: 981
+  - Price (BTC): 1.4457799093294326e-09
+  - [More Info](https://www.coingecko.com/en/coins/kango)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 2.0486055654851135e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 0.0004939242181198907
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.038208918457753975
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.683074012363315e-06
+  - Price (BTC): 4.616433339987559e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.267033018743633e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Algorand (ALGO)**
-  - Market Cap Rank: 43
-  - Price (BTC): 4.995725235660427e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 8
-  - Price (BTC): 1.195507365033404e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
 - **Post ID: 1**
