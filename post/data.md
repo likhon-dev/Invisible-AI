@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 13:21:41 UTC
+**Last updated:** 2024-12-03 14:09:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94581 USD
-  - Market Cap: $1872506449113.2502 USD
-  - 24h Volume: $86705920200.87119 USD
-  - 24h Change: -1.1675454218290817%
+- **Bitcoin (BTC)**: $94247 USD
+  - Market Cap: $1862720175121.1978 USD
+  - 24h Volume: $88141698583.81982 USD
+  - 24h Change: -1.5721408534028714%
 
-- **Ethereum (ETH)**: $3594.14 USD
-  - Market Cap: $433076699279.45123 USD
-  - 24h Volume: $40523117117.70026 USD
-  - 24h Change: -0.6129217244676393%
+- **Ethereum (ETH)**: $3561.73 USD
+  - Market Cap: $428541522796.17865 USD
+  - 24h Volume: $39720665949.45544 USD
+  - 24h Change: -1.98225940326076%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 900
-  - Price (BTC): 5.505677784946459e-13
+  - Market Cap Rank: 905
+  - Price (BTC): 5.542088400001791e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.8470435475162536e-05
+  - Price (BTC): 2.6026918893880082e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Sun Token (SUN)**
-  - Market Cap Rank: 341
-  - Price (BTC): 2.737615617092206e-07
-  - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 66
-  - Price (BTC): 1.74923989842798e-05
+  - Price (BTC): 1.6513989556464778e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 653
-  - Price (BTC): 9.390364754204838e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+- **Sun Token (SUN)**
+  - Market Cap Rank: 344
+  - Price (BTC): 2.6516517522091033e-07
+  - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 202
-  - Price (BTC): 4.724367122267883e-11
+  - Price (BTC): 4.6754039745156484e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.6238683831177845e-06
+  - Market Cap Rank: 20
+  - Price (BTC): 3.384054607591901e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 141
-  - Price (BTC): 1.8317951444615185e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 662
+  - Price (BTC): 8.998768091980777e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 4.001820551859656e-05
+  - Market Cap Rank: 21
+  - Price (BTC): 3.86198801497409e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **IOTA (IOTA)**
-  - Market Cap Rank: 75
-  - Price (BTC): 5.879906448321581e-06
-  - [More Info](https://www.coingecko.com/en/coins/iota)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.6325091829724496e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Curve DAO (CRV)**
   - Market Cap Rank: 118
-  - Price (BTC): 9.977681950729198e-06
+  - Price (BTC): 9.674013309530367e-06
   - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 99
+  - Price (BTC): 1.551696831326497e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 136
+  - Price (BTC): 1.7710571460982893e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **IOTA (IOTA)**
+  - Market Cap Rank: 79
+  - Price (BTC): 5.312965026676714e-06
+  - [More Info](https://www.coingecko.com/en/coins/iota)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.2755844646891997e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 61
-  - Price (BTC): 9.234379776373885e-05
+  - Price (BTC): 9.3394128346704e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 826
-  - Price (BTC): 6.069188615562288e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 52
-  - Price (BTC): 1.3082041782110958e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.255646198282161e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
