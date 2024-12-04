@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 02:22:47 UTC
+**Last updated:** 2024-12-04 03:28:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95700 USD
-  - Market Cap: $1890189166945.7222 USD
-  - 24h Volume: $88716904858.44759 USD
-  - 24h Change: -0.07260458226359066%
+- **Bitcoin (BTC)**: $95823 USD
+  - Market Cap: $1894642320749.1785 USD
+  - 24h Volume: $92868280209.1538 USD
+  - 24h Change: -0.23318115688740668%
 
-- **Ethereum (ETH)**: $3649.89 USD
-  - Market Cap: $438868100407.72815 USD
-  - 24h Volume: $40555392034.50894 USD
-  - 24h Change: 0.5626345433138938%
+- **Ethereum (ETH)**: $3671.1 USD
+  - Market Cap: $441319531056.8035 USD
+  - 24h Volume: $43408932620.56997 USD
+  - 24h Change: 0.6896994158741163%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 566
-  - Price (BTC): 1.1938423124585168e-06
+  - Market Cap Rank: 577
+  - Price (BTC): 1.1790837884679532e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Sun Token (SUN)**
-  - Market Cap Rank: 283
-  - Price (BTC): 3.7381929961197447e-07
+  - Market Cap Rank: 284
+  - Price (BTC): 3.6621030682004287e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 916
-  - Price (BTC): 5.419554699071012e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00012192634820026574
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 3.996248522312864e-06
+  - Price (BTC): 3.924057059584232e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 775
-  - Price (BTC): 6.735859141058028e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 48
-  - Price (BTC): 0.00011583315235573462
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 930
+  - Price (BTC): 5.291301323180964e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.7536413999763134e-05
+  - Market Cap Rank: 65
+  - Price (BTC): 1.811909638132211e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 86
+  - Price (BTC): 1.8964403316826344e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.6482281626158637e-05
+  - Price (BTC): 2.657294434300928e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 90
-  - Price (BTC): 1.835547474945658e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 118
-  - Price (BTC): 2.262993215464864e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.409289998326872e-06
+  - Price (BTC): 3.418069376591402e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.038153149237605315
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 145
+  - Price (BTC): 2.4947284193642798e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002482485082530935
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 123
+  - Price (BTC): 2.174448061120824e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.151349380726366e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 780
+  - Price (BTC): 6.688382448056219e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BNB (BNB)**
   - Market Cap Rank: 6
-  - Price (BTC): 0.007933375269189583
+  - Price (BTC): 0.007815012269983924
   - [More Info](https://www.coingecko.com/en/coins/bnb)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.7784507583510104e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024786922804575233
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
