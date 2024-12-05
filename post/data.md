@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 00:51:13 UTC
+**Last updated:** 2024-12-05 02:23:04 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98473 USD
-  - Market Cap: $1948746606496.2727 USD
-  - 24h Volume: $100483681620.85454 USD
-  - 24h Change: 2.9458957198765487%
+- **Bitcoin (BTC)**: $98615 USD
+  - Market Cap: $1949027962922.6975 USD
+  - 24h Volume: $94721297339.40498 USD
+  - 24h Change: 3.1148098400438844%
 
-- **Ethereum (ETH)**: $3809.8 USD
-  - Market Cap: $458765902994.08734 USD
-  - 24h Volume: $60343136781.22682 USD
-  - 24h Change: 5.075337924564001%
+- **Ethereum (ETH)**: $3821.22 USD
+  - Market Cap: $459695327469.2517 USD
+  - 24h Volume: $57744089993.68903 USD
+  - 24h Change: 4.71994336870093%
 
 ## Trending Coins
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 849
-  - Price (BTC): 6.289651031929983e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 799
-  - Price (BTC): 6.380708113655315e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **Sui (SUI)**
+  - Market Cap Rank: 23
+  - Price (BTC): 3.680421275030503e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 557
-  - Price (BTC): 4.777942477211426e-07
+  - Market Cap Rank: 555
+  - Price (BTC): 4.743094134707325e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 47
-  - Price (BTC): 0.00011733003393485015
+  - Market Cap Rank: 50
+  - Price (BTC): 0.0001069710189848868
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.7506915920550804e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.3659212235621935e-05
+  - Price (BTC): 2.2781375823046157e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **Ondo (ONDO)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.7120991407059412e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.680960441992654e-05
+  - Market Cap Rank: 97
+  - Price (BTC): 1.617591777418783e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 847
+  - Price (BTC): 6.217695288534135e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0736037870001075e-06
+  - Price (BTC): 3.069253715911473e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.355500125565878e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 235
+  - Price (BTC): 4.963641481101194e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.1737237458618095e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023005582965617793
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 13
-  - Price (BTC): 3.24412255061939e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 28
+  - Price (BTC): 2.1012423173533677e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002305701745384919
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.212113310372945e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.00024169843140933964
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Turbo (TURBO)**
+  - Market Cap Rank: 199
+  - Price (BTC): 8.345032150598838e-08
+  - [More Info](https://www.coingecko.com/en/coins/turbo)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.737848336012206e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 135
+  - Price (BTC): 1.9565808918794062e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
 
 ## Posts
 - **Post ID: 1**
