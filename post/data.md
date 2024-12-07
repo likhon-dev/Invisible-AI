@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 17:08:10 UTC
+**Last updated:** 2024-12-07 18:12:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99666 USD
-  - Market Cap: $1973049246844.6965 USD
-  - 24h Volume: $80184203527.8441 USD
-  - 24h Change: 0.6379128660840733%
+- **Bitcoin (BTC)**: $99726 USD
+  - Market Cap: $1973481553632.1619 USD
+  - 24h Volume: $75488577938.36499 USD
+  - 24h Change: -1.7626092807721225%
 
-- **Ethereum (ETH)**: $3998.93 USD
-  - Market Cap: $481767361718.06537 USD
-  - 24h Volume: $31108338101.870354 USD
-  - 24h Change: -0.25110398460041533%
+- **Ethereum (ETH)**: $3998.58 USD
+  - Market Cap: $481237817090.9335 USD
+  - 24h Volume: $29440414435.824112 USD
+  - 24h Change: -1.000181344624328%
 
 ## Trending Coins
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 834
-  - Price (BTC): 6.871869975461805e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 685
-  - Price (BTC): 8.945285996284594e-07
+  - Market Cap Rank: 683
+  - Price (BTC): 9.031505021887129e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 832
+  - Price (BTC): 6.883257071569292e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
 - **Sun Token (SUN)**
-  - Market Cap Rank: 327
-  - Price (BTC): 3.1346439740065624e-07
+  - Market Cap Rank: 329
+  - Price (BTC): 3.098781171434949e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 241
-  - Price (BTC): 3.9679070549158564e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Wilder World (WILD)**
+  - Market Cap Rank: 374
+  - Price (BTC): 7.3591717697211e-06
+  - [More Info](https://www.coingecko.com/en/coins/wilder-world)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.433730763016877e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 4.293509595864203e-05
+  - Price (BTC): 4.245677511366771e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.3482331674047347e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 239
+  - Price (BTC): 4.0148118362226705e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 41
-  - Price (BTC): 0.0001445706767739037
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Wilder World (WILD)**
-  - Market Cap Rank: 379
-  - Price (BTC): 7.331014150536185e-06
-  - [More Info](https://www.coingecko.com/en/coins/wilder-world)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002425094425245105
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Baby Doge Coin (BABYDOGE)**
+  - Market Cap Rank: 180
+  - Price (BTC): 4.291555147182305e-14
+  - [More Info](https://www.coingecko.com/en/coins/baby-doge-coin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.577180223885326e-06
+  - Price (BTC): 4.5911119270051e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 101
-  - Price (BTC): 2.249323320678785e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Algorand (ALGO)**
+  - Market Cap Rank: 46
+  - Price (BTC): 4.980636913448573e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 51
-  - Price (BTC): 3.847192209955677e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **SuperVerse (SUPER)**
+  - Market Cap Rank: 155
+  - Price (BTC): 1.950537526544412e-05
+  - [More Info](https://www.coingecko.com/en/coins/superverse)
 
-- **Baby Doge Coin (BABYDOGE)**
-  - Market Cap Rank: 193
-  - Price (BTC): 4.004288713176067e-14
-  - [More Info](https://www.coingecko.com/en/coins/baby-doge-coin)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024179260251621926
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.685057873440686e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Turbo (TURBO)**
+  - Market Cap Rank: 166
+  - Price (BTC): 1.1150901871021059e-07
+  - [More Info](https://www.coingecko.com/en/coins/turbo)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.0002491902735967676
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.30252973762162e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 43
+  - Price (BTC): 0.00014012043441107534
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 ## Posts
 - **Post ID: 1**
